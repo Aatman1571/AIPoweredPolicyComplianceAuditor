@@ -1,0 +1,319 @@
+VENDOR MANAGEMENT  POLICY  
+ 
+ 
+ATG FORM 7050  
+© ATG ( 3/16)   
+Page 1 of 7 
+ 
+ 
+1. Introduction  
+Attorneys’ Title Guaranty Fund, Inc. and its employees and subsidiaries (“ ATG®”) rely on vendors to perform a range of services 
+and provide products for ATG and ATG members. Insurance industry regulations and business best  practices require that we 
+perform a risk assessment on our vendors and perform additional due diligence commensurate with the identified risk. Building  
+and sustaining effective, positive vendor rela tionships directly correlates with how we are able to serve our members and 
+Insureds , make the most of limited resources, minimize risk, keep a true regulatory course, enhance our standing in our 
+community, and protect the information and assets in our car e. 
+2. Purpose  
+The purpose of this policy is to provide a framework for managing the lifecycle of vendor relationships and provide context f or 
+ATG procedures that outline specific systems and guidelines for vendor management.  
+3. Scope  
+This policy applies to  all ATG business entities including  individuals, departments, and/ or subsidiaries that engage vendors as 
+defined in this document.  
+4. Definitions  
+The following definitions are provided for the purposes of this policy:  
+Vendor  
+A company or individual that p rovides a product or performs a service for ATG and also meets any of the following criteria:  
+- performs services at ATG facilities ( safety , insurance, or data security risk) ; 
+Examples : consultants who perform work onsite, auditors, equipment repair companies, gardeners, and deliveries 
+past the reception desk ( Deliveries to the reception desk are excluded .) 
+- has access to member or other sensitive data ( data security risk) ; or 
+Examples : some consultants, banking service providers, some software mainten ance vendors, auditors, and s canning 
+and shredding companies  
+- has a contractual commitment to ATG ( financial or member service risk ) 
+Examples: contracted maintenance services, major software vendors, and contracted supply companies  
+Vendor Risk Rating  
+A Low, Medium , or High  rating assigned as a result of the “ Vendor Risk Assessment ” that indicates the relative risk a vendor 
+represents to ATG.  
+5. Policy  
+It is the policy of ATG to effectively manage the lifecycle of all vendor relationships in order to respons ibly steward resources 
+and minimize the inherent risk associated with engaging third parties to perform services . 
+Vendor Management , as addressed by this policy consists of:  
+- Vendor Risk Assessment ; 
+- Vendor Due Diligence ; 
+- Contract Management ; and  
+- Vendor Supe rvision . 
+Appendix A - Implementation Guidelines  provide best practices for effectively implementing the Vendor Management Policy . 
+5.1. Vendor Risk Assessment  
+An initial risk analysis should be conducted for each potential vendor beginning with the Risk Exposure Questionnaire 
+located in Appendix A and then utilize those responses to complete the Risk Rating Matrix. The Vendor Risk Rating Matrix 
+will be used to a ssign a Vendor Risk Rating of Low, Medium, or High  risk. A vendor is assigned a risk rating based on the 
+ 
+ATG FORM 7050  
+© ATG ( 3/16)   
+Page 2 of 7 
+ 
+ highest risk level attributable to the contract, or sum of all contracts, with that vendor. Exceptions to the assigned risk r ating 
+may be granted as no ted by the Risk Rating Matrix.  
+The Rating is an indicator of the level of due diligence ATG requires for each vendor.  
+- Low risk vendors typically require little or no further analysis or due diligence.  
+- Medium risk vendors should be evaluated to determine th e appropriate level of due diligence required.  
+- High risk vendors require annual due diligence review.  
+VENDOR RISK RATING MATRIX  
+Criteria  Low Medium  High  Exceptions Granted By  
+Business Impact  Nominal business 
+impact  Significant but non-
+critical business 
+impact  Mission critical impact  President or  
+Senior Vice President  
+Member Contact  None  Indirect  Direct  Senior Vice President  
+Total Contract 
+Amount (including all 
+years of contract)  Less than $10,000  $10,000 to $50,000  Greater than $50,000  Senior Vice President  
+Contract term  One year or less  One to three years  Greater than three 
+years  Senior Vice President  
+Access to Non -
+Public Personal 
+Information  No access (except 
+unintentional)  Limited access on 
+need-to -know basis  Access allowed and 
+expected  Senior Vice President –  
+Information Services or 
+Privacy Officer  
+Safety of ATG 
+Employees, Guests, 
+and Vendors 
+(potential for injury 
+or illness  No potential  Low potential  High potential and 
+severity  Vice President –  Human 
+Resources or  
+Senior Vice President –  
+Operations  
+5.1.1.  Risk Reassessment  
+Risk assessments should be reviewed annually as part of contract renewal and anytime the relationship with the 
+vendor changes in any significant way.  
+5.1.2.  Department Vendor List  
+Each department will retain a complete vendor list, including low risk vendors, with the risk rating noted for each 
+vendor. This list shall be available for the Senior Vice President –  Operations to include in the annual report to the 
+Board of Directors.  
+5.1.3. Vendor Due Diligence  
+Due diligence requires a reasonable inquiry into a vendor’s ability to meet the requirements for the proposed service. 
+The degree of due diligence required in selecting a vendor will depend on the results of the initial Vendor Ri sk 
+Assessment. Due diligence for a low risk vendor may be nominal, while high risk vendors require more thorough 
+due diligence. All due diligence records performed in establishing the vendor relationship, including the Risk 
+Rating, should be kept by the Se nior Vice President –  Operations.  
+5.2. Contract Management  
+While acknowledging that even the most comprehensive agreement cannot replace the effectiveness of a relationship built on 
+trust, a clearly drafted and equitable contract will protect ATG and provide a structure for expectations and issue resolution. The level of detail and relative importance of contract provisions varies with the scope and risks of the services and products 
+provided.  
+5.2.1.  Contract Negotiation 
+Vendor negotiations should be delegated only to qualified staff with proven skills appropriate to the level of risk 
+represented by the vendor relationship.  
+ 
+ATG FORM 7050  
+© ATG ( 3/16)   
+Page 3 of 7 
+ 
+ Medium or High risk, complex, or unusual contracts should be considered for review by the following designees, as 
+appropriate to th e scope and type of contract:  
+- Legal Counsel  
+- Senior Vice President –  Operations  
+- Senior Vice President –  Information Services (required for all contract negotiations related to software hardware 
+and Information Systems)  
+- Vice President –  Human Resources  
+5.2.2 . Contract Language  
+Contract language should be reviewed to ensure that the agreement or contract meets regulatory requirements and 
+does not expose ATG to unnecessary risk.  
+5.2.3.  Contract Approval and Renewal  
+Senior Vice Presidents are responsible for the contracts executed by their staff. Medium and High Risk vendor 
+contracts, including renewals, are to be executed by a Senior Vice President.  
+5.2.4.  Contract Cancellation 
+Cancellation of a contract must follow agreed upon cont ract language and be executed at the same or higher level of 
+the organization as the original contract execution.  
+5.2.5.  Contract File Retention  
+Vendor contract files will be stored for ten years after contract expiration or termination.  
+5.3. Vendor Supervision  
+Each vendor will be assi gned a Vendor Relationship Manager who will complete the vendor risk analysis  and vendor due 
+diligence review, maintain vendor files, and act as vendor liaison.  
+The Senior Vice President –  Operations, as part of the Security Program Report, will provide an  annual status report of 
+Medium and High risk vendors to the Board of Directors.  
+6. Responsibility  
+6.1. Senior Management is responsible for implementing, maintaining, and enforcing this policy.  
+6.2. The Senior Vice President of Operations is responsible f or: 
+- approving Medium and High Risk vendor contracts ; 
+- appointing Vendor Relationship Managers for all department vendors ; and  
+- ensuring Vendor Relationship Managers comply with this policy . 
+6.3. Vendor Relationship Managers are responsible for:  
+- completing a Vendor Risk Assessment ; 
+- completing a Vendor due diligence review ; 
+- maintaining vendor files ; and  
+- effectively acting as vendor liaison.  
+   
+ 
+ATG FORM 7050  
+© ATG ( 3/16)   
+Page 4 of 7 
+ 
+ APPENDIX A  
+IMPLEMENTATION GUIDELINES  
+The following guidelines provide an effective method for implementing the Vendor Management Policy and are employed as directed 
+by the Senior Vice President of Operations.  
+1. Completing a Vendor Risk Assessment  
+- Review the substantive risk exposure to ATG if the product or service fails or is inadequately performed.  
+Risk Exposure Category  Considerations  
+Regulatory  Can the vendor create regulatory risk for ATG? 
+Reputational  Can the vendor impact ATG’s reputation?  
+Financial  Can the vendor impact ATG or its members financially?  
+Does ATG or the vendor have insurance that will allow ATG to transfer some of the risk?  
+Sensitive Data Access  To what extent will the vendor have access to sensitive ATG data?  
+Operational Effectiveness  How would the vendor’s failure impact ATG’s business needs and strategic objectives?  
+Could ATG perform the critical functions provided by the vendor if the vendor failed to 
+perform?  
+Are there other potential vendors that could readily assume service should the current 
+provider fail?  
+Can ATG provide adequate oversight of the vendor’s function? 
+Can the vendor create risk to ATG’s processes, people, or systems?  
+Would ATG be considered the “Controlling Employer” for this vendor?  
+Would ATG be placed in a position of “Joint Employer’s Liability” for this vendor?  
+(The terms “Controlling Employer” and “Joint Employer ’s Liability” usually apply to staff employed by 
+an outside company, such as a staffing agency, but whose workplace activities are directed by ATG. 
+Direct questions regarding these designations to the Vice President – Human Resources.)  
+- Assign a Vendor Ris k Rating using the Vendor Risk Rating Matrix in the Vendor Management Policy, section 5.1.  
+2. Completing a Due Diligence Analysis  
+2.1. Review the following, as appropriate, based upon the Vendor Risk Rating and the type of risk exposure created by 
+this vendor relationship:  
+- SAS-70s or audit reports ; 
+- industry expertise ; 
+- return on investment;  
+- background check, including client references and independent sources ; 
+- staffing experience and expertise;  
+- internal controls ; 
+- financial condition and annual reports ; 
+- insurance coverage ; 
+- privacy policy review ; and  
+- on-site visits . 
+2.2. Record and retain the analysis with the Relationship Manager Records.  
+3. Managing the Contract  
+3.1. Vendor relationship documentation varies with the scope and risks of the services and products provided. The process 
+includes:  
+- negotiating the contract;  
+- reviewing the contract language;  
+ 
+ATG FORM 7050  
+© ATG ( 3/16)   
+Page 5 of 7 
+ 
+ - approving and renewing the contract;  
+- canceling the contract; and  
+- retaining contract files.  
+3.2. Negotiating Contracts  
+This process is completed by qualified  staff with proven skills appropriate to the level of risk represented by the vendor 
+relationship.  
+3.2.1.  Review each contract from four perspectives:  
+Perspective  Consideration  
+Legal  Are ATG’s interests adequately protected if a problem arises with this vendor?  
+Financial  Does the agreement reasonably assure that ATG’s investment in this relationship will deliver 
+the desired benefits without exposing ATG to unacceptable financial risks?  
+Operational  Are the terms of the agreement operationally feasible for ATG, including:  
+- Timing considerations  
+- Service levels  
+- ATG performance commitments  
+- Technology compatibility  
+- Human safety  
+Risk Management  Are the terms of the agreement acceptable in light of regulatory, financial, operational, and 
+reputational risks?  
+3.2.2.  Complete the levels of review as directed in Section 5.1 of the Vendor Management Policy.  
+3.2.3.  Maintain multiple vendor candidates for as long as possible to enter the negotiation stage with important leverage. 
+The possibility that ATG could selec t an alternate vendor may prove invaluable to obtaining the vendor’s agreement 
+to important contract provisions.  
+3.2.4.  Record negotiations and contact between a potential vendor and the ATG using the Microsoft Word’s Track 
+Changes, or other tools.  
+3.2.5.  Retain the negotiation records in the Vendor Relationship Manager’s files for the life of the contract  
+3.3. Evaluating Contract Language  
+3.3.1.  Verify that the language in the agreement or contract meets regulatory requirements and does not expose ATG to 
+unnecessary risk.  
+3.3.2.  Verify that the essential components of the agreement include:  
+- performance standards, expectations, and responsibilities ; 
+- fees and payment terms ; 
+- term length;  
+- termination provisions ; and  
+- insurance Requirements . 
+3.3.3.  Evaluate the a greement for what it does not state, as well as for what it does state.  
+3.3.4.  Verify that the vendor’s standard agreement includes all the necessary clauses.  
+3.3.5.  Consider the appropriateness of the following clauses:  
+- definitions;  
+- scope of work;  
+- process  for changing scope of work;  
+- installation and training requirements;  
+- ownership of any work product or intellectual property;  
+ 
+ATG FORM 7050  
+© ATG ( 3/16)   
+Page 6 of 7 
+ 
+ - acknowledgement that the vendor is subject to regulatory review;  
+- privacy and information security;  
+- confidentiality agreement;  
+- limitations of liability;  
+- indemnity;  
+- warranties;  
+- dispute resolution provisions;  
+- choice of law;  
+- choice of venue;  
+- service level agreement, including;  
+- acceptable range of service quality and applicable timeframes;  
+- definition of what is being measured;  
+- formula for calculating the measurement;  
+- mechanism for ongoing monitoring, and supervision;  
+- type and timing of reporting on the status of performance; and 
+- penalties or credits for meeting, exceeding, or failing to meet targets;  
+3.4. Approving Contracts  
+3.4.1.  Execute the contract with the appropriate level of approval as outlined in section 5.2.3 of the Vendor Management 
+Policy.  
+3.4.2.  When a contract is due for renewal, complete the following:  
+3.4.2.1.  Review and update the Vendor Risk Rating.  
+3.4.2.2.  Review and upda te the Vendor Due Diligence Report.  
+3.4.2.3.  Review contract terms.  
+3.5. Canceling Contracts  
+When canceling a contract:  
+3.5.1.  Follow agreed upon contract language.  
+3.5.2.  Execute at the same or higher level of the organization as the original contract execution.  
+3.6. Retaining Contract Files  
+Complete the following based upon file type:  
+File Type  Action  
+Department Vendor List  Maintain a complete list of department vendors with the risk rating noted for each vendor . 
+Original Vendor Contract File  Retain the originals of all contracts, agreements, and other essential documentation of the 
+vendor relationship in the centralized file location for ten years after contract expiration.  
+Working Vendor Contract File  Retain copies of all contracts, agreements, and other essential documentation in the 
+Vendor Relationship Manager’s working files along with the negotiation records.  
+4. Supervising Vendors  
+The Vendor Relationship Manager completes the following:  
+4.1. Assigns Vendor Risk Rating using the Vendor Risk Rating Matrix . 
+4.2. Completes Vendor Due Diligence Analysis, as appropriate for the risk rating.  
+4.3. Completes periodic due diligence review (at least annually for High risk vendors) . 
+ 
+ATG FORM 7050  
+© ATG ( 3/16)   
+Page 7 of 7 
+ 
+ 4.4. Coordinates and documents ongoing vendor communication.  
+4.5. Maint ains vendor files.  
+4.6. Compiles and maintains vendor information, including:  
+4.6.1.  vendor name and contact information;  
+4.6.2.  service or product provided;  
+4.6.3.  risk rating;  
+4.6.4.  contract expiration;  
+4.6.5.  renewal dates and terms;  
+4.6.6.  regulatory requirements;  
+4.6.7.  insurance requirements;  
+4.6.8.  required vendor reports;  
+4.6.9.  dates of last review and next review;  
+4.6.10.  triggers for annual and interim reviews ; 
+4.6.11.  contract amount; and  
+4.6.12.  number of licenses, if applicable.  
+4.7. Monitors  vendor compliance to contract terms.  
+4.8. Coordinates contract renewal with appropriate contract approver.  
+4.9. Coordinates contract cancellation.  
+5. Responsibility  
+5.1. Each Vice President is responsible for implementing these guidelines as appropriate to the department.  
+5.2. The Vendor Relationship Manager is responsible for following the implementation guidelines as directed by the department 
+Senior Vice President.

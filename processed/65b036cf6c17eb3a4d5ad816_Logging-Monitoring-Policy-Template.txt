@@ -1,0 +1,73 @@
+1.	Overview	1
+2.	Purpose	1
+3.	Scope	2
+4.	Policy	2
+4.1	General Logging Requirements	2
+4.2	Activities to be Logged	2
+4.3	Elements of the Log	3
+4.4	Formatting and Storage	3
+5.	Policy Compliance	4
+5.1	Compliance Measurement	4
+5.2	Exceptions	4
+5.3	Non-Compliance	4
+6.	Related Standards, Policies, and Processes	4
+7.	Definitions and Terms	4
+Overview
+Logging from critical systems, applications, and services can provide key information and potential indicators of compromise. Although logging information may not be viewed on a daily basis, it is critical to have from a forensics standpoint. 
+Purpose
+The purpose of this document attempts to address this issue by identifying specific requirements that information systems must meet in order to generate appropriate audit logs and integrate with the enterprise’s log management function. 
+Scope
+This policy applies to all production systems on <Company>’s network. 
+Policy
+General Logging Requirements
+All systems that handle confidential information, accept network connections, or make access control (authentication and authorization) decisions shall record and retain audit-logging information that includes the following data attributes:
+Activity performed
+User that performed the activity 
+System the activity was performed on
+Date and time the activity was performed
+What tool(s) the activity was performed with
+Status of the activity (success vs. failure), outcome, or result
+Activities to be Logged
+The logs shall be created whenever any of the following activities are requested to be performed by production systems on the network: 
+Create, read, update, or delete confidential information, including confidential authentication information such as passwords
+Create, update, or delete information not covered in #1
+Initiation of network connections
+Accepted network connections 
+User authentication and authorization for activities covered in #1 and #2 such as user login and logout
+Grant, modify, or revoke access rights, including adding a new user or group, changing user privilege levels, changing file permissions, changing database object permissions, changing firewall rules, and user password changes
+System, network, or services configuration changes, including installation of software patches and updates, or other installed software changes 
+Application process startup, shutdown, or restart
+Application process abort, failure, or abnormal end, especially due to resource exhaustion or reaching a resource limit or threshold (such as for CPU, memory, network connections, network bandwidth, disk space, or other resources), the failure of network services such as DHCP or DNS, or hardware fault
+Detection of suspicious/malicious activity such as from an Intrusion Detection or Prevention System (IPS/IDS), anti-virus system, or anti-spyware system. 
+Elements of the Log
+Such logs shall identify or contain at least the following elements, directly or indirectly. In this context, the term “indirectly” means unambiguously inferred. 
+Type of action – examples include authorize, create, read, update, delete, and accept network connection. 
+Subsystem performing the action – examples include process or transaction name, process or transaction identifier. 
+Identifiers (as many as available) for the subject requesting the action – examples include user name, computer name, IP address, and MAC address. Note that such identifiers should be standardized in order to facilitate log correlation.
+Identifiers (as many as available) for the object the action was performed on – examples include file names accessed, unique identifiers of records accessed in a database, query parameters used to determine records accessed in a database, computer name, IP address, and MAC address. Note that such identifiers should be standardized in order to facilitate log correlation. 
+Before and after values when action involves updating a data element, if feasible.
+Date and time the action was performed, including relevant time-zone information if not in Coordinated Universal Time.
+Whether the action was allowed or denied by access-control mechanisms.
+Description and/or reason-codes of why the action was denied by the access-control mechanism, if applicable.
+Formatting and Storage
+The system shall support the formatting and storage of audit logs in such a way as to ensure the integrity of the logs and to support enterprise-level analysis and reporting. Note that the construction of an actual enterprise-level log management mechanism is outside the scope of this document. Mechanisms known to support these goals include but are not limited to the following: 
+Microsoft Windows Event Logs collected by a centralized log management system
+Logs in a well-documented format sent via syslog, syslog-ng, or syslog-reliable network protocols to a centralized log management system
+Logs stored in an ANSI-SQL database that itself generates audit logs in compliance with the requirements of this document
+Other open logging mechanisms supporting the above requirements including those based on CheckPoint OpSec, ArcSight CEF, and IDMEF. 
+Policy Compliance 
+Compliance Measurement
+The Information Security Team will verify compliance to this policy through various methods, including but not limited to periodic walkthroughs, video monitoring, business tool reports (e.g. SIEM tools), internal and external audits, and feedback to the policy owner(s). 
+Exceptions
+Any exception to the policy must be approved by the Information Security Team in advance.
+Non-Compliance
+An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment. 
+Related Standards, Policies, and Processes
+Data Classification Policy
+Asset Management Policy
+Change Management Policy
+Configuration Management Policy
+Risk Assessment Policy
+Anti-Malware Policy
+Definitions and Terms
+The following definitions are not all-inclusive and should be updated as new information is made available:

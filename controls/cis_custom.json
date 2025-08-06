@@ -1,0 +1,58 @@
+[
+  {
+    "id": "4.1",
+    "text": "Require multi-factor authentication (MFA) for all administrative and privileged accounts in alignment with the Access Control Policy."
+  },
+  {
+    "id": "4.2",
+    "text": "Users must keep passwords secure and must not share accounts as required in the Acceptable Use Policy."
+  },
+  {
+    "id": "4.3",
+    "text": "Authentication mechanisms, including multi-factor authentication if applicable, must be followed according to the Acceptable Use Policy."
+  },
+  {
+    "id": "7.1",
+    "text": "Perform regular vulnerability scans and remediate findings in accordance with the Information Security Policy."
+  },
+  {
+    "id": "7.2",
+    "text": "Ensure all security patches are applied within defined timelines per the Information Security Policy."
+  },
+  {
+    "id": "16.1",
+    "text": "Maintain an incident reporting process for all staff, aligned with the Incident Response Policy, including escalation procedures."
+  },
+  {
+    "id": "16.2",
+    "text": "Conduct regular incident response exercises to validate the effectiveness of the Incident Response Policy."
+  },
+  {
+    "id": "17.1",
+    "text": "Users must be informed of security requirements and responsibilities for handling information as outlined in the Acceptable Use Policy."
+  },
+  {
+    "id": "17.2",
+    "text": "Track and document employee participation in security training programs to ensure compliance with the Information Security Policy."
+  },
+  {
+    "id": "13.4",
+    "text": "Sensitive information such as NCIC data must be encrypted and protected from unauthorized access as stated in the Acceptable Use Policy."
+  },
+  {
+    "id": "5.1",
+    "text": "Limit administrative privileges to authorized personnel and review them regularly as defined in the Access Control Policy."
+  },
+  {
+    "id": "5.2",
+    "text": "Ensure the use of separate accounts for administrative and non-administrative tasks as outlined in the Access Control Policy."
+  },
+  {
+    "id": "5.29",
+    "text": "Information security must be maintained during network disruptions or security incidents, in alignment with the Acceptable Use Policy."
+  },
+  {
+    "id": "8.2.1",
+    "text": "Information must be labeled and classified (Confidential, Internal, Public) according to the organization's Information Classification Policy referenced in the Acceptable Use Policy."
+  }
+]

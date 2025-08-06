@@ -1,0 +1,598 @@
+Updated April 30, 2020   
+ 
+ 
+ 
+Business Continuity  
+Planning Guidelines  
+for School Districts  &  
+Independent School Auth orities  
+ 
+ 
+ 
+ 
+ 
+ 
+Business Continuity Management Program  
+Ministry of Education , British Columbia   
+ 
+
+ 
+ 
+ 
+Updated Apr 30, 2020  2 Overview  
+ 
+ Introduction  
+3 What is a Business Continuity Plan  (BCP)  
+4 What should be included in an organization’s  BCP  
+5 These guidelines are provided to support resilience during COVID -19 
+6 Incorporate strategies from the Integrated Planning Framework (IPF)  
+7 How to use these guidelines to develop a BCP  
+8 Coordinatio n is required to develop and implement a BCP  
+  
+ Determine Priorities  
+9 The BCP  focuses  planning  efforts  on “critical  services ” 
+9 Department staff will outline  services required during COVID -19 
+10 Each service will be assigned  a Recovery Time Objective  (RTO)  
+11 Priorities should  be approved by departments and the organization  
+  
+ Document Services  
+12 Once priorities are approved, create supporting documentation  
+13 Define a required minimum level for each service  
+13 Document recovery procedures and considerations  
+13 Document  operating  requirements  and interdependencies  
+14 An example may be provided to support consistent documentation  
+15 Plans should  be reviewed by BCP leads for completeness  
+  
+ Develop Strategies  
+16 Develop continuity strategie s for the organization  
+17 Select strategies  based on their cost and suitability  
+17 Acquire tools and form agreements to enable strategie s 
+  
+ Prepare  for Activations  
+18 Develop a Communications Plan to ensure coordination during activation  
+19 Provide Training and Awareness for all staff  
+20 Conduct Tabletop Exercises for the plan to identify gaps and increase staff readiness  
+  
+ Activations & Resources  
+21 Additional planning  and implementation  resources  will be provided  
+22 Glossary of terms used in this document and associated templates  
+ 
+ 
+ 
+Updated Apr 30, 2020  3 Introduction  
+What is a Business Continuity Plan (BCP)  
+A Business Continuity Plan (BCP) outline s how critical  services  will be performed   
+when a business disruption  prevents  business -as-usual . 
+ 
+Critical Services  Serv ices that, if not performed, may result in  unacceptable  outcome s. 
+Business disruption  Operating requirements become  unavailable  to one or more services.  
+Business -as-usual  Standard  proce dures  for performing services.  
+ 
+BCPs safeguard critical services, wh ich mitigates risks (safety, assets, liabilities), and enables an 
+organization to take control of a situation and resume services during a business disruption.  
+ 
+\ 
+ 
+ 
+ 
+ 
+Business Continuity Plans provide information and strategies to resume services using a lternative 
+procedures or resources.  The BCP acts  as a roadmap  after a business disruption by identifying 
+priorities and outlining  how, who, and what is required to restore  critical services.  
+ 
+It is significantly easier to prepare continuity options befor e a business disruption occurs. During a 
+business disruption, key staff may be unavailable, and it may not be possible to acquire the 
+resources required to overcome a business disruption in a timely manner.   
+A business disruption may be limited to a single service or impact the whole organization.  
+• Loss  of staff – employees required knowledge or capacity are unavail able.  
+• Loss of technology – specific tool or computer application are unavailable.  
+• Loss of dependency – specific services providers (internal or external) are unavailable.  
+• Loss of worksite – required worksite and co -located resources are unavailable.  
+ 
+ 
+ 
+Updated Apr 30, 2020  4 What should be included in an organization’s  BCP  
+A Business Continuity Plan enables an effective and timely  response to business disruption s: 
+1. What services  must be performed?  ✓ What level of service is req uired?  
+✓ When  do the services need to be performed ? 
+✓ What impacts  must be avoided?  
+2. How  are those servi ces performed?  ✓ What resources  are required  to perform services ? 
+✓ What strategies  are available to support recovery ? 
+✓ Who  is required to perform those services?  
+3. How  will the plan be implemented?  ✓ Who is responsible  for implementing the plan?  
+✓ How will commun ications  occur?  
+✓ What happens after  the plan is implemented?  
+ 
+ 
+Below is a table of contents for a BCP:  
+ 
+SECTION 1: OVERVIEW  ................................ ................................ ................................ ................................ ............................  4 
+SECTION 2: EVENT RESPONSE  ................................ ................................ ................................ ................................ .............  8 
+SECTION 3: DEPARTMENT  PLANS  ................................ ................................ ................................ ................................ .. 12 
+SECTION 4: CONTINUITY STRATEGIES  ................................ ................................ ................................ .........................  24 
+APPENDIX A – CONTACT LISTS  ................................ ................................ ................................ ................................ .........  27 
+APPENDIX B – INITIAL RESPONSE PHASE  ................................ ................................ ................................ ..................  31 
+APPENDIX C – ACTIVATION PHASE  ................................ ................................ ................................ ...............................  32 
+APPENDIX D – OPERATIONAL PHASE  ................................ ................................ ................................ ..........................  35 
+APPENDIX E – DEACTIVATION PHASE  ................................ ................................ ................................ .........................  37 
+APPENDIX F – BUSINESS CONTINUITY FORMS  ................................ ................................ ................................ ...... 41 
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  5 These guidelines are provided to support resilience during COVID -19 
+These guidelines and templates are designed  to support school districts  and independent school 
+authorities  that do not yet have a robust Business Continuity Plan . As a result of following these 
+guidelines  and templates,  school districts /authorities  will have a BCP that is streamlined to 
+document crit ical services  to ensure their availability, a nd capacity to overcome unexpected 
+challenges, during the COVID -19 pandemic.  
+ 
+Business Impact Analysis (BIA)  templates will assist staff to  identify  and document  information 
+required to plan for an event . As a r esult, critical services will be identified.  
+ 
+Business Continuity Plan (BCP)  templates will assist the organization to document and prepare 
+response activities before an event occurs. As a result, services will be documented.  
+ 
+To continue planning for COVI D-19, BCP Strategies (see Develop  Strategies ) should be specific to 
+mitigating relevant risks, such as temporary loss of staff or worksite. As your BCP outlines 
+procedures for delivering all critical services, additional organization -wide strategies can be  
+developed and implemented to sup port cross -training and resources for alternate staff.  
+ 
+Templates :  
+Business Impact Analysis (BIA)  
+Business Continuity Plan (BCP) – Section 3 Department  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This page will be updated with additional templates to support planning.  
+Additional templates and BCP documentation will be linked on this page to support plan 
+development, preparedness, and imple mentation. This document may have been  updated  
+since the date listed in the  footer  - if this document was not recently downloaded, please 
+download t he latest version of  the Busin ess Continuity Planning Guidelines . 
+ 
+ 
+ 
+ 
+ 
+Updated Apr 30, 2020  6 Incorporate strategies from the Integrated Planning Framework  (IPF)  
+These guidelines prescribe a generic process for planning for busi ness disruptions. Although this 
+process is streamlined for services required during COVID -19, it should be assumed  that additional 
+services (beyond those outlined in the IPF) will be identified during the BIA  process.  
+This document supplements, but does no t substitute for, direction provided in the Integrated 
+Planning  Framework  (IPF) and Continuity of Learning Planning Guide for Teachers . 
+ 
+Services  outlined  in the IPF can  be incorporated in your BCP by ensuring:  
+• IPF services and the ir interdependencies are identified as  “critical services”   
+• New processes for IPF services are incorporated in your BCP’s critical service procedures  
+• Organization -wide strategies to support remote work are documented as BCP strategies  
+ 
+ 
+ 
+ 
+  Refer to the Inte grated Planning Framework  for program -specific strategies.  
+ 
+ 
+ 
+Updated Apr 30, 2020  7 How to use these guidelines to develop a BCP  
+Followi ng these guidelines as a checklist will result in a plan  for all critical services in each 
+department , general continuity  strategies , and a proces s to implement and manage priorities.  
+ 
+Legend  □ Action  
+• Consideration  
+ 
+This process  seeks  to identify, document,  strategize, and prepare for business disruptions.  
+ 
+Business Continuity Planning can be  constrained by several factors:  
+Risk  Mitigation  
+• Lack of buy -in from program area staff . □ Assign senior  lead to establish priority.  
+• Inadequate assessment or planning.  □ Provide general  awareness for all staff . 
+• Planning is limited to a single program  area.  □ Designate a “BCP coordinator” to manage and 
+support  the overall planning process.  
+• Delays, duplication  and inefficiencies . □ Designate “BCP Leads” for departments and lin es 
+of service to coordinate staff  planning.  
+ 
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  8 Coordination is required to develop and implement a BCP  
+All contributing staff are responsible for their part of the BCP. When activated, the BCP supports 
+the organization to continue service – despite advers e and limiting conditions.   
+A top -down management structure is required to coordinate the development of a BCP . 
+ 
+ Executive Lead  
+□ Champion the BCP – why do we need it, what are staff roles, planning timelines  
+□ Communicate roles/responsibilities to all staff  supports increases participation.  
+□ Assign planning roles and responsibilities to staff  
+□ Approve timelines for assignments  
+□ Approve priorities after the assessment occurs  
+□ Approve strategies and risk mitigations  
+□ During implementation, priorities may be fluid; decision making system required to 
+coordinate activities and recovery, to meet objectives and reduce impact  
+ 
+BCP Coordinator  
+□ Report to the Executive Lead  and provide regular u pdates  
+□ Develop , implement and monitor a project plan to develop the organization ’s BCP  
+□ Develop/distribute planning assignments to Department BCP leads  
+□ Roll-up priorities and BCP documentation from Department BCP leads  
+□ Identify key risks and support the org anization to develop continuity strategies  
+□ Develop training materials that can b e circulated to all staff  
+□ Develop exercise materials for Department and Service BCP Leads  
+ 
+Department BCP Leads  
+□ Complete tasks assigned by BCP Coordinator  
+□ Assign planning task s to program areas with critical services  
+□ Roll-up priorities and BCP documentati on from Service BCP leads  
+ 
+Program Area BCP Leads  
+□ Complete tasks assigned by your Department BCP Lead  
+□ Assign critical service staff to outline procedures and requirements  
+□ Complete exercise assignments, when assigned by the Department BCP lead  
+  
+ In order for a BCP to enable the organization to successfully overcome an unexpected 
+business disruption to any critical service , all departments must contribute to the plan.  
+
+ 
+ 
+ 
+Updated Apr 30, 2020  9 Determine  Priorities  
+The BCP focuses planning efforts on “critical services”  
+• To determine priorities, an assessment of all services is required  
+• Staff will be assigned to identify and assess the disruption impact for their services  
+• Identify services that ar e operati ng, or may be required, during the pandemic only  
+•  “Critical services” are services that must be recovered within 15 days of a disruption  
+• Review and sign -off/approval of RTOs is  required by Department and Executive leads  
+Department staff will outl ine servi ces required during COVID -19 
+Using the BIA template , staff will identify  all services r equired d uring COVID -19: 
+□ The BCP Coordinator should oversee the organization’s BIA process  
+□ Circulate the BIA template (or a SharePoint version) to each Department BCP lead  
+□ Request Department BCP leads assign staff to complete the BIA template  
+□ Only list department s ervices that are or may be required during COVID -19 
+ 
+Business Impact Analysis (BIA) template:  
+ 
+Term  Description  Example  
+Business Function  Program  Area of a Department  Financial Services  
+Sub-Function  A service  that the Program Area provides  Payroll  
+Supp orting Process  A description of how the service is performed  Timesheets  are 
+entered /approved  
+Impact Description  What might happen if the delay were longer?  Staff pay may be  
+delayed  
+Time Sensitivity  Would impact s only occur at certain times?  1st/3rd Tuesd ay 
+Recovery Time Objective  
+(RTO)  How many days can the service be delayed?  2 business days  
+
+ 
+ 
+ 
+Updated Apr 30, 2020  10 Each service will be assigned  a Recovery Time Objective  (RTO)  
+Recovery Time Objective: The amount of time that a service can be delayed  
+before a n unacceptable outcome may  occur.  
+ 
+Recovery Time Objectives  
+ 
+Examples of impacts resulting from business disruptions  for up to 15 days:  
+ 
+• “Recovery Time Objective” is when a service must be resumed to prevent major impacts  
+• Potential impacts range from life -safety to mild in convenience.  
+• What kind of impacts the BCP will mitigate should be communicated to staff.  
+• Establishing a threshold for planning (eg. 15 days) determines what services to plan for  
+• All services, including low priority (e.g. 30 days RTO) must be identified/ass essed  
+□ Executive and department leads define criteria for “unacceptable” impacts.  
+□ Program Area BCP leads will assign staff to list services required during COVID -19. 
+□ Staff will de scribe “unacceptable” impacts of not performing the function for 15 days.  
+□ Staff will also assign an RTO  – as a maximum allowable downtime – for each service.  
+□ Staff should request assistance during the BIA process if they are unclear of the process.  
+  
+
+ 
+ 
+ 
+Updated Apr 30, 2020  11 Prior ities should  be approved by departments and the organization  
+• A sign-off proces s ensures priorities are centrally organized and directed   
+• During sign -off, critically consider whether impacts are/not acceptable.  
+• Unacceptable impacts should be mitigated by an appropriate RTO.  
+• The BCP Coordinator will support the sign -off and transitio n to developing plans  
+□ Department BCP will review/approved B IA results before returning them  
+□ BCP Coordinator will combined BIA results for review/approval by the Executive Lead  
+□ BCP Coordinator will roll -up services that have an RTO of up to 15 days  (critica l services)  
+ 
+Business Impact Analysis  
+✓ Services reflect  to individual functions of the Program  Area  
+✓ Description (Supporting Process) and Time Sensitivity  
+✓ Impact Description  
+✓ RTO reflects th e organization’s tolerance for the Impact Description  
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  12 Document Se rvices  
+Once priorities are approved, create supp orting documentation  
+• Departments will complete  a BCP S ection 3 Department  template  
+□ BCP Coordinator will provide a list of approved priorities to each Department BCP lead  
+□ BCP Coordinator will provide a BCP S ection 3 template  to D epartment BCP leads  
+□ Department BCP leads will assign priorities and a template to Program  Area BCP leads  
+□ Program  Area BCP leads will task appropriate staff to complete  template  documentation  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  13 Define a required minimum level for e ach service  
+□ Staff should describe the re quired level of service (e.g. “emergency requests only”  
+• To avoid the impact, only a “reduced level of service” may be required  
+• In some cases, a “regular level of service” may be required to avoid the impact  
+ 
+ 
+Documen t recovery procedures and key considerations  
+□ Staff will document the procedure to perform the service  
+□ Staff may be able to propose an alternate procedure  
+□ Staff may advise additional considerations when recovering this service  
+• Procedures should provide adeq uate detail; they may be implemented by other staff  
+• Procedures may identify additional resource requirements  
+• Singe points of failure are steps in a process that do not have work -arounds  
+ 
+ 
+Document  operating  requirements and interdependencies  
+□ For each servi ce, staff completing docu mentation will list resource  requirements  
+□ Staff (names and positions)  
+□ Worksite  
+□ Workspace Type  
+□ Connectivity  
+□ Technology (hardware/software)  
+□ Databases  
+□ Vital Records, Procedure Manuals, or Other Documents…  
+□ Other equipment  
+□ Internal de pendencies  
+□ External dependencies  
+□ If known , staff should identify alternatives, redu cing future planning  needs   
+ 
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  14 An example may be provided to support consistent documentation  
+Below is an example of documentation for a critical service  
+  
+5 days  Provi de new/replacement computers to staff  
+Always  Workstation  Administration  IT Department  
+SERVICE DESCRIPTION  
+Monitor  for requests , configure and issue new workstations to staff 
+IMPACT DESCRIPTION  
+Staff are unable to perform  their job duties  resulting in  subsequent delays  
+MINIMUM LEV EL OF SERVICE  
+Normal level of service  
+PROCEDURE  
+1. Moni tor for  requests by email ; Respond to confirm receipt of request  
+2. If replacement, provide instructions for receiving  the previous computer  
+3. Assign work station ID to staff member and department using the  tracking sheet  
+4. If required, con figure an email/user account in the Windows Serve r database  
+5. Notify the staff member when the  workstation  is ready for pick -up 
+RECOVERY CONSIDERATIONS  
+• Major expenses  require Director of Finance a pproval  
+• Contin gency budget for leases  is available  without approval  
+• Ensure at least 20 workstations are available for depl oyment at all times  
+• Leasing orders are placed in units of 10 ; orders take 2-3 weeks  to fulfill  
+RESOURCE REQUIREMENTS  
+ Primary /Requirement  Alternate /Work around  
+Staff  John Doe , IT Administrator  Dave Hall , IT Manager  
+Worksite  123 Street Av  456 W est Rd. 
+Workspace  IT Support Room  Classroom  
+Connectivity  Email, Phone, LAN  Phone 
+Technology  Windows Laptop  Smart phone  
+Databases  Windows Server   
+Documents   None   
+Other Workstation T oolkit   
+INTERDEPENDENCIES  
+Requirement  Service Providers  
+Computer  leasing Vendor ABC 
+ 
+
+ 
+ 
+ 
+Updated Apr 30, 2020  15 Plans should  be reviewed by BCP leads for completeness  
+□ Program  and Department BCP leads will review completed BCP documentation  
+□ Department BCP leads will compile staff contributions in the BCP template  
+□ Department BCP leads will review, request clarification from Prog ram Area BCP leads  
+□ Completed Department BCP templates will be sent to the BCP coordinator for roll -up 
+ 
+Business Continuity Plan  
+✓ Department and Program  Area  BCP Leads are listed as Recovery Managers  
+✓ Priorities and RTO’s are listed for each Department and Prog ram 
+✓ For each service in the BCP, the following are clearly documented:  
+o Service , Recovery Time Objective (RTO) , and Impact Description  
+o Minimum Level of Service  
+o Procedure  
+o Considerations  
+o Resource Requirements  
+o Interdependencies  
+ 
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  16 Develop Strategies  
+Develop c ontinuity  strategies for the organization  
+A temporary loss of operating requirements can immediately prevent or limit  service functions . 
+ 
+• Staff  
+• Worksite  
+• Telephone  • Email  
+• Network  
+• Databases/Applications  
+Developing generic strategies – and investing in the r esources to enable them – is recommended to 
+support services impacted by business disruption in all parts of the organization. Strategies should 
+be centrally organized to reduce duplication/effort . 
+Stra tegies can range  in cost and complexity:  
+ 
+1. Telework  • Provide laptops to staff who perform critical service.  
+• Provide online collaboration tools (eg. Office 365) to all staff  
+• Document work -from -home protocols/procedures  
+o Using personal computers/devices  
+o Ergonomic self -assessment for your home office  
+o Employee repor ting protocols (check in/out , etc. ) 
+2. Cross -training  • Develop a process for cross -training  staff for critical services  
+• Develop a process for developing training materials  
+3. Servic e 
+Adjustments  • Process for reviewing and adjusting Business Plans  
+4. Resource 
+Requ irements  • Assess critical services for short -term supply requirements  
+• Identify alternate vendors/suppliers for critical supplies  
+• Stock -pile resources required for critical services   
+• Establish contingency agreements for goods/services with 
+other suppliers  
+5. Service Providers  • Ensure service providers can meet established RTOs  
+• Review Service Level Agreements (SLAs)  
+• Establish a Memorandum of Understanding (MOU)  
+• Request a n audit record of their BCP or DRA (IT Disaster 
+Recovery Plan)  
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  17 Select strategies based on t heir cost and suitability  
+Strategies must be reviewed and approved by your executive lead.   
+Strategies should align to the following criteria:  
+1. Fiscal responsibility  Recovery strategies must be aligned with the  organization’s  
+overall  financial planning, ob jectives and priorities.  
+2. Suitability  Recovery strategies must support the business function Recovery 
+Time Objectives (RTO)  and organization’s  recovery strategies.  
+3. Reliability  Formal agreements or contracts are required for the use of 
+externally sourced s trategies, including critical dependencies.  
+4. Test Availability  Recovery strategies must be exercised in order to identify gaps i n 
+BCP documentation and validate the ability to support RTOs.  
+ 
+Acquire tools and form agreements to enable strategies  
+Once appr oved , strategies can be developed, acquired, or tentatively agreed to.  
+□ Document all strategies in your BCP  
+□ Review strategies and agreements annually for their suitability and availability  
+• Documentation -based strategies should be stored in multiple formats  
+• Procedure strategies must follow regular procurement processes and requirements  
+• Agreements  with new or existing contractors  may be reviewed  
+• Contingency a greements with  new or existing suppliers  may be formed  
+ 
+ 
+  
+ 
+ 
+ 
+Updated Apr 30, 2020  18 Prepare  for Activations  
+Develop a Communicat ions Pla n to ensure coordination during activation  
+A Crisis Communications Plan should outline:  
+• Roles/Responsibilities  
+• Coordination – information, frequency, points of contact  
+• Activation procedures  
+o Initial Response  (Site Response or Self -Activation)  
+o Activa tion Phase  (Notification)  
+o Operational Phase  (Updates)  
+o De-Activation Phase  
+• Develop and maintain a contact list  
+o Primary/Alternate staff  
+o Service Providers/Vendors  
+o Site Contacts (School sites, tenants, partners, stakeholders)  
+o Government Contacts (Local /Regiona l Authorities, First Nations,  Ministries)  
+ 
+ 
+ 
+ 
+ 
+  This page will be updated with addit ional resources.  
+ 
+ 
+ 
+Updated Apr 30, 2020  19 Provide Training and Awareness for all staff  
+General t raining  and awareness should be provided to all staff to increase their participation and 
+understanding of the Business Continuity Plan.   
+Information pr ovided  to staff may include:  
+o What is a Business Continuity Plan (BCP) ? 
+o Why do we want  a BCP? 
+o When is the BCP implemented?  
+o What  is my  role in the BCP ? 
+ 
+ 
+ 
+ 
+ 
+ 
+  This page will be updated with additional resources.  
+ 
+ 
+ 
+Updated Apr 30, 2020  20 Conduct Tabletop Exercises for the plan to iden tify gaps and increase  
+staff readiness  
+ 
+Using a discussion -based format, a tabletop exercise considers how the plan would be 
+implemented in response to an event.  Exercises test the plan and documentation against a set  
+of circumstances.  
+ 
+Tabletop exercises  are intended to  identify gaps  in the plan  and i ncrease readiness  for events . 
+Although an exercise supports staff to increase their readiness, an exercise is not designed to  
+test the readiness of participants.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This page will be updated with additional resources.  
+ 
+ 
+ 
+Updated Apr 30, 2020  21 Activations & Resources  
+Additional planning  and implementation resources will be pr ovided  
+These guidelines are designed to support school districts and independent school authorities to 
+develop a robust BCP for COV ID-19. These guidelines  streamlined a comprehensive BCP 
+framework to document continuity strategies and critical services req uired during a pandemic.  
+Beyond COVID -19, a dditional assessment and planning is required to expand a BCP to ensure your 
+organizatio n is resilient when it resumes regular options. Future planning will involve:  
+□ Conduct a risk assessment to identify additiona l planning scenarios  
+□ Expand service assessment to all services, beyond those required now  
+□ Expand their Crisis Communications Plan to prepare for additional events  
+□ Develop  an Emergency  Operations Center  to manage response to complex events  
+ 
+For more information, please contact the Ministry’s Business Continuity Advisor by email . 
+ 
+ 
+ 
+ 
+ 
+  This page will be updated with additional res ources.  
+ 
+ 
+ 
+Updated Apr 30, 2020  22 Glossary of terms used in this document and associated templates  
+Branch  An operational unit of an organization (eg. a department).  
+Business Function/Unit  A service delivery unit o f an organization (eg. a program).  
+Business Impact Analysis  A detailed and documented process designed to identify and 
+prioritize business functions and workflow,  which assigns a 
+priority by assessing  impacts that might result over time if a 
+service were not performed due to a bu siness disruption.  
+Business Priority Service  Business function or process that is not mission critical, but 
+should it not be performed, could lead to the loss of a major 
+government service.  
+Business Sub -Function  A procedure or de liverable provided (eg. “Hiring new staff”)  
+Critical Services  General term that collectively refers to Business Priority and 
+Mission  Critical services.  
+Mission Critical Services  Functions and processes that, should they not be performed, 
+could lead to lo ss of life or injury, personal hardship to citizens, 
+major damage to the environment, or significant loss of 
+revenue or assets.  
+Reco very Time Objectives  The amount of time that a service can be delayed before an 
+unacceptable outcome may occur . 
+Risk Asses sment  The overall process of risk identification, risk analysis and risk 
+evaluation.

@@ -1,0 +1,369 @@
+1 | P a g e   
+ 
+ 
+ 
+Vendor  Management  Policy  
+ 
+ 
+The contents  of this Policy  document  are considered  by Argo  Group  to be confidential  and subject  to Argo  
+Group’s  written  consent.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 | P a g e  Document  Control  
+Document  Approval  
+Policy  Review  Date  Reviewed  By Approved  By 
+April  15, 2020  Ian Macartney/Susan  Comparato  Ian Macartney  
+   
+   
+   
+ 
+Document  History  
+Version  No. Revision  Comment  Author  Document  Date  
+1.0 Original  Document  J. Harris  April  8, 2020  
+2.0 BPE Revisions  J. Harris  December  15, 2020  
+2.1 Vendor Criticality Definitions  A.Ippolito  June 23, 2021  
+   2.2   Align to New Procurement Functio n K. Johnson  October 11, 2021  
+ 
+Associated  Documents  
+Argo  Group  Enterprise  Risk Management  Framework  
+Argo  Information  Security  & Cybersecurity  Policy  
+Argo  Group  Outsourcing  Policy  & Procedures  
+Corporate  Contract  Execution  Authority  Guidelines  
+Argo  Group’s  Automated  Corporate  Contract  Review  Policy  
+ 
+3 | P a g e  Table  of Contents  
+I. Vision  & Mission  Statement  ................................ ................................ ................................ ............  4 
+II. Purpose ................................ ................................ ................................ ................................ ..........  4 
+III. Policy  ................................ ................................ ................................ ................................ .............  4 
+IV. Enforceability  ................................ ................................ ................................ ................................ . 4 
+V. Conflict  Resolution  ................................ ................................ ................................ .........................  4 
+VI. Exemptions/Exceptions  ................................ ................................ ................................ ..................  4 
+VII. Vendor  Criticality  ................................ ................................ ................................ ...........................  4 
+VIII. Vendor  Risk Management  Defined  ................................ ................................ ................................ .. 5 
+IX. Vendor  Management Operating Model  ................................ ................................ ...........................  6 
+A. Sourcing  ................................ ................................ ................................ ................................ .........  6 
+B. Procuring  ................................ ................................ ................................ ................................ .......  7 
+1. Planning  ................................ ................................ ................................ ................................ ...... 7 
+2. Solicitation  ................................ ................................ ................................ ................................ .. 7 
+3. Selection  ................................ ................................ ................................ ................................ ..... 7 
+4. Due Diligence  ................................ ................................ ................................ ..............................  7 
+C. Contracting  ................................ ................................ ................................ ................................ .... 8 
+D. Monitoring  ................................ ................................ ................................ ................................ ..... 8 
+E. Reporting  ................................ ................................ ................................ ................................ ..... 10 
+X. Applicability  ................................ ................................ ................................ ................................ . 10 
+4 | P a g e  I. Vision  & Mission  Statement  
+Our Vision is to improve business results through mutually beneficial partnerships, programmatic performance analysis,  
+vendor  governance, reporting  and continuous  improvement.  
+Our Mission for managing vendors is to establish, maintain, monitor, and evaluate vendor relationships to  reduce risks,  
+contain  and reduce  cost,  and achieve  greater  levels  of collaboration  in delivery  of competitive  advantages  to the company.  
+II. Purpose  
+Argo relies on products, systems and services provided by a variety of vendors, including hardware and software vendors,  
+marketing firms, technology and telecommunication services, support personnel, and consultants. It is the ultimately the  
+duty of  management to ensure:  
+• Each  vendor  relationship  supports  the overall  business  requirements  and strategic  plans . 
+• The business  or functional  leader  has sufficient expertise  to oversee  and manage  the relationship.  
+• The business  or functional  leader  has evaluated  prospective  vendors  based  on criticality  of the procured  service  and 
+products.  
+• The risks  associated  with  the use of the  vendor  are fully  assessed  and understood.  
+• The appropriate  oversight  program  is in place  to monitor  contractual  performance  and risk mitigation  activities.  
+III. Policy  
+This Policy  applies  to all Argo  employees  engaged in  negotiating  or executing  contracts  for third  party  vendors  on behalf  
+of an Argo  Group  (herein  referred  to as “Argo”)  legal entity  on or after  April  15th, 2020.  
+IV. Enforceability  
+In accordance with the company’s Vendor Management Governance Structure, as delegated by the Argo Board of  
+Directors  and Argo  Group  Executive  Committee,  the Vendor  Steering  Committee  will have  the responsibility  for 
+enforcement  of this policy.  
+V. Conflict  Resolution  
+Conflicts, or perceived conflicts, with the policy will be presented to the Vendor Steering Committee (VSC) for resolution.  
+Other  policies will  be secondary  to this policy  unless  otherwise  granted  an exception/exemption.  
+VI. Exemptions/Exce ptions  
+The policy recognizes that not all vendor relationships are highly critical, critical, important or represents a significant risk, 
+or substantial financial impact to the company. Vendors meeting certain criteria will not be required to adhere to all  
+components  of this policy  (Section  XI - Exempt  Vendors ). 
+VII. Vendor  Criticality  
+The vendor criticality should be viewed as how important the supplier is to the day -to-day operations of the company.  
+Classifying  vendors  by criticality is  an important step  of a continuous  vendor  risk management  program.  Specifically;  
+• Strategic: Vendors whose product and/or service play a long -term, strategic role in Argo’s performance. These  
+vendors are   chosen   for   their unique   capabilities and   pose significant   risks   for Argo   if   they   do    not  perform  
+as expected. Typically, one  strategic  vendor  is chosen  for a specific  need.  
+• Preferred:  Vendors  whose  products  and/or  services  play an important  role in Argo’s  functioning  and are chosen  based  
+on their capabilities and differentiators in the market. These vendors can be potential operational risks for Argo if  
+they do not perform as expected. Argo may have multiple vendor relationships of a similar type in the Preferred  
+category.  
+• Tactical: Vendors that provide products and/or services that augment existing Argo services. These products and/or  
+services  can contribute  to key or  critical  activities  yet can be replenished  quickly  in the marketplace  mitigating  risk of 
+non-service.  Non-performance  of thes e vendors  would not  have  a material  impact on  Argo’s  results.  
+• Commodity:  Vendors  that provide  non-critical  products  and/or  services.  These  services  do not contribute  to key or 
+critical  activities  and can be replenished  quickly  with  little  impact  to Argo’s  results.  Products  and services  of these  
+5 | P a g e  vendors are differentiated by price and availability in the market. Non -performance of these vendors would have an  
+immaterial  impact on results.  
+Criticality is  to be determined at onboarding of the vendor  upon analysis by the Vendor Relationship Manager and the 
+Vendor Manag ement Office.   All classifications for existing vendors will be annually assessed by the VSC as described in the  
+Vendor  Management  Governance  policy.  
+VIII. Vendor  Risk Management  Defined  
+Vendor Risk Management (VRM) is the process of managing risks associated with third party vendors. It’s important to  
+understand these risks, what they are, and how Argo can readily identify any issues, concerns, or constraints pertaining to  
+these risks.  Failure to mitigate and prevent these risks can result in significant financial loss, reputational damage, and/or  
+legal/regulatory  issues.  As such,  the following  risks  are to be thoroughly  understood  and assessed  in regard  to business  and 
+contractual  relationships  entered into with vendors:  
+• Strategic  Risk:  Risk of failing  to implement  or achieve  planned  business  goals,  objectives  or initiatives.  Inability  to 
+address  the fundamentals  required  to execute  the agreed  strategy,  as evidenced  by deviations  from  business  plans.  
+• Compliance  Risk:  Risks  arising  from  violations  of applicable  laws,  rules,  regulatory  mandates,  and along  with  other  
+issues,  such  as non-compliance  of operational,  and information  security  policies,  procedures,  and processes.  
+• Operational  Risk:  Risks  from  a failed  system  of operational  internal  controls  relating  to relevant  policies,  procedures,  
+and practices. Specifically, failures  associated  with processes,  systems  or people.  
+• Financial  Risk:  Risks  related  to the  financial  condition  of the third -party  vendors,  such  as any “going  concern”  issues,  
+or a vendor  under  the threat  of liquidation  in the foreseeable  future.  
+• Reputation  Risk:  Risks  of negative  public  perception  and opinion,  such  as unethical  business  practices,  data  breaches  
+resulting  in loss  of sensitive  and confidential consumer  information.  
+• Technology Risk: Risks from any number of information technology and information governance and security issues,  
+including  inadequate  resources  (hardware,  software  or manpower).  
+• Country  Risk:  Risks  arising  from  the political,  economic,  and social  landscape  and other  relevant  events  within  a 
+foreign  country that  can impact  the services  provided  by vendors,  ultimately  affecting  company  operations.  
+• Environmental, Social and Governance Risk (ESG): Risks related to climate change impacts, environmental practices  
+and duty  of care,  working  and safety  condition,  respect  for human  rights,  and compliance  with  laws  and regulations.  
+The VRM  is monitored  through  the Three  Lines  of Defense  Model . The model  provides  the structure  and the assigned  roles  
+and responsibilities of parties to enhance the risk management. The underlying premise is that through the board of  
+directors  and management  oversight,  the three  lines  of defense ensures  effective  management  of risk and control.  
+A. First  Line  of Defense : Argo  vendor  relationship  owners  and managers,  in each  function  or business,  are responsible  for 
+identifying, assessing and mitigating risk activities; and implementing controls consistent with Argo’s adopted COSO  
+internal  control framework. (Supported closely by  the VMO).  
+B. Second Line of Defense : Corporate functions specializing in sourcing and procurement, risk management, 
+information/data security, legal and  regulatory  compliance  assist  in supporting  the vendor  risk management  by 
+monitoring  and performing  other  oversight  activities  to ensure  compliance  with  internal policies/external regulations.  
+C. Third Line of Defense : Internal Audit provides the Argo Board of Directors and Executive Management with reports  
+assessing the design and operating effectiveness of risk management activities and internal controls of the vendor  
+management  process.  
+ 
+First  Line  Second  Line  Third  Line  
+
+6 | P a g e  IX. Vendor  Management  Operating  Model  
+The Argo  Group  Vendor  Management  Operating  Model  consist  of the five stages  that define  the vendor  management  
+lifecycle.  
+ 
+A. Sourcing:  
+For Argo, strategic sourcing is centralized in  Procuremen t. Procurement is responsible for ensuring the Argo sourcin g 
+strategy is aligned to the company objectives , and works with the business and functional areas on identifying and 
+planning for vendor products and services . Reinforcing the focus on the core capabilities of the vendors, building long -
+term relationships and assuring the right  vendor for the right sourcing objective helps create a synergy between the 
+company and the vendors. The sourcing  objectives  below  include, but are  not limited  to, the following:  
+• Maximize  the value  of the vendor  spend  and reduce  cost 
+• Streamline  the procurement  process  
+• Obtain  an expert  understanding  of our suppliers  and the supplier  market  
+• Build  strong,  trustworthy  relationships  with  existing  and new  vendors  
+• Ensure  vendor  relationships  comply  with  all internal  policies  and external  laws  and regulations  
+Sourcing  Planning  
+During sourcing planning, the requirements for qualified vendors are developed based for the services or products to  
+be procured. These requirements will provide the basis for the relationship be tween Argo and the vendor regarding  
+performance  expectations, and how  risks  are identified,  assessed, and managed.  
+The following  is considered during planning : 
+• Engagement of all parties  directly  or indirectly  involved  with  the vendor  or use the contracted  services  
+• The subsequent  supporting  steps  to facilitate  the solicitation,  due diligence,  and selection  
+• The documentation  needed  to ensure  that  the service  or products  procured  meet  Argo’s  requirements  
+• Any technical  expertise  required  to complete  the procuring  and on-boarding  process  (e.g.  IT aware  of this 
+sourcing  and procurement early in  the process ) 
+
+7 | P a g e  B. Procuring  
+ 
+ The procurement  stage  is where  the initial  
+relationship  with  many  vendors  begin.  For all new  
+Argo  vendor  engagements,  Procurement will  work 
+with the business  or function  lead representative 
+(“Vendor Relationship Owner” ) to determine the 
+need for a competitive  bid in the market.  If one is 
+needed, Procuremen t will lead the process with 
+the Vendor Relationship Owner to engage an 
+appropriate amount of vendors in the competitive 
+bid process . 
+In most cases, the procuring stage will follow the 
+four phases  below.  
+The Argo  business or function representative who 
+is managing or leading th e needs of the business  in 
+relation to the Ve ndor ’s services provided  is 
+referred  to the  ‘Vendor Relationship Owner ’. 
+1. Solicitation  
+Solicitation is the process of notifying qualified vendors that Argo wishes to receive bids or proposals on the  
+specified  products  or services.  All solicitation  documents  should  contain  instructions  to ensure  the vendors  submit  
+an adequate  response  and ens ure the process  to collect and  evaluate  bids is consistent.  
+The solicitation will come in the form of a Request for Quote (RFQ) or Request for Proposal (RFP) and possibly  
+include a Request for Information (RFI) to facilitate the creation of the RFQ/RFP. The level of detail will vary but,  
+the proposal  should  describe  the objectives,  scope  and nature  of the work  to be performed,  expected  service  levels,  
+the key performance indicators (KPI’s) to be measured against, delivery timelines, change contro ls, financial  
+penalties  around  poor  service,  a schedule  of fees,  the selection  criteria  and the procedures  for requesting  additional  
+information.  
+2. Evaluation  
+An evaluation criteria should be  created  to determine how the vendors will be scored or rated. While this policy 
+does not  provide a standard or required evaluation template, the criteria should include those factors that are 
+deem ed most  important  for the achievement  of the business  objective (s) and fulfillment  of the business  
+requirements.  
+3. Selection  
+All the preparation of  identifying  the business  objectives  and service  requirements,  solicitation  of bids,  and review  
+of proposals  should be  sufficient  to make  a final  vendor selection.  
+At this point,  the most  important  considerations  have  been  discussed  in the evaluation  of potential  vendors.  Other  
+questions  in the selection process  that may  be useful  to consider:  
+• Did the solicitation  process  raise  any potential  red flags  in the future?  
+• Is the vendor  a good  culture  fit for the organization?  
+• Can the vendor  selection  be evidenced  as being  fair, unbiased and  free of any conflicts  of interest?  
+  
+
+8 | P a g e  4. Due Diligence  
+Due diligence must be perform ed on the selected vendor prior to the contracting phase. This includes risk surveys 
+to assess core and ESG elements of the vendor relationshi p. The depth of the due diligence      may vary according to 
+the relative importance  and type of the vendor relationship . 
+The Vendor Management Office (VMO) will coordinate the due diligence to ensure th at all pertinent parties receive  
+the necessary information to execute a contractual agreement with the vendor. The due diligence covers all areas 
+of risk using the  OSO  ERM Risk Framework categories of:  
+ 
+ 
+ 
+C. Contracting  
+The contracting stage is the process of contract initiation, negotiation, execution and the administration. The vendor  
+contract translates policies and expectations into specific enforceable terms and conditions to ensure compliance, while  
+maximizing performance and reducing risk. The contracts between Argo and its vendors must clearly specify in a level  
+of detail  commensurate  with the  scope  and risks  of the service  provided  all relevant  terms,  conditions,  responsibilities,  
+and liabilities  of both  parties.   Procurement will provide  guidance and negotiate  the requ ired business terms for all 
+vendor contracts.  
+All contracts must be reviewed in accordance with Argo Group’ s Corporate Co unsel guidelines on vendor agreements  
+and signed by an  authorized  signer . Legal  will review  each  contract  to ensure  the terms  and conditions  are appropriate  
+for the service  or products  being  provided.  
+Contract  Storage  and Records  Management:  
+All Contracts  must  be stored  in Cobblestone  and accessible only  to those  with  a business  need.  It is the responsibility  of 
+the Vendor Relationship Owner  to ensure  the final  executed  contract  is uploaded  into Cobblestone  and maintained  in 
+accordance  with Argo’s  record  management  retention policy.  
+Expiry,  Modify,  and Renew:  
+Contracts approaching their expiration date will be flagged for review the greater of 60 days or the minimum notice  
+period to amend, modify, extend or renew the original agreement. All renewal contra cts must be reviewed with 
+Procurement prior to any renewal discussions being hel d with vendors.  It is the responsibility of the Vendor 
+Relationship Owner , not  legal,  to complete  any due diligence  and/or  vendor  risk assessment  prior to  renewal.  
+Termination:  
+Termination may be required when a contract expires, the terms of the contract have been satisfied, in response to a  
+contract default, or due to changes in business strategy. Again, the decision to term inate a contract agreement rest  
+with  the Vendor Relationship Owner . 
+  
+
+9 | P a g e  D. Monitoring:  
+A key component  to a robust  vendor  management  policy  is the ongoing  monitoring  of vendor  spend,  performance  and 
+risk.  Argo vendors  are monitored  through:  
+1. Vendor  Spend  Analysis  
+Data is the driver for quantifying the overall spend and measuring the vendor expenses. The diagram below  
+illustrates the flow of data from source systems, to data lake, to visualization, to dashboarding, to management  
+reporting. The following is not an exhaustive list, but the basic types of spending analysis to be provided by the  
+VMO.  
+• Total  spend  by vendor  
+• Spend  by vendor  classification  
+• Different  vendors,  same  spend  
+• Different  spend,  same  vendors  
+• Spend  by risk type  / rating  • Total  spend current  v. prior  year  
+• Spending  by Company,  Division,  
+Department  
+• Spend  by General  Ledger  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+2. Vendor  Performance:  
+Performance  Audits:  The VMO  will assist  the vendor  relationship  managers  with  the development  of a 
+performance audit program to assess the vendors compliance with agreed upon service levels and quality of  
+services. The scope of review,  frequency and the supporting documentation needed will vary depending on the  
+complexity of the vendor relationship and the product or service being provided. In general, the scope of the  
+performance  audits  will include  the following:  
+• Vendor  Relationship  Oversight  
+• Service  Level  Agreements  
+• Quality  of Services  
+• Contract  Terms  
+• Billings  and Disbursements  
+
+10 | P a g 
+e   
+3. Continuous  Risk Monitoring:  
+Under the COSO Internal Control Framework, continuous monitoring is defined as “the process and technology  
+used  to detect  compliance  and risks  associated  with  an organization’s  environment.”  The Vendor  Risk 
+Management  Framework  divides  the risks  into six areas  (ERM  Framework  +2): Strategic,  Operational,  Compliance,  
+Financial, Information Security, and Fourth -Party Risk. The responsibility for risk monitoring newly onboarded  
+vendors as well as existing vendors will fall to the aforementioned 1st line of defen se, i.e. VMO, business owners  
+and/or vendor  relationship managers.  
+The continuous risk monitorin g activities are determined on an annual basis for vendors based on the criticality  
+classification and risk. The vendors with a higher degree of criticality and risk will receive a more stringent risk  
+monitoring  evaluation  and on a more frequent  basis.  
+ 
+For high  residual risk  scenarios,  mitigating  control activities  are required  to reduce the risk  to a “managed”  or an  
+“acceptable”  level.  Remediation  actions  and activities will  be tracked  by the Vendor  Management  Office.  
+
+11 | P a g e  E. Reporting:  
+The VMO  will provide  reports  on vendor  spend,  risks  and performance  monitoring  activities.  The reporting  will be 
+organized  based  on the needs  of the internal  stakeholders  described  in the Vendor  Management  Governance  policy.  
+Vendor  Executive  Committee  (VEC):  
+The VEC will receive  group  level  reports  prior  to each  committee  meeting  or as requested.  
+Vendor  Steering  Committee  (VSC):  
+The VSC will receive  all the reports  provided  to the VEC,  plus any reports  necessary  for the committee  to review  and 
+opine  on. (e.g.  spend, performance,  and risk reporting).  
+Vendor  Relationship  Manager:  
+Targeted  reporting  to assist  the business  vendor  relationship  manager  with  monitoring  the individual  vendor  
+relationship.  
+Ad Hoc Reporting:  
+On-demand  reporting,  primarily  issue  driven  (typically,  matters  related  to compliance  or fraud).  
+ 
+The reporting  structure  is consistent  with  the associated  Vendor  Management  Governance  document  and is intended  
+to support  strategic  decisions,  ensure  executive  awareness,  assign  management  accountability  and promote  
+continuous  improvement of  vendor relationships.  
+X. Applicability  
+This policy  is written  to be applicable  to multiple  jurisdictions1 and provide  the guiding  principles  to assist  the company  in 
+its compliance with all international regulatory bodies. While this policy is specific to vendor relationships, other third  
+party relationships, like agency, broker, delegated underwriting, claims and policy administration , etc. are governed by a  
+similar set of expectations, s uch as; proper 3rd party supervision, monitoring against performance service levels, 
+continuous   risk monitoring,  audits  to ensure  compliance  with  laws  and regulations,  protection  of sensitive  and 
+confidential  information,  maintenance  of continuity plans  and periodic  evaluations  of the appropriateness  by company’s  
+executives.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1Financial  Conduct  Authority  (FCA)  SYSC  8.1 General  Outsourcing  Requirements.  Bermuda  Monetary Authority  (BMA)  Guidance  Notes  
+ on Outsourcing  for “relevant  licensed  entities”  (RLE).   
+
+12 | P a g e  XI. Policy  Exceptions  
+Vendor  Management  Policy  Exceptions:  
+The Vendor Relationship Owner  must determine if the Vendor Management policy is applicable. Some vendor 
+relationships are  currently exempt from the procurement process, meaning, the agreements can be entered directly into 
+Cobblestone for Legal contract  review.  
+• Non-Disclosure  Agreements  and confidentiality  
+Agreements  
+• Special and Charitable Event Agreements 
+(Hotels/Restaurants)  
+• Hotel, restaurant and transportation agreements  
+• Marketing and communication agreements of a 
+short duration (less than 90 days)  
+• Engagements  with  attorneys,  lawyers,  solicitors,  
+barristers, arbitrators, umpires, and similar  
+parties  
+• Purchase  Orders  for existing  contracts  • Charitable  Contributions  
+• General agents, program managers/administrators, 
+brokers, agents and producers  
+• Vendors (total spend less than $25K)  
+• Commissioned agents,  brokers,  agents  and 
+producers  
+• Third -party  claims  administrators  
+• Reinsurance  intermediaries  
+• Banks,  investment  managers  and investment  
+funds  
+• Insurers  and reinsurers

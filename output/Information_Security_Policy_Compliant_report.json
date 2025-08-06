@@ -1,0 +1,679 @@
+{
+  "policy": "Information_Security_Policy_Compliant.pdf",
+  "detected_domains": [
+    "data_protection",
+    "security_governance",
+    "incident_response",
+    "access_control"
+  ],
+  "summary": {
+    "score": 14.0,
+    "total": 26,
+    "percentage": 53.85,
+    "grade": "D"
+  },
+  "mappings": [
+    {
+      "id": "A.5.17",
+      "source": "ISO",
+      "text": "Authentication information. Establish and enforce password and authentication requirements. Users must keep passwords secure, avoid sharing accounts, and follow multi-factor authentication as defined in the Acceptable Use Policy.",
+      "sentences": [
+        "Authentication and Password Management: All users must keep passwords secure, must not share\naccounts, and must follow multi-factor authentication requirements."
+      ],
+      "scores": [
+        0.846
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "A.5.18",
+      "source": "ISO",
+      "text": "Access rights. Access rights must be assigned based on roles and reviewed periodically. Unauthorized access or sharing of accounts is prohibited as stated in the Acceptable Use Policy.",
+      "sentences": [
+        "Access to systems and data will be limited based on roles and responsibilities, with\nperiodic access reviews."
+      ],
+      "scores": [
+        0.705
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "A.5.13",
+      "source": "ISO",
+      "text": "Labelling of information. Define and implement labelling requirements for information classification (Confidential, Internal, Public) as described in the Information Security Policy and Acceptable Use Policy.",
+      "sentences": [
+        "3. Information Classification: All data must be classified (Confidential, Internal, Public) and appropriately\nlabeled."
+      ],
+      "scores": [
+        0.757
+      ],
+      "domain": "data_protection"
+    },
+    {
+      "id": "A.8.2.1",
+      "source": "ISO",
+      "text": "Classification of information. Classify information based on sensitivity (e.g., NCIC data) and enforce encryption and access controls in alignment with the Acceptable Use Policy.",
+      "sentences": [
+        "3. Information Classification: All data must be classified (Confidential, Internal, Public) and appropriately\nlabeled.",
+        "Encryption: Sensitive data, including NCIC and CJIS information, must be encrypted in transit and at rest."
+      ],
+      "scores": [
+        0.737,
+        0.636
+      ],
+      "domain": "data_protection"
+    },
+    {
+      "id": "A.5.29",
+      "source": "ISO",
+      "text": "Information security during disruption. Define procedures to ensure information security is maintained during disruptions, including business continuity and disaster recovery measures outlined in the Information Security Policy.",
+      "sentences": [
+        "Business Continuity: Information security must be maintained during disruptions through defined continuity\nand recovery plans."
+      ],
+      "scores": [
+        0.844
+      ],
+      "domain": "incident_response"
+    },
+    {
+      "id": "AC-2",
+      "source": "NIST",
+      "text": "Users must keep passwords secure and must not share accounts, and administrators must manage user accounts including creation, modification, and removal according to the Acceptable Use Policy.",
+      "sentences": [
+        "Authentication and Password Management: All users must keep passwords secure, must not share\naccounts, and must follow multi-factor authentication requirements."
+      ],
+      "scores": [
+        0.724
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "AC-3",
+      "source": "NIST",
+      "text": "Access must be limited to only what is required for a user's job role and reviewed regularly in alignment with the Acceptable Use Policy.",
+      "sentences": [
+        "Access to systems and data will be limited based on roles and responsibilities, with\nperiodic access reviews."
+      ],
+      "scores": [
+        0.683
+      ],
+      "domain": "security_governance"
+    },
+    {
+      "id": "IA-2",
+      "source": "NIST",
+      "text": "Multi-factor authentication must be required for user access, as stated in the Acceptable Use Policy.",
+      "sentences": [
+        "Authentication and Password Management: All users must keep passwords secure, must not share\naccounts, and must follow multi-factor authentication requirements."
+      ],
+      "scores": [
+        0.688
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "IA-5",
+      "source": "NIST",
+      "text": "Passwords must meet complexity requirements and be kept confidential, with account sharing strictly prohibited, as outlined in the Acceptable Use Policy.",
+      "sentences": [
+        "Authentication and Password Management: All users must keep passwords secure, must not share\naccounts, and must follow multi-factor authentication requirements."
+      ],
+      "scores": [
+        0.699
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "IR-4",
+      "source": "NIST",
+      "text": "Establish an Incident Response procedure for detecting, reporting, and responding to security incidents. Follow steps for containment, escalation, and forensic investigation as described in the Incident Response Policy.",
+      "sentences": [
+        "Incident Response: Security incidents must be reported immediately, with an established escalation and\nresponse process."
+      ],
+      "scores": [
+        0.831
+      ],
+      "domain": "incident_response"
+    },
+    {
+      "id": "SC-12",
+      "source": "NIST",
+      "text": "Sensitive data such as NCIC information must be encrypted both in transit and at rest, in accordance with the Acceptable Use Policy.",
+      "sentences": [
+        "Encryption: Sensitive data, including NCIC and CJIS information, must be encrypted in transit and at rest."
+      ],
+      "scores": [
+        0.88
+      ],
+      "domain": "data_protection"
+    },
+    {
+      "id": "SC-28",
+      "source": "NIST",
+      "text": "Sensitive information including NCIC data must be protected through encryption and restricted access in compliance with the Acceptable Use Policy.",
+      "sentences": [
+        "Encryption: Sensitive data, including NCIC and CJIS information, must be encrypted in transit and at rest."
+      ],
+      "scores": [
+        0.77
+      ],
+      "domain": "data_protection"
+    },
+    {
+      "id": "PL-2",
+      "source": "NIST",
+      "text": "Security policies including acceptable use, access control, and encryption requirements must be documented and enforced as referenced in the Acceptable Use Policy.",
+      "sentences": [
+        "Information Security Policy - Compliant Version\n1."
+      ],
+      "scores": [
+        0.647
+      ],
+      "domain": "security_governance"
+    },
+    {
+      "id": "AT-2",
+      "source": "NIST",
+      "text": "Conduct regular security awareness training, including acceptable use, phishing prevention, and incident reporting, as outlined in the Information Security Policy.",
+      "sentences": [
+        "Security Training: Employees must undergo regular training on security awareness and responsibilities."
+      ],
+      "scores": [
+        0.789
+      ],
+      "domain": "security_governance"
+    },
+    {
+      "id": "4.1",
+      "source": "CIS",
+      "text": "Require multi-factor authentication (MFA) for all administrative and privileged accounts in alignment with the Access Control Policy.",
+      "sentences": [
+        "Authentication and Password Management: All users must keep passwords secure, must not share\naccounts, and must follow multi-factor authentication requirements."
+      ],
+      "scores": [
+        0.636
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "4.2",
+      "source": "CIS",
+      "text": "Users must keep passwords secure and must not share accounts as required in the Acceptable Use Policy.",
+      "sentences": [
+        "Authentication and Password Management: All users must keep passwords secure, must not share\naccounts, and must follow multi-factor authentication requirements."
+      ],
+      "scores": [
+        0.708
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "4.3",
+      "source": "CIS",
+      "text": "Authentication mechanisms, including multi-factor authentication if applicable, must be followed according to the Acceptable Use Policy.",
+      "sentences": [
+        "Authentication and Password Management: All users must keep passwords secure, must not share\naccounts, and must follow multi-factor authentication requirements."
+      ],
+      "scores": [
+        0.723
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "7.1",
+      "source": "CIS",
+      "text": "Perform regular vulnerability scans and remediate findings in accordance with the Information Security Policy.",
+      "sentences": [
+        "Vulnerability Management: Regular vulnerability scans must be performed, and security patches applied in\na timely manner."
+      ],
+      "scores": [
+        0.693
+      ],
+      "domain": "incident_response"
+    },
+    {
+      "id": "16.1",
+      "source": "CIS",
+      "text": "Maintain an incident reporting process for all staff, aligned with the Incident Response Policy, including escalation procedures.",
+      "sentences": [
+        "Incident Response: Security incidents must be reported immediately, with an established escalation and\nresponse process."
+      ],
+      "scores": [
+        0.689
+      ],
+      "domain": "incident_response"
+    },
+    {
+      "id": "16.2",
+      "source": "CIS",
+      "text": "Conduct regular incident response exercises to validate the effectiveness of the Incident Response Policy.",
+      "sentences": [
+        "Incident Response: Security incidents must be reported immediately, with an established escalation and\nresponse process."
+      ],
+      "scores": [
+        0.567
+      ],
+      "domain": "incident_response"
+    },
+    {
+      "id": "17.1",
+      "source": "CIS",
+      "text": "Users must be informed of security requirements and responsibilities for handling information as outlined in the Acceptable Use Policy.",
+      "sentences": [
+        "Information Security Policy - Compliant Version\n1."
+      ],
+      "scores": [
+        0.575
+      ],
+      "domain": "security_governance"
+    },
+    {
+      "id": "17.2",
+      "source": "CIS",
+      "text": "Track and document employee participation in security training programs to ensure compliance with the Information Security Policy.",
+      "sentences": [
+        "Security Training: Employees must undergo regular training on security awareness and responsibilities."
+      ],
+      "scores": [
+        0.731
+      ],
+      "domain": "security_governance"
+    },
+    {
+      "id": "13.4",
+      "source": "CIS",
+      "text": "Sensitive information such as NCIC data must be encrypted and protected from unauthorized access as stated in the Acceptable Use Policy.",
+      "sentences": [
+        "Encryption: Sensitive data, including NCIC and CJIS information, must be encrypted in transit and at rest."
+      ],
+      "scores": [
+        0.752
+      ],
+      "domain": "data_protection"
+    },
+    {
+      "id": "5.1",
+      "source": "CIS",
+      "text": "Limit administrative privileges to authorized personnel and review them regularly as defined in the Access Control Policy.",
+      "sentences": [
+        "Access to systems and data will be limited based on roles and responsibilities, with\nperiodic access reviews."
+      ],
+      "scores": [
+        0.617
+      ],
+      "domain": "access_control"
+    },
+    {
+      "id": "5.29",
+      "source": "CIS",
+      "text": "Information security must be maintained during network disruptions or security incidents, in alignment with the Acceptable Use Policy.",
+      "sentences": [
+        "Business Continuity: Information security must be maintained during disruptions through defined continuity\nand recovery plans.",
+        "Information Security Policy - Compliant Version\n1."
+      ],
+      "scores": [
+        0.786,
+        0.566
+      ],
+      "domain": "incident_response"
+    },
+    {
+      "id": "8.2.1",
+      "source": "CIS",
+      "text": "Information must be labeled and classified (Confidential, Internal, Public) according to the organization's Information Classification Policy referenced in the Acceptable Use Policy.",
+      "sentences": [
+        "3. Information Classification: All data must be classified (Confidential, Internal, Public) and appropriately\nlabeled."
+      ],
+      "scores": [
+        0.82
+      ],
+      "domain": "security_governance"
+    }
+  ],
+  "gaps": [
+    {
+      "control_id": "A.5.17",
+      "source": "ISO",
+      "coverage": "full",
+      "justification": "The policy directly addresses all specific user requirements outlined in the control. It mandates that users 'must keep passwords secure,' 'must not share accounts,' and 'must follow multi-factor authentication requirements.' While the control's MFA clause references an 'Acceptable Use Policy,' the current policy states the requirement directly for users, fulfilling the control's intent for user adherence. The initial phrase 'Establish and enforce password and authentication requirements' in the control is an organizational directive; the existence and content of this 'Authentication and Password Management' policy directly serve to establish these requirements, and by mandating user actions, it forms a basis for enforcement.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "A.5.18",
+      "source": "ISO",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the requirements for assigning access rights based on roles and conducting periodic reviews. However, it completely omits the critical components of the control that prohibit unauthorized access and account sharing, and the reference to an Acceptable Use Policy for these prohibitions.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "A.5.13",
+      "source": "ISO",
+      "coverage": "partial",
+      "justification": "The policy addresses the core requirement for information classification (Confidential, Internal, Public) and states that data must be appropriately labeled. However, the control specifically requires the definition and implementation of 'labelling requirements'. The policy states that data 'must be classified and appropriately labeled' but does not define what 'appropriately labeled' entails (e.g., specific methods, locations, or formats for labels). It mandates the outcome but doesn't articulate the specific requirements for achieving that outcome. Furthermore, while the policy is presumably part of an Information Security Policy, it doesn't explicitly state that these specific labelling requirements are 'described in the Information Security Policy and Acceptable Use Policy' as stipulated by the control, nor does the provided snippet provide that detail within itself.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "A.8.2.1",
+      "source": "ISO",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the classification of information by defining classification levels (Confidential, Internal, Public) and the requirement for labeling. It also explicitly covers the encryption requirement for sensitive data, including the NCIC example provided in the control, ensuring encryption in transit and at rest. However, the policy *does not* address the enforcement of 'access controls' or the requirement for alignment with an 'Acceptable Use Policy', which are both explicit components of the control.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "A.5.29",
+      "source": "ISO",
+      "coverage": "full",
+      "justification": "The policy directly addresses the core requirements of the control. It explicitly states that 'Information security must be maintained during disruptions' and specifies that this will be achieved 'through defined continuity and recovery plans.' This covers the need for procedures ('defined plans'), the scope ('information security during disruptions'), and the specific measures (business 'continuity and recovery' plans, which encompass disaster recovery).",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "AC-2",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the user-centric requirements of the control, specifically stating that 'All users must keep passwords secure' and 'must not share accounts'. However, it completely omits the crucial administrative aspect of the control, which mandates that 'administrators must manage user accounts including creation, modification, and removal according to the Acceptable Use Policy'. Without language addressing administrator responsibilities for account lifecycle management, the policy only partially fulfills the control's requirements.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "AC-3",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy addresses two key aspects of the control: limiting access based on roles and responsibilities (least privilege) and conducting periodic access reviews. However, it omits the requirement for this access limitation and review process to be 'in alignment with the Acceptable Use Policy'. The lack of explicit mention or linkage to the AUP makes the coverage partial.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "IA-2",
+      "source": "NIST",
+      "coverage": "full",
+      "justification": "The control requires multi-factor authentication to be mandatory ('must be required') for user access. The policy explicitly states that 'All users must... follow multi-factor authentication requirements.' This phrase directly addresses the mandatory nature ('must follow') and the subject ('multi-factor authentication'). While 'for user access' is not explicitly stated, it is implicitly covered by the context of 'All users' and 'Authentication and Password Management' within a policy, as users follow authentication requirements to gain access. The policy adequately reflects the control's demands.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "IA-5",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the requirements for passwords to be kept confidential ('All users must keep passwords secure') and for account sharing to be strictly prohibited ('must not share accounts'). However, the policy fails to mention or refer to any 'complexity requirements' for passwords, which is a specific demand of the control. While multi-factor authentication is mentioned in the policy, it is a separate control mechanism and does not substitute for password complexity requirements.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "IR-4",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy partially addresses the control. It mentions reporting incidents immediately and having an 'established escalation and response process,' which aligns with parts of 'reporting, and responding to security incidents' and 'escalation.' However, it lacks explicit mention of a procedure for 'detecting' security incidents. More critically, it completely omits 'containment' and 'forensic investigation' steps. Furthermore, the control requires the policy to 'describe' these steps, but the provided policy is very brief and only states the existence of a process rather than detailing any specific steps or procedures for reporting, response, containment, escalation, or forensic investigation.",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "SC-12",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the core technical requirement to encrypt sensitive data (including NCIC and CJIS information) both in transit and at rest. However, the control includes a specific directive that this encryption must be 'in accordance with the Acceptable Use Policy.' The provided policy does not explicitly state this alignment or reference the Acceptable Use Policy, which is a specific component of the control's requirement. While the technical mandate is met, the procedural/contextual alignment specified in the control is not explicitly addressed by the policy.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "SC-28",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy fully addresses the encryption requirement for sensitive data, including NCIC information, by specifying encryption both in transit and at rest. However, it fails to address two critical components of the control: the requirement for 'restricted access' to sensitive information and the explicit linkage stating that protection must be 'in compliance with the Acceptable Use Policy'.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "PL-2",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "The provided policy is essentially a title and a number (presumably a section start) with no content. It does not document any security policies, acceptable use, access control, or encryption requirements. Furthermore, it provides no evidence or mechanism for enforcement or any reference to an Acceptable Use Policy, which are all explicit requirements of the control.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "AT-2",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy addresses the general requirement for 'regular training on security awareness.' However, it fails to explicitly mention the critical specific topics required by the control, namely 'acceptable use,' 'phishing prevention,' and 'incident reporting.' The policy's statement 'security awareness and responsibilities' is too broad to confirm coverage of these specific, mandatory components outlined in the control.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "4.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy states that 'All users must... follow multi-factor authentication requirements,' which covers the MFA requirement for human users, including those with administrative and privileged accounts. However, the control specifically requires MFA for 'all administrative and privileged accounts.' This wording is broader than 'all users' and can include non-human accounts such as service accounts, system accounts, or shared administrative accounts, which may not fall under the 'All users' definition in a typical policy context. Therefore, while human administrative logins are likely covered, the policy does not explicitly address the full scope of 'all administrative and privileged accounts' as defined by the control, potentially missing non-user-specific accounts or roles. Additionally, the control specifically emphasizes high-risk accounts, a focus not explicitly present in the policy's general 'all users' statement.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "4.2",
+      "source": "CIS",
+      "coverage": "full",
+      "justification": "The policy directly addresses both core requirements of the control: 'All users must keep passwords secure' precisely covers 'Users must keep passwords secure,' and 'must not share accounts' directly covers 'must not share accounts.' The phrase 'as required in the Acceptable Use Policy' in the control refers to the source or context of the requirement; the policy's content demonstrates that these requirements are indeed enforced, effectively meeting the control's intent regardless of whether the policy explicitly references its own origin. The addition of 'and must follow multi-factor authentication requirements' in the policy is a beneficial enhancement that strengthens security without diminishing coverage of the specified control points.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "4.3",
+      "source": "CIS",
+      "coverage": "full",
+      "justification": "The policy directly addresses all substantive requirements of the control. It specifies that users must keep passwords secure and not share accounts, which covers 'Authentication mechanisms.' It explicitly states 'must follow multi-factor authentication requirements,' directly addressing the 'multi-factor authentication if applicable' clause. The phrase 'according to the Acceptable Use Policy' in the control refers to the authoritative source of these rules; the provided policy itself serves as the detailed instruction set for these mechanisms, implicitly fulfilling the need for such rules to be documented and followed. Assuming this 'Policy' is either the Acceptable Use Policy itself or a subordinate policy directly referenced by it, it fully operationalizes the control's requirements.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "7.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy directly addresses the requirement to 'perform regular vulnerability scans' by stating 'Regular vulnerability scans must be performed.' It also addresses remediation by requiring 'security patches applied in a timely manner.' However, the term 'remediate findings' in the control is broader than just 'security patches.' Remediation can include configuration changes, disabling services, implementing compensating controls, or code fixes, which are not explicitly covered by 'security patches.' Additionally, while the policy itself sets the standard, the control's 'in accordance with the Information Security Policy' implies that the remediation process (e.g., prioritization, timelines for different severities, risk acceptance procedures) should align with other defined aspects of the broader Information Security Policy, which this snippet does not detail.",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "16.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy addresses the core requirements of immediate reporting and established escalation procedures, aligning well with the Incident Response Policy. However, it does not explicitly state that the reporting process is 'for all staff' or detail the 'maintenance' of such a process. While 'must be reported immediately' implies a process, the control specifically asks for a maintained process 'for all staff' which is not explicitly covered by the policy snippet's wording.",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "16.2",
+      "source": "CIS",
+      "coverage": "none",
+      "justification": "The control explicitly requires 'regular incident response exercises' to 'validate the effectiveness' of the policy. The provided policy describes the immediate reporting, escalation, and response process for actual incidents. However, it does not mention or mandate any form of exercises, drills, or simulations designed to test, practice, or validate the effectiveness of this process or the personnel involved. Therefore, the policy does not address the control's requirement for conducting exercises.",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "17.1",
+      "source": "CIS",
+      "coverage": "none",
+      "justification": "The policy provided is extremely minimal and does not contain any content that addresses the control. The control requires users to be *informed* of security requirements and responsibilities, specifically *as outlined in the Acceptable Use Policy*. The provided policy snippet does not mention any mechanism for informing users, nor does it refer to security requirements, responsibilities, or an Acceptable Use Policy. Therefore, there is no evidence that the policy addresses this control.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "17.2",
+      "source": "CIS",
+      "coverage": "none",
+      "justification": "The policy states that employees must undergo training, which establishes the existence of a training requirement. However, the control explicitly requires 'Track and document employee participation'. The policy makes no mention of tracking, documenting, maintaining records of participation, or assigning responsibility for doing so. Therefore, it completely fails to address the core mechanism and accountability aspect of the control.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "13.4",
+      "source": "CIS",
+      "coverage": "full",
+      "justification": "The policy directly addresses the core requirement of the control. It explicitly states that 'Sensitive data, including NCIC and CJIS information, must be encrypted,' which aligns perfectly with the control's requirement for 'NCIC data must be encrypted.' Furthermore, the policy specifies that encryption must occur 'in transit and at rest,' providing a comprehensive scope that inherently supports the control's objective of protecting data 'from unauthorized access.' Encryption, especially when applied both at rest and in transit, is the primary technical control for achieving protection from unauthorized access for sensitive data.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "5.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy addresses the general concepts of limiting access based on roles and responsibilities and conducting periodic access reviews, aligning with parts of the control. However, the control specifically requires limiting *administrative* privileges. The policy's statement 'Access to systems and data' is too broad and does not differentiate or provide specific guidance for the heightened security required for administrative privileges. Furthermore, while periodic reviews are mentioned, the policy does not define 'regularly' or 'periodic' (e.g., frequency, scope), which the control implies should be defined in the Access Control Policy itself.",
+      "domain": "access_control"
+    },
+    {
+      "control_id": "5.29",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy partially addresses the control. It explicitly states that 'Information security must be maintained during disruptions through defined continuity and recovery plans,' which covers the 'during network disruptions' aspect and the mechanism for maintenance. However, the policy omits 'security incidents' as a specific scenario requiring information security maintenance, and it completely lacks any mention of 'in alignment with the Acceptable Use Policy' as required by the control.",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "8.2.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the core requirement of information classification and labeling, specifying the correct categories (Confidential, Internal, Public). However, it fails to address the governance aspect of the control, specifically the requirement that the 'Information Classification Policy' (which this snippet appears to be part of or represent) must be 'referenced in the Acceptable Use Policy'. The provided policy snippet does not contain any such cross-reference, which is a explicit part of the control.",
+      "domain": "security_governance"
+    }
+  ],
+  "remediations": [
+    {
+      "control_id": "A.5.18",
+      "source": "ISO",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the requirements for assigning access rights based on roles and conducting periodic reviews. However, it completely omits the critical components of the control that prohibit unauthorized access and account sharing, and the reference to an Acceptable Use Policy for these prohibitions.",
+      "domain": "access_control",
+      "remediation": "Update the 'Access to systems and data' policy to explicitly include a clause prohibiting unauthorized access and the sharing of user accounts. This ensures the policy fully encompasses all aspects of the control, eliminating the need for the control to solely rely on an external policy reference (Acceptable Use Policy) for this specific prohibition. The current policy is silent on these explicit prohibitions."
+    },
+    {
+      "control_id": "A.5.13",
+      "source": "ISO",
+      "coverage": "partial",
+      "justification": "The policy addresses the core requirement for information classification (Confidential, Internal, Public) and states that data must be appropriately labeled. However, the control specifically requires the definition and implementation of 'labelling requirements'. The policy states that data 'must be classified and appropriately labeled' but does not define what 'appropriately labeled' entails (e.g., specific methods, locations, or formats for labels). It mandates the outcome but doesn't articulate the specific requirements for achieving that outcome. Furthermore, while the policy is presumably part of an Information Security Policy, it doesn't explicitly state that these specific labelling requirements are 'described in the Information Security Policy and Acceptable Use Policy' as stipulated by the control, nor does the provided snippet provide that detail within itself.",
+      "domain": "data_protection",
+      "remediation": "Update the Information Security Policy (and potentially the Acceptable Use Policy) to explicitly define detailed labelling requirements for 'Confidential', 'Internal', and 'Public' information. This update should specify the required labelling methods (e.g., document headers/footers, metadata tagging, file naming conventions, physical labels for printed materials) and assign clear responsibilities for classification and labelling throughout the information lifecycle. Additionally, develop a concise 'Information Labelling Standard' or 'Procedure' document that provides step-by-step instructions and examples for employees on how to correctly classify and apply labels to various information types across different systems and platforms. Implement mandatory training sessions and integrate relevant tools to ensure consistent adoption and compliance."
+    },
+    {
+      "control_id": "A.8.2.1",
+      "source": "ISO",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the classification of information by defining classification levels (Confidential, Internal, Public) and the requirement for labeling. It also explicitly covers the encryption requirement for sensitive data, including the NCIC example provided in the control, ensuring encryption in transit and at rest. However, the policy *does not* address the enforcement of 'access controls' or the requirement for alignment with an 'Acceptable Use Policy', which are both explicit components of the control.",
+      "domain": "data_protection",
+      "remediation": "Update the 'Control' to explicitly state that information must be classified into the 'Confidential, Internal, Public' categories defined in the policy, and that it must be appropriately labeled. Furthermore, clarify that for information classified as 'Confidential' (which includes sensitive data like NCIC and CJIS), encryption must be enforced both in transit and at rest, alongside robust access controls that align with the assigned classification."
+    },
+    {
+      "control_id": "AC-2",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the user-centric requirements of the control, specifically stating that 'All users must keep passwords secure' and 'must not share accounts'. However, it completely omits the crucial administrative aspect of the control, which mandates that 'administrators must manage user accounts including creation, modification, and removal according to the Acceptable Use Policy'. Without language addressing administrator responsibilities for account lifecycle management, the policy only partially fulfills the control's requirements.",
+      "domain": "access_control",
+      "remediation": "The current 'Authentication and Password Management' Policy focuses solely on user responsibilities. To align with the control, the policy must be expanded to include explicit provisions detailing administrator responsibilities for user account lifecycle management. This should cover:\n\n1.  **Account Creation:** Requirements and procedures for establishing new user accounts.\n2.  **Account Modification:** Guidelines for changes to existing accounts, such as password resets, permission updates, or role changes.\n3.  **Account Removal/Deactivation:** Clear procedures and timelines for disabling or deleting accounts when users leave the organization or no longer require access, ensuring these actions align with the Acceptable Use Policy.\n\nThis expansion will bridge the gap by formally embedding the administrative duties specified in the control into the relevant policy document, providing a comprehensive framework for both user and administrative aspects of authentication and password management."
+    },
+    {
+      "control_id": "AC-3",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy addresses two key aspects of the control: limiting access based on roles and responsibilities (least privilege) and conducting periodic access reviews. However, it omits the requirement for this access limitation and review process to be 'in alignment with the Acceptable Use Policy'. The lack of explicit mention or linkage to the AUP makes the coverage partial.",
+      "domain": "security_governance",
+      "remediation": "Update the 'POLICY' to explicitly state that access limitations and periodic reviews must be conducted in alignment with the organization's 'Acceptable Use Policy'. This will bridge the gap where the 'CONTROL' mandates AUP alignment, but the 'POLICY' currently omits this specific requirement."
+    },
+    {
+      "control_id": "IA-5",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the requirements for passwords to be kept confidential ('All users must keep passwords secure') and for account sharing to be strictly prohibited ('must not share accounts'). However, the policy fails to mention or refer to any 'complexity requirements' for passwords, which is a specific demand of the control. While multi-factor authentication is mentioned in the policy, it is a separate control mechanism and does not substitute for password complexity requirements.",
+      "domain": "access_control",
+      "remediation": "Update the CONTROL to explicitly include the multi-factor authentication (MFA) requirement, ensuring it aligns with the POLICY's mandate. Additionally, consider enhancing the POLICY by explicitly defining or referencing 'password complexity requirements' to provide a clearer and more enforceable foundation for the 'keep passwords secure' mandate, aligning with the detail already present in the CONTROL."
+    },
+    {
+      "control_id": "IR-4",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy partially addresses the control. It mentions reporting incidents immediately and having an 'established escalation and response process,' which aligns with parts of 'reporting, and responding to security incidents' and 'escalation.' However, it lacks explicit mention of a procedure for 'detecting' security incidents. More critically, it completely omits 'containment' and 'forensic investigation' steps. Furthermore, the control requires the policy to 'describe' these steps, but the provided policy is very brief and only states the existence of a process rather than detailing any specific steps or procedures for reporting, response, containment, escalation, or forensic investigation.",
+      "domain": "incident_response",
+      "remediation": "Update the 'Incident Response Policy' to provide more detailed guidance on the 'escalation and response process'. Specifically, the policy should define or clearly outline the key phases of incident response, including requirements for containment, eradication, recovery, and post-incident activities such as forensic investigation. This will ensure the policy contains the foundational details that the control expects it to describe, enabling the 'Incident Response Procedure' to properly follow these policy-defined steps."
+    },
+    {
+      "control_id": "SC-12",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the core technical requirement to encrypt sensitive data (including NCIC and CJIS information) both in transit and at rest. However, the control includes a specific directive that this encryption must be 'in accordance with the Acceptable Use Policy.' The provided policy does not explicitly state this alignment or reference the Acceptable Use Policy, which is a specific component of the control's requirement. While the technical mandate is met, the procedural/contextual alignment specified in the control is not explicitly addressed by the policy.",
+      "domain": "data_protection",
+      "remediation": "Update the Control to explicitly include 'CJIS information' to match the policy's scope and remove the redundant reference to the 'Acceptable Use Policy'. The revised Control should read: 'Sensitive data, including NCIC and CJIS information, must be encrypted both in transit and at rest.'"
+    },
+    {
+      "control_id": "SC-28",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy fully addresses the encryption requirement for sensitive data, including NCIC information, by specifying encryption both in transit and at rest. However, it fails to address two critical components of the control: the requirement for 'restricted access' to sensitive information and the explicit linkage stating that protection must be 'in compliance with the Acceptable Use Policy'.",
+      "domain": "data_protection",
+      "remediation": "The primary gap is that the Policy focuses solely on encryption, while the Control explicitly mandates both 'encryption' and 'restricted access'. To bridge this, the existing 'Encryption' policy should be expanded, or a new 'Data Access Control' policy should be created, to explicitly include requirements for restricted access to sensitive information, particularly NCIC/CJIS data. \n\n**Specific Remediation Steps:**\n\n1.  **Update the Policy Document:** Amend the current 'Encryption' policy (or develop a broader 'Data Protection/Access Control' policy) to add a dedicated section on 'Restricted Access' for sensitive data.\n\n2.  **Define Restricted Access Principles:** This new section should detail specific requirements, including but not limited to:\n    *   **Need-to-Know Basis:** Access to NCIC, CJIS, and other sensitive data must be granted only to individuals who require it to perform their official job functions.\n    *   **Role-Based Access Control (RBAC):** Implement and enforce granular RBAC to ensure users are assigned only the minimum necessary permissions required for their role.\n    *   **Access Logging and Monitoring:** Mandate the logging of all access attempts (successful and unsuccessful) to sensitive data. These logs must be regularly reviewed for suspicious activity.\n    *   **Regular Access Reviews:** Require periodic (e.g., quarterly, semi-annual) reviews of user access rights to sensitive data systems, with immediate revocation for users who no longer require access or have left the organization.\n    *   **Segregation of Duties:** Where applicable, ensure that no single individual has control over all aspects of a critical data process.\n\n3.  **Reference AUP:** Explicitly state that all access to and handling of sensitive data must also comply with the organization's Acceptable Use Policy (AUP), reinforcing the link mentioned in the control."
+    },
+    {
+      "control_id": "PL-2",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "The provided policy is essentially a title and a number (presumably a section start) with no content. It does not document any security policies, acceptable use, access control, or encryption requirements. Furthermore, it provides no evidence or mechanism for enforcement or any reference to an Acceptable Use Policy, which are all explicit requirements of the control.",
+      "domain": "security_governance",
+      "remediation": "The primary gap is that the 'Information Security Policy' provided is essentially a title and an empty section, failing to address the requirements detailed in the 'CONTROL'. The 'CONTROL' explicitly states that security policies, including acceptable use, access control, and encryption requirements, 'must be documented and enforced'.\n\n**Remediation:**\n1.  **Develop the Comprehensive Information Security Policy:** The 'Information Security Policy - Compliant Version' needs to be fully developed. This foundational document should:\n    *   Clearly state the organization's commitment to information security.\n    *   Outline the scope and applicability of the policy.\n    *   Include a high-level section *mandating* the existence and adherence to specific sub-policies for acceptable use, access control, and encryption requirements.\n    *   Define the roles and responsibilities for policy adherence and enforcement.\n2.  **Create/Update Specific Sub-Policies:** Develop or update distinct, detailed policies for each area mentioned in the control:\n    *   **Acceptable Use Policy (AUP):** A dedicated document that clearly defines permissible and prohibited uses of company assets (IT systems, networks, data) and employee responsibilities.\n    *   **Access Control Policy:** A detailed document outlining rules for granting, managing, reviewing, and revoking access to systems, applications, and data based on principles like least privilege and need-to-know.\n    *   **Encryption Requirements Policy/Standard:** A document specifying when, where, and how encryption must be applied (e.g., data at rest, data in transit, specific data classifications) and the approved encryption methods/technologies.\n3.  **Establish Cross-Referencing:** The overarching 'Information Security Policy' must explicitly reference these detailed sub-policies (AUP, Access Control Policy, Encryption Policy). Conversely, the sub-policies should reference back to the main 'Information Security Policy' for context and authority.\n4.  **Define Documentation and Enforcement Mechanisms:** Integrate clear procedures into the policies (or supporting documents) for:\n    *   **Documentation:** How policies are created, reviewed, approved, version-controlled, and made accessible to all relevant personnel.\n    *   **Enforcement:** How compliance will be monitored, non-compliance addressed (e.g., disciplinary actions), and how training and awareness programs will reinforce policy requirements. This includes defining audit processes to verify policy adherence."
+    },
+    {
+      "control_id": "AT-2",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy addresses the general requirement for 'regular training on security awareness.' However, it fails to explicitly mention the critical specific topics required by the control, namely 'acceptable use,' 'phishing prevention,' and 'incident reporting.' The policy's statement 'security awareness and responsibilities' is too broad to confirm coverage of these specific, mandatory components outlined in the control.",
+      "domain": "security_governance",
+      "remediation": "Update the 'Security Training' section of the Information Security Policy to explicitly enumerate the required topics for regular security awareness training. This should include, but not be limited to, acceptable use of information systems, phishing prevention techniques, and clear procedures for incident reporting. This enhancement will ensure the policy fully outlines the specific content expected by the control, providing comprehensive guidance and eliminating ambiguity."
+    },
+    {
+      "control_id": "4.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy states that 'All users must... follow multi-factor authentication requirements,' which covers the MFA requirement for human users, including those with administrative and privileged accounts. However, the control specifically requires MFA for 'all administrative and privileged accounts.' This wording is broader than 'all users' and can include non-human accounts such as service accounts, system accounts, or shared administrative accounts, which may not fall under the 'All users' definition in a typical policy context. Therefore, while human administrative logins are likely covered, the policy does not explicitly address the full scope of 'all administrative and privileged accounts' as defined by the control, potentially missing non-user-specific accounts or roles. Additionally, the control specifically emphasizes high-risk accounts, a focus not explicitly present in the policy's general 'all users' statement.",
+      "domain": "access_control",
+      "remediation": "Update the 'Authentication and Password Management' policy to explicitly state the requirement for multi-factor authentication (MFA) for all administrative and privileged accounts. While the current policy broadly states MFA for 'All users,' it lacks the specific emphasis and mandatory application for these critical account types that the control aims to enforce. Revising the policy to include this specific requirement will ensure clear alignment and provide the necessary foundational support for the control, particularly in its reference to being 'in alignment with the Access Control Policy'."
+    },
+    {
+      "control_id": "7.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy directly addresses the requirement to 'perform regular vulnerability scans' by stating 'Regular vulnerability scans must be performed.' It also addresses remediation by requiring 'security patches applied in a timely manner.' However, the term 'remediate findings' in the control is broader than just 'security patches.' Remediation can include configuration changes, disabling services, implementing compensating controls, or code fixes, which are not explicitly covered by 'security patches.' Additionally, while the policy itself sets the standard, the control's 'in accordance with the Information Security Policy' implies that the remediation process (e.g., prioritization, timelines for different severities, risk acceptance procedures) should align with other defined aspects of the broader Information Security Policy, which this snippet does not detail.",
+      "domain": "incident_response",
+      "remediation": "Update the 'Vulnerability Management' section of the Information Security Policy to explicitly define: \n1.  **Scope of Remediation:** Broaden 'security patches' to 'all identified vulnerabilities and findings' (e.g., configuration errors, missing controls, weak credentials).\n2.  **Timeliness:** Establish specific, risk-based remediation timelines for different severity levels of vulnerabilities/findings (e.g., Critical: 7 days, High: 30 days, Medium: 60 days).\n3.  **Frequency of Scans:** Define 'regular' vulnerability scan frequency (e.g., monthly for critical systems, quarterly for others, or continuous for specific environments).\n\nAlternatively, if the policy is intended to remain high-level, create a mandatory 'Vulnerability Management Standard' or 'Procedure' that is explicitly referenced by the policy and details these specifics."
+    },
+    {
+      "control_id": "16.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy addresses the core requirements of immediate reporting and established escalation procedures, aligning well with the Incident Response Policy. However, it does not explicitly state that the reporting process is 'for all staff' or detail the 'maintenance' of such a process. While 'must be reported immediately' implies a process, the control specifically asks for a maintained process 'for all staff' which is not explicitly covered by the policy snippet's wording.",
+      "domain": "incident_response",
+      "remediation": "Update the documented 'incident reporting process' to explicitly require security incidents to be reported immediately. Furthermore, expand the process's scope from merely 'escalation procedures' to detail the full 'incident response process' as outlined in the Incident Response Policy, including specific steps beyond just initial escalation. Ensure all staff receive updated training on these enhanced requirements for immediate reporting and the complete response process."
+    },
+    {
+      "control_id": "16.2",
+      "source": "CIS",
+      "coverage": "none",
+      "justification": "The control explicitly requires 'regular incident response exercises' to 'validate the effectiveness' of the policy. The provided policy describes the immediate reporting, escalation, and response process for actual incidents. However, it does not mention or mandate any form of exercises, drills, or simulations designed to test, practice, or validate the effectiveness of this process or the personnel involved. Therefore, the policy does not address the control's requirement for conducting exercises.",
+      "domain": "incident_response",
+      "remediation": "The Incident Response Policy should be updated to explicitly define the requirements for establishing, maintaining, and validating the incident response process. Specifically, it should:\n\n1.  **Mandate a Formal Incident Response Plan:** Require the creation and maintenance of a detailed Incident Response Plan (IRP) that elaborates on the 'established escalation and response process,' including specific roles, responsibilities, communication protocols, technical procedures (containment, eradication, recovery), and reporting requirements.\n2.  **Incorporate Exercise Requirements:** Directly state the necessity for regular incident response exercises, drills, or simulations (e.g., annually, semi-annually), defining the scope and objectives for these exercises.\n3.  **Define Post-Exercise Review and Update Procedures:** Include a clause requiring a formal post-exercise review to assess the effectiveness of the IRP and the overall incident response capabilities. This review should identify gaps, recommend improvements, and mandate the updating of the IRP and related policies/procedures based on lessons learned from these exercises.\n\nThis remediation ensures the policy provides the necessary framework and enforceability for the control's requirement of validating the incident response process."
+    },
+    {
+      "control_id": "17.1",
+      "source": "CIS",
+      "coverage": "none",
+      "justification": "The policy provided is extremely minimal and does not contain any content that addresses the control. The control requires users to be *informed* of security requirements and responsibilities, specifically *as outlined in the Acceptable Use Policy*. The provided policy snippet does not mention any mechanism for informing users, nor does it refer to security requirements, responsibilities, or an Acceptable Use Policy. Therefore, there is no evidence that the policy addresses this control.",
+      "domain": "security_governance",
+      "remediation": "The 'Information Security Policy - Compliant Version' (or a new relevant section within it) must be expanded to include explicit clauses detailing how users will be informed of security requirements and their responsibilities for handling information. This policy section should directly reference the Acceptable Use Policy (AUP) as the primary document outlining these specific requirements and responsibilities. It should also specify the methods and frequency of this communication (e.g., mandatory training, policy acknowledgment, new hire onboarding)."
+    },
+    {
+      "control_id": "17.2",
+      "source": "CIS",
+      "coverage": "none",
+      "justification": "The policy states that employees must undergo training, which establishes the existence of a training requirement. However, the control explicitly requires 'Track and document employee participation'. The policy makes no mention of tracking, documenting, maintaining records of participation, or assigning responsibility for doing so. Therefore, it completely fails to address the core mechanism and accountability aspect of the control.",
+      "domain": "security_governance",
+      "remediation": "Amend the Information Security Policy to include specific, actionable details regarding security training. The policy should define:\n\n1.  **Training Frequency:** Specify how often employees must undergo training (e.g., annually, upon hiring, or when significant policy changes occur).\n2.  **Required Content:** Outline the core topics that must be covered in the security training (e.g., data privacy, phishing awareness, password best practices, incident reporting procedures, acceptable use policies). This provides clarity on what 'security training programs' entail.\n3.  **Documentation Standards:** Explicitly state the accepted methods of documenting training completion (e.g., Learning Management System (LMS) records, completion certificates, signed attendance sheets, quizzes/assessments). This directly supports the 'Track and document' control by providing a clear standard for what constitutes verifiable participation.\n4.  **Responsibilities:** Clearly assign ownership for ensuring training delivery, tracking completion, and reporting compliance (e.g., HR, IT Security Department, or a designated training coordinator)."
+    },
+    {
+      "control_id": "5.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy addresses the general concepts of limiting access based on roles and responsibilities and conducting periodic access reviews, aligning with parts of the control. However, the control specifically requires limiting *administrative* privileges. The policy's statement 'Access to systems and data' is too broad and does not differentiate or provide specific guidance for the heightened security required for administrative privileges. Furthermore, while periodic reviews are mentioned, the policy does not define 'regularly' or 'periodic' (e.g., frequency, scope), which the control implies should be defined in the Access Control Policy itself.",
+      "domain": "access_control",
+      "remediation": "Update the 'Access Control Policy' to explicitly define the frequency and scope of 'periodic access reviews.' Specifically, the policy should: 1. Define what 'periodic' means (e.g., quarterly, semi-annually, annually, or upon role changes/terminations). 2. Explicitly address administrative privileges, aligning with the control's focus by outlining specific review frequencies or enhanced scrutiny for these high-risk access types."
+    },
+    {
+      "control_id": "5.29",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy partially addresses the control. It explicitly states that 'Information security must be maintained during disruptions through defined continuity and recovery plans,' which covers the 'during network disruptions' aspect and the mechanism for maintenance. However, the policy omits 'security incidents' as a specific scenario requiring information security maintenance, and it completely lacks any mention of 'in alignment with the Acceptable Use Policy' as required by the control.",
+      "domain": "incident_response",
+      "remediation": "Revise the Policy to explicitly address 'security incidents' as a type of disruption, specify that 'incident response plans' are the mechanism for maintaining security during such events (in addition to continuity and recovery plans for general disruptions), and include a reference to compliance with the Acceptable Use Policy."
+    },
+    {
+      "control_id": "8.2.1",
+      "source": "CIS",
+      "coverage": "partial",
+      "justification": "The policy effectively addresses the core requirement of information classification and labeling, specifying the correct categories (Confidential, Internal, Public). However, it fails to address the governance aspect of the control, specifically the requirement that the 'Information Classification Policy' (which this snippet appears to be part of or represent) must be 'referenced in the Acceptable Use Policy'. The provided policy snippet does not contain any such cross-reference, which is a explicit part of the control.",
+      "domain": "security_governance",
+      "remediation": "Amend the 'Information Classification' section in the policy to explicitly reference the 'Information Classification Policy' and the 'Acceptable Use Policy'. This ensures that the policy aligns with the control's expectation that classification and labeling procedures are defined in a separate Information Classification Policy, and that user awareness and compliance are addressed via the Acceptable Use Policy. \n\n**Revised Policy Text Example:**\n\n**3. Information Classification:** All data must be classified (Confidential, Internal, Public) and appropriately labeled, in accordance with the detailed guidelines provided in the organization's **Information Classification Policy**. User responsibilities and acceptable handling practices are further defined in the **Acceptable Use Policy**."
+    }
+  ]
+}

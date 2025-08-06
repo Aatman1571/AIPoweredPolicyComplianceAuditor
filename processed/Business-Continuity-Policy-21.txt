@@ -1,0 +1,705 @@
+BUSINESS 
+CONTINUITY 
+POLICY  
+This document is not a controlled document if printed.  
+ 
+ - 2 -   
+This document sets out the University’s business continuity policy . 
+ 
+To be reviewed annually  and/or when major organisational change occurs.  
+ 
+INTRODUCTION AND CON TEXT  
+The loss, or disruption of Aston University critical activities requires an effective Business 
+Continuity plan. Good business practice, health and safety duty of care, student expectations 
+and increasing regulatory requirements dictate that we have proactive plans and procedures 
+to enable us to respond to and manage a major incident or business interruption.  
+The University will have in place a st rategy, implemented solutions and documented 
+business continuity plans. Achieving these objectives form part of an on -going commitment 
+to ensure our strategy, solutions, documentation and staff awareness, remains current and 
+effective.  
+This document descr ibes the key elements of Business Continuity at Aston University. It is 
+divided into the following sections:  
+ Business Continuity Planning Policy  
+Demonstrates the university’s commitment to protecting its people, assets, reputation and 
+educational activitie s. 
+ Roles & Responsibilities  
+A definition of the key roles in preparing to meet, and recover from, any major incident that 
+threatens the continued operation of the University’s academic operations. Responsibilities 
+both pre and post incident are described h ere. 
+ Business Continuity Planning Standards  
+Business Continuity Planning Standards by which Aston University will implement the 
+Business Continuity Planning Policy . 
+The Business Continuity Policy & Standards document is designed for use by all of its 
+facul ties and supporting departments.  The Policy & Standards supplement any regulatory or 
+legislative obligations to protect our people, assets, reputation or essential business 
+functions and services.  Version  1.4 
+Executive Sponsor  Executive director of HR and OD  
+Officer Responsible for Policy/ Procedures  Director of Health Safety and Business 
+Continuity  
+Consultation Process  EOG / HSEEC  
+Date of Approval and Committee and/or 
+Executive Officer  Executive  
+ 
+Effective Date  January 2020  
+ 
+ - 3 - The Standards embody the principles of Aston Business Cont inuity Policy endorsed by the 
+Executive Team. The Standards represent the minimum requirements for the University’s 
+Business Continuity Management System (BCMS).  
+1. TERMINOLOGY  
+Terminology in use throughout this and all other documents that together form the Aston 
+University Business Continuity Management System (BCMS).  
+Emergency   Any event which requires an immediate 
+response to contain the situation and prevent to 
+event from escalating or worsening  
+Incident  - Any event that threatens our people, assets or 
+reputation or seriously impairs, disrupts or halts 
+essential academic operations and activities.  
+Business Continuity 
+Planning  BCP The ability to continue key university operations 
+in the event of any incident that interrupts 
+normal business at the univers ity. 
+Business Continuity Plan  BCP The university’s plan for escalating, addressing 
+and recovering from a significant incident.  
+Business Continuity 
+Management System  BCMS  The management process by which Business 
+Continuity eco system, plans and procedures  
+are developed, implemented, tested and 
+maintained.  
+Business Continuity 
+Manager  BCM  The person tasked with day -to-day responsibility 
+for ensuring that the university adheres to the 
+Business Continuity Management regime.  
+Business Continuity 
+Champion  BCC  The person in each School and support 
+department responsible for owning and ensuring 
+the School and departmental plans are current.  
+Risk Assessment   RA The process by which the university assesses 
+its key risks for which it requires a Business 
+Continuity Plan.  
+Business Impact Analysis  BIA The process by which the university decides 
+upon recovery priorities, timescales and 
+minimum recovery resources  
+Vice Chancellors 
+Response Team  VCRT  The university’s strategic level business 
+continuity planning and response team.  
+Critical Incident 
+Response Team  CIRT  The university’s tactical level business continuity 
+planning and response team.  
+ 
+  
+ 
+ - 4 - 2. BUSINESS CONTINUITY PLANNING POLICY  
+2.1 Business Continuity Policy Statement  
+Aston University is committed to the development and implementation of business continuity, 
+appropriate to the scale, nature, complexity and geography of the University, and the 
+relevant environments in which we operate.  
+Aston University believes the way in which we plan, prepare and respond to incidents is key 
+to our overall effective recovery and continuance. Business Continuity plays a critical part in 
+the University overall control environment.   
+All aspects of business continuity planning at Aston are  in keeping with the Business 
+Continuity Institute’s (BCI) Good Practice Guide and are aligned to BS EN ISO 22301:2014 . 
+2.2 The Key Aims of the Policy  
+The key aims of the policy are:  
+ The protection of people, assets, earning capacity, information, reputation, brand and 
+value of the university and its key stakeholders.  
+ Compliance with regulatory and governance obligations following an unforeseen incident.  
+ Ensuring that plans are fit for purpose through regular training, updating and testing to 
+agreed standards.  
+2.3 The Key Principles of the Policy  
+The key principles to which Aston University commits, are:  
+ Complying with legislation and regulatory requirements and delivering appropriate 
+governance and reporting processes.  
+ Following the Business Continuity Institute ( BCI) ‘Good Practice Guidelines’ and alignment 
+to BS EN ISO 22301:2014 in developing and maintaining Business Continuity strategies 
+and plans.  
+ Providing adequate resources to achieve delivery of the Business Continuity Management 
+programme.  
+ Providing approp riate education and training in Business Continuity Management to all 
+staff to increase their awareness and to enable them to understand their roles and 
+responsibilities.  
+ Embedding Business Continuity Management as an integral part of the university’s 
+operations and good management practice.  
+ Reviewing Business Continuity ‘best practice’ and updating the university’s Business 
+Continuity Management strategy and standards accordingly.  
+ Developing procedures to assess the effectiveness of Business Continuity pan s and carry 
+out testing annually, based upon pertinent scenarios.  
+  
+ 
+ - 5 - 3. BUSINESS CONTINUITY STRATEGY  
+The intent of business continuity at Aston University is to minimise disruption to the provision 
+of higher education and research to our students.  
+3.1 Business Continuity Objectives  
+Aston University business continuity objectives are to ensure that in respect of incidents:  
+ Risks to people and the business are properly identified, evaluated, recorded and 
+managed.  
+ Measures to avoid or reduce the risk are implement ed at an acceptable cost.  
+ Risks, and the measures implemented to control them, are reviewed regularly to ensure 
+their continued viability and relevance.  
+ All legal, regulatory and duty of care requirements are met.  
+ Develop a robust Business Continuity capability through ‘fit for purpose’ plans and 
+appropriate education and training for all staff to increase their awareness and skills.  
+These objectives are to be met through the implementation of procedures in line wi th the 
+Standards as described in the following sections.  
+3.2 Business Recovery Intent and Priorities  
+Following a disruption or incident, the following business continuity intent and priorities will 
+apply:  
+‘The intent during a disruption is the continued provis ion of higher education to our students 
+in a safe operating environment.’  
+To achieve this intent, Aston University maintains the following priorities:  
+People:  Safety and well -being of:  
+ Staff, contractors and visitors  
+ Students  
+ Next of Kin  
+Education:  Minim ising disruption to:  
+ Education and research  
+ Assessments  
+ Recruitment  
+ Student experience  
+Assets:  Protecting:  
+ Data  
+ IT Infrastructure  
+ Physical Infrastructure  
+Reputation:  Protecting Aston University’s reputation through:  
+ Communication with internal stakeholders  
+ Communication with external stakeholders  
+ 
+  
+ 
+ - 6 - 4. STRUCTURE, ROLES & R ESPONSIBILITIES  
+4.1 Structure  
+The overall ownership and accountability for Business Continuity Management rests with the 
+Vice-Chancellor ’s Response Team.  
+Business Continuity roles a t Aston University are separated into Planning  (i.e. pre -incident) 
+roles and Invocation  (i.e. post incident) roles. The organisational structure for Business 
+Continuity operates at the Strategic, Tactical and Operational levels.  
+Planning teams in essence take up key response roles following a major incident, as shown 
+below:  
+Planning Organisation (Pre -Incident)     Invocation Organisation (Post -Incident)  
+  
+GOLD
+TEAM
+BRONZE
+TEAMSRole: Strategic
+•Consider wider issues
+•Give direction
+•High level liaison
+•Media facing
+Role: Tactical
+•Report to VCRT
+•Assess impact
+•Co-ordinate recovery
+•Handle logistics
+Role: Operational
+•Report to CIRT
+•Focus on core activities
+•Handle Work -in-progress
+•Liaise with key clients
+SILVER
+TEAMRole: BC Ownership
+•Sponsor BCP
+•Set Policy
+•Agree budgets/resources
+•Provide BCM oversight
+Role: BC Management
+•Report to ExeComm
+•Champion BCP
+•Manage BCM programme
+•Monitor remedial actions
+Role: BC Support
+•Report to Steer. Group
+•Maintain departmental plan
+•Support exercises & tests
+•Promote staff awarenessEXEC
+COMM
+DEPT
+ADMINS
+STEERING
+GROUP
+GOLD
+LEVEL
+SILVER
+LEVEL
+BRONZE
+LEVEL
+Vice -Chancellor’s 
+Response Team
+VCRT
+Critical Incident 
+Response Team
+CIRT
+Schools and 
+Support Services 
+Departments
+ 
+ 
+ 
+ 
+ - 7 - 4.2 Team Membership  
+  
+
+ 
+ - 8 - 4.3 Key roles and responsibilities  
+Ser. Role  Responsibilities during business as 
+usual  Responsibilities during a 
+disruption  
+1 Vice 
+Chancellor ’s 
+Response Team   Actively supports the Business 
+Continuity Management programme.  
+ Allocates adequate resources and 
+budget to business continuity.  
+ Approves the business continuity 
+Business Continuity Plan,  
+ Ensures the continued effectiveness 
+of the business continuity approach.  
+ Appoints the business continuity 
+manager.  
+ Attends annual training and exercise.   Forms the Strategic Team.  
+ Sets policy and direction  
+ Repre sents the public face 
+of the university.  
+2 Executive 
+Director of 
+Human 
+Resources & 
+Organisational 
+Development  
+ 
+Director of 
+Health, Safety 
+and Business 
+Continuity   Accountable for ensuring that 
+appropriate business continuity 
+arrangements are implemented fo r the 
+processes, systems and other 
+resources upon which the university 
+depends.  
+ Develops and maintains the business 
+continuity programme, which 
+describes how, by whom and with 
+what frequency the various elements 
+of the business continuity 
+arrangements, are  to be tested.  
+ Acts as the business continuity expert 
+throughout the university.  
+ Supports all aspects of tenders and 
+client assurance relating to business 
+continuity.  
+ As required reports to the VCRT on 
+the status and progress of business 
+continuity.  Assists the VCRT and the CIRT 
+as might be required in terms of 
+adherence to processes.  
+ Critical Incident 
+Response Team 
+(CIRT)   Meet to review the Business 
+Continuity Management programme, 
+progress, issues etc.  
+ Reports annual Business Continuity 
+Management  Programme status to the 
+VCRT.  
+ Set the schedule for coming year.  
+ Attends annual training and exercise.   Assess impact and plan 
+response and recovery  
+ Provide direction to School 
+and Support Departments  
+ Manage resources  
+ 
+ - 9 - Ser. Role  Responsibilities during business as 
+usual  Responsibilities during a 
+disruption  
+4 School and 
+Support 
+Department 
+Business 
+Continuity 
+Champion  
+(See Annex A)   On behalf of Head of School or 
+Support Department, implements and 
+maintains the School or support 
+department response plan in 
+accordance with Aston University’s 
+business continuity policy.  
+ Ensures staff in the off ice are aware of 
+business continuity arrangements.  
+ Co-ordinates validation of business 
+continuity arrangements for own 
+School or department.   Member of the site response 
+team.  
+ Oversees the administrative 
+support for the site response 
+team.  
+ Acts as the busin ess 
+continuity expert for the site 
+response team.  
+5 Head of School 
+or Support 
+Department   Signs off own Business Impact 
+Analysis and Business Continuity 
+plan.  
+ Nominates School and Department 
+Business Continuity Champion (BCC).    
+ 
+  
+ 
+ - 10 - 5. BUSINESS CONTINUITY PLANNING STANDARDS  
+5.1 Introduction  
+The Standards embody the principles of Aston University’s Business Continuity Policy 
+endorsed by the VCRT.  These standards supplement any local regulatory or legislative 
+obligations to protect essential business functions and services.  The standards define best 
+Business Continuity practice and provide the basis for more detailed local standards where 
+these are appropriate.  
+5.2 Governance & Reporting  
+In order to assure compliance with the Business Continuity Policy and that an appropriate 
+level of Business Continuity Management capability is developed and maintained, Business 
+Continuity is to be reported to the VCRT on an annual basis, or more frequently when 
+considered necessary by the CIRT.   
+5.3 The Business Continuity Management  Programme Life Cycle  
+Business Continuity strategies, solutions and plans are complex and require considerable 
+effort to maintain, communicate and exercise. The Business Continuity Management effort is 
+best approached as a three -year rolling programme.  
+The Business Continuity Institute (BCI) – an internationally recognised good practice 
+authority – recommends the following approach, a life cycle based on the Plan -Do-Check -
+Act model:  
+ 
+                      The Plan -Do-Check -Act model  The BCI’s Business Continuity Management cycle  
+
+ 
+ - 11 - 6. POLICY AND PROGRAMME  MANAGEMENT  
+The Business Continuity Policy and Standards document sets out the scope and governance 
+for the Business Continuity Management programme. It sets out the methodology by which 
+the programme will be delivered.  
+The Business Continuity Management programme requires the following documents to be 
+maintained:  
+Ser Document  Frequency 
+of update  Author  
+1.  Business Continuity Policy and 
+Standards.  Annual.  Director of Health, Safety and 
+Business Continuity  
+2.  Business Continuity Programme 
+Schedule.  On-going.  Director of Health, Safety and 
+Business Continuity  
+7. ANALYSIS  
+7.1 Business Impact Analysis (BIA)  
+A review of the BIA will be conducted at least every two years and is part of the strategic 
+review process. It may not be necessary to conduct a full BIA survey but the review will at 
+least confirm or provide an opportunity to amend the findings of the mos t recent BIA.  
+Amongst other things, the BIA will determine:  
+ Critical activities.  
+ Recovery Time Objectives (RTO) for all activities.  
+ Recovery resource requirements (workspaces, systems, services etc.) required to 
+maintain Critical activities.  
+Through an un derstanding of organisational changes and technology developments within 
+the university, and an understanding of the criticality of activities achieved through the BIA 
+the CIRT will be able to determine whether or not the current recovery strategies meet t he 
+university’s needs.  
+7.2 Risk Assessment  
+Aston University will maintain a university wide Business Continuity Risk Register which will 
+integrate into the University’s group wide Risk Register.  
+Within Business Continuity, a Risk Assessment will identify risk s to the University, its people, 
+assets, operations and reputation that will inform the Business Continuity Management plans 
+and programme.  
+A review of the key risks will be conducted annually and is part of the strategic review 
+process.  
+  
+ 
+ - 12 - 7.3 Impact Levels  
+In order to set a common level of impact metrics across the process, Aston University will 
+use the following impact levels for all analysis.  
+Impact Type  Sub 
+Impact 
+Type  Level of Impact 
+– Impact Score      
+  Dealt with by 
+School/schools 
+or prof services 
+unit. Dealt with by 
+School/schools 
+or prof services 
+unit but CIRT 
+informed  CIRT with 
+VCRT informed  VCRT and 
+CIRT active  VCRT and 
+CIRT active  
+  1 2 3 4 5 
+  Insignificant  Minor  Moderate  
+Tolerance - 
+RTO  Major  
+MAO  Extreme  
+People  Safety  Minor Injury 
+(local first aid) - 
+no psychological 
+effects  
+ Injury (out 
+patient) - no 
+long term 
+psychological 
+effects  Temporary 
+Disability (in 
+patient) <20 
+people require 
+counselling  Death or life 
+changing 
+injury 20 -100 
+people 
+require 
+counselling  Multiple 
+Fatalities 100 
+people  require 
+counselling  
+ Staff 
+availabilit
+y Potential staff 
+absenteeism of 
+less than 10% in 
+a School / 
+department.  Potential staff 
+absenteeism of 
+up to 25% in a 
+School / 
+department.  Potential staff 
+absenteeism of 
+up to 50% in a 
+School / 
+department.   
+ Potential staff 
+absenteeism 
+of up to 75% 
+in a School / 
+department.  Potential staff 
+absenteeism 
+over 75% in a 
+School / 
+department.  
+ Wellbein
+g Insignificant 
+inconvenience 
+staff/student.  Minor 
+staff/student 
+dissatisfaction 
+that requires 
+some local 
+recompense.  Staff/student 
+dissatisfaction 
+that requires 
+some formal 
+apology and 
+recompense.  Major 
+staff/student 
+dissatisfaction 
+that involves 
+claim through 
+legal 
+representative
+. Major 
+staff/student 
+dissatisfaction 
+that is being 
+taken to law 
+courts for 
+significant 
+claim.  
+Assets  Financial 
+(Loss / 
+Cost)  <£100k  £100k - £1m  £1m - £5m  £5m - £20m  >£20m  
+ Premises 
+availabilit
+y Alternate real 
+estate available 
+for activity at 
+dep/func level  Alternate real 
+estate available 
+for activity in 
+wider university  5-10% of 
+university 
+compromised - 
+alternate real 
+estate required 
+outside of 
+university  10-25% of 
+university 
+compromised 
+- alternate 
+real estate 
+required 
+outside of 
+university  25-50% of 
+university 
+compromised - 
+alternate real 
+estate required 
+outside of 
+university  
+ IT 
+Services  Minor local 
+outage  Prolonged 
+localized outage 
+more than 24 
+hours  Loss of several 
+systems  
+Less than 24 
+hours  Loss of 
+several 
+systems more 
+than 24 hours  Loss of all 
+systems eg 
+active directory 
+failure  
+Reputation  N/A Reference in 
+press but no 
+reputational 
+damage  Reputational 
+criticism 
+requiring a 
+considered 
+response  Reputational 
+damage 
+requiring 
+proportionate 
+response  Reputational 
+loss requiring 
+strategic 
+intervention  Irredeemable 
+loss of 
+reputation with 
+effect on 
+strategic intent  
+ 
+ - 13 - Compliance  N/A No Impact / 
+sanction  Adverse 
+assessment of 
+service  Adverse 
+assessment at 
+business level; 
+remedial action 
+urgent  Adverse 
+assessment 
+published and 
+sanctions 
+imposed  Regulator 
+exercises 
+powers with 
+impact on 
+university 
+strategy with 
+organisati onal 
+re-adjustment  
+Services, 
+Teaching, 
+Research 
+and 
+Innovation  N/A Minor Disruption  Disruption to 
+services / 
+faculties  Failure to 
+deliver key 
+services  Prolonged 
+failure of 
+several 
+services  Sustained 
+failure to deliver 
+all services  
+ 
+The Business Continuity Management programme requires the following documents to be 
+maintained:  
+Ser. Document  Frequency 
+of update  Author  
+1.  Business impact analysis and risk 
+assessment methodology.  Annual.  Director of Health, Safety and 
+Business Continuity  
+2.  School and Support Department 
+Business impact analyses.  Annual.  Relevant School and Support 
+Department Business Continuity 
+Coordinators.  
+3.  University business continuity risk 
+assessment.  Annual.  Director of Health, Safety and 
+Business Continuity  
+ 
+8. DESIGN  
+The design phase identifies and selects appropriate strategies and tactics to determine how 
+recovery from disruption and continuity will be achieved. The design phase of Business 
+Continuity enables Aston University to determine and document appropriate Bus iness 
+Continuity strategies. This incorporates:  
+ A response structure that allows the University to respond to any given disruption in an 
+appropriate and proportionate manner.  
+ Recovery options that enable us to meet the recovery times identified for each cr itical 
+activity.  
+ Mitigation measures that will reduce the likelihood and or reduce the impact of the 
+identified threats.  
+  
+ 
+ - 14 - 9. IMPLEMENT ATION  
+Aston’s crisis management and recovery Plans enable the university to execute agreed 
+strategies and tactics. The plans  identify and document the priorities, procedures, 
+responsibilities and resources to assist each response team to manage a disruption, while 
+implementing continuity and recovery strategies to a pre -determined level.  
+The Business Continuity Management progr amme requires the following plans to be 
+maintained:  
+Ser Document  Frequency 
+of update  Author  
+1. VCRT Crisis Management and 
+Recovery Plan.  Annual.  Director of Health, Safety and 
+Business Continuity.  
+2. CIRT Crisis Management and 
+Recovery Plan.  Annual.  Director of Health, Safety and 
+Business Continuity.  
+3. School and Support Department 
+Recovery Plans.  Annual.  Relevant School and Support 
+Department Business Continuity 
+Coordinators.  
+4. Individual business continuity aide 
+memoires  Annual.  Director of Heal th, Safety and 
+Business Continuity.  
+10. VALIDATE  
+Validation is the phase that confirms that Business Continuity is meeting the identified 
+objectives and that the university’s arrangements are fit for purpose. The purpose of 
+validation is to ensure that the B usiness Continuity capability reflects the nature, scale and 
+complexity of Aston University to ensure it is current, accurate, and complete, with actions 
+taken to continually improve business continuity.  
+10.1 Training and Exercising  
+Testing is an on -going process. Exercising and testing  the business continuity capability and 
+competence falls into three categories:  
+ Emergency Response: emergency evacuation drills should be undertaken twice yearly.  
+ Cascade Call:  testing the key contacts callout should take place every year.  
+ Scenario:  there should be a scenario based workshop exercise of the VCRT and CIRT 
+every year.  
+ Recovery Testing:  tests of the recovery strategies should be carried out annually. Such 
+tests will encompass technology and/ or user exercises.  
+10.2 Management Review  
+The CIRT will meet at the end of each programme year to answer and report to the VCRT on 
+the question:  
+Is our Business Continuity strategy still fit for purpose?  
+The agenda will address the question: Is our Business Con tinuity strategy appropriate?  
+ Does it take into account organisational changes that have occurred in the past year?  
+ 
+ - 15 -  Have there been any major technology upgrades, additions that are no longer covered by 
+the current solution(s)?  
+ Do the recovery strategies m eet regulatory and the university’s requirements?  
+The review should take into account the results and recommendations from tests and 
+exercises conducted over the past year alongside the findings of the most recent Risk 
+Assessment (RA) and Business Impact A nalysis (BIA).  
+Programme Management  
+At the beginning of each year, targets and objectives for the year will be set and agreed by 
+the VCRT. These will then be reviewed at year -end to measure achievements, reschedule 
+and/or redirect planning efforts etc. fo r the coming year.  
+10.3 Post disruption reviews  
+If there is a formalised response to a disruption at the university, i.e. the CIRT has been 
+invoked, then a post -disruption review will be undertaken to ensure all lessons are captured. 
+Lessons identified thus bec ome lessons learnt.  
+The Director of Health, Safety and Business Continuity (or School/Support Department 
+Business Continuity Coordinator if affected) is responsible for documenting post disruption 
+reviews.  
+The Business Continuity Management programme requ ires the following documents to be 
+maintained:  
+Ser Activity or Document  Frequency of update  
+ Management review by VCRT.  Annual.  
+ Management review by CIRT.  As a minimum - Annual.  
+ Business continuity exercises for the VCRT and 
+the CIRT.  Annual.  
+ Evidence of staff awareness training.  As required.  
+ Post exercise reports.  As required.  
+ Post disruption reviews.  On going.  
+ 
+ 
+  
+ 
+ - 16 -

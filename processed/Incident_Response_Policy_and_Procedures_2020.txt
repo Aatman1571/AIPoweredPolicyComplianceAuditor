@@ -1,0 +1,777 @@
+Incident Response Policy & Procedures   Policy Document  
+  
+ 
+ 
+ 
+iCIMS  – Information Security  
+ 
+INCIDENT RESPONSE  POLICY  & 
+PROCEDURES
+  
+ 
+Policy  Document  
+ 
+ 
+ 
+ 
+
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 1                           1. DOCUMENT PURPOSE  
+1.1. This document defines the policy for addressing Security Incidents through appropriate 
+Incident Response .  
+1.2. This document applies to all Personnel and supersedes all other policies relating to the 
+matters set forth herein.  
+  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 2                            
+2. TERMS  & DEFINITIONS  
+ 
+Term/Acronym  Definition  
+Data Breach  A Security Incident that directly impacts Personal Data, Sensitive Personal 
+Information or Personally Identifiable Information.  
+Data Controller  Means the person or organization that determines the purpose and means of the 
+Processing of Personal Data.  
+Escalation  The engagement of additional resources to resolve a Security Incident.  
+Incident Response / Incident 
+Management  Process for detecting, reporting, assessing, responding to, dealing with, and learning 
+from Security Incidents.  
+Information Security  Preservation of confidentiality, integrity, and availability of Information and the 
+equipment, devices or services containing or providing such Information.  
+Personal Data  Means any information relating to an identified or identifiable Data Subject, where 
+such information is protected under applicable law. For clarity, Personal Data includes 
+any SPD, SPI, and/or Tracki ng Data that directly or indirectly identifies a Data Subject.  
+Personnel  iCIMS employees (part and full time) and interns.  
+Security Event  An identified occurrence of a system, service or network state indicating a possible 
+breach of information security policy, a possible exploitation of a Security Vulnerability 
+or Security Weakness or a previously unknown situation that can be security relevant.  
+Security Incident  A single or series of unwanted or unexpected Security Events that compromise 
+business operations with an impact on Information Security.  
+Security Incident Response Team 
+(SIRT)  A predefined group of individuals needed and responsible for responding to a Security 
+Incident, managed by the Information Security  Department .  During a Security 
+Incident, the SIRT is responsible for communication with and coordination of other 
+internal groups.  
+ 
+Security Vulnerability  A weakness of an existing asset or control that can be exploited by one or more 
+threats.  
+Security Weakness  A weakness that results f rom the lack of an existing, necessary control.  
+  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 3                           3. SCOPE  
+The objective of this policy is to ensure a consistent and effective approach to the management 
+of Security Incidents, including the identification and communication of Security Events and 
+Security Weaknesses.  
+ 
+4. INCIDENT RESPONSE POLICY  
+ 
+The Incident Response policy is as follows:  
+ 
+• Management responsibilities and procedures should be established to ensure a quick, 
+effective , and orderly response to Security Incidents . 
+ 
+• The objectives for Security Incident management should be agreed upon with 
+management, and it should be ensured that those responsible for Security Incident 
+management understand the organization’s priorities for handling Security Incidents.  
+ 
+• Security Even ts should be reported through appropriate management channels as quickly 
+as possible.  
+ 
+• Personnel and contractors using the organization’s information systems and services are 
+required to note and report any observed or suspected Security Weakness in system s or 
+services.  
+ 
+• Security Events should be assessed and it should be decided if they are to be classified 
+as Security Incidents.  
+ 
+• Security Incidents should be responded to in accordance with documented Incident 
+Response procedures.  
+ 
+• Knowledge gained from a nalyzing and resolving Security Incidents should be used to 
+reduce the likelihood or impact of future incidents.  
+ 
+• Procedures should be defined and applied for the identification, collection, acquisition, and 
+preservation of information, which can serve as evidence.  
+ 
+• Awareness should be provided on topics such as:  
+ 
+o The benefits of a formal, consistent approach to Incident Management (personal 
+and organizational);  
+o How the program works, expectations;  
+o How to report Security Incidents, who to contact;  
+o Constraints imposed by non -disclosure agreements.  
+ 
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 4                            
+• Communication channels should be established well in advance of a Security Incident. 
+Include all necessary parties in relevant communication:  
+ 
+o SIRT members  
+o Senior Management  
+o iCIMS Personnel  
+ 
+• In the event  a Security Incident, Data Controllers , government bodies and other necessary 
+parties  should be notified in a reasonable timeframe, and in compliance with regulatory 
+and other applicable requirements and guidance . 
+ 
+  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 5                            
+ 
+iCIMS – Information Security  
+ 
+INCIDENT RESPONSE PROCEDURES
+  
+ 
+Process Document  
+ 
+  
+
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 6                            
+5. DOCUMENT PURPOSE  
+1.3. The purpose of this document is to define the Incident Response procedures followed 
+by iCIMS in the event of a Security Incident. This document is a step -by-step guide of 
+the measures Personnel are required to take to manage the lifecycle of Security 
+Incidents within iCIMS, from initial Security Incident recognition to restoring normal 
+operations . This process will ensure that all such Security I ncidents are detected, 
+analyzed, contained and eradicated, that measures are taken to prevent any further 
+Securit y Incidents, and, where necessary or appropriate, that notice is provided to law 
+enforcement authorities, Personnel, and/or affected parties.  
+1.4. This document applies to all Personnel and supersedes all other procedures, 
+practices, and guidelines relating to the matters set forth herein.  
+6. TERMS & DEFINITIONS  
+ 
+Term/Acronym  Definition  
+Abnormal Activities  Unsuccessful attacks that appear particularly significant based on iCIMS 
+understanding of the risks it faces.  
+Data Breach  A Security Incident that directly impacts Personal Data, Sensitive Personal 
+Information or Personally Identifiable Information.  
+Data Controller  Means the person or organization that determines the purpose and means of the 
+Processing of Personal Data.  
+Escalation  The engagement of additional resources to resolve or provide the status regarding a 
+Security Incident.  
+GCO  General Counsel’s Office  
+Incident Record  Created at the time a Security Incident is initially recognized. Contains all relevant 
+information pertaining to the Securi ty Incident.  
+Incident Response / Incident 
+Management  Process for detecting, reporting, assessing, responding to, dealing with, and learning 
+from Security Incidents.  
+Information Security  Preservation of confidentiality, integrity, and availability of Information and the 
+equipment, devices or services containing or providing such Information.  
+Personal Data  Means any information relating to an identified or identifiable Data Subject, where 
+such information is protected under applicable law. For clarity,  Personal Data includes 
+any SPD, SPI, and/or Tracking Data that directly or indirectly identifies a Data Subject.  
+Personally Identifiable Information 
+(PII) Means any information about a Data Subject, whether in paper, electronic, or other 
+form, which can be used to distinguish or trace an individual’s identity, such as name, 
+email address, or telephone number.  
+Personnel  iCIMS employees (part and full time) and interns.  
+Security Event  An identified occurrence of a system, service or network state indicati ng a possible 
+breach of information security policy, a possible exploitation of a Security Vulnerability 
+or Security Weakness or a previously unknown situation that can be security relevant.  
+Security Incident  A single or series of unwanted or unexpected S ecurity Events that compromise 
+business operations with an impact on Information Security.  
+Security Incident Response Team 
+(SIRT)  A predefined group of individuals needed and responsible for responding to a Security 
+Incident, managed by the Information Security Department.  During a Security 
+Incident, the SIRT is responsible for communication with and coordination of other 
+internal groups.  
+Sensitive Personal Information (SPI)  Means specific standalone PII or a combination of information that could identify, 
+trace, or locate a Data subject, which if lost, compromised, or disclosed without 
+authorization, could result in substantial harm, embarrassment, inconvenience, or 
+unfairness to an individual.  
+Security Vulnerability  A weakness of an existing ass et or control that can be exploited by one or more 
+threats.  
+Security Weakness  A weakness that results from the lack of an existing, necessary control.  
+ 
+ 
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 7                             
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 8                           7. SCOPE  
+This document covers the Incident Response process for all identified Security Incidents.  
+ 
+The following activities will be covered:  
+• Detection  
+• Analysis  
+• Containment  
+• Eradication  
+• Recovery  
+• Post-Incident Activities  
+ 
+The Incident Response process is considered complete once Information confidentiality, integrity, 
+and/or availability are restored to normal and verification has occurred.  
+ 
+8. OVERVIEW  
+8.1. Roles and Responsibilities  
+Individuals needed and responsible for responding to a Security Incident make up the SIRT. 
+Core members will include the following:  
+• Director, Information Security  (SIRT Primary Lead)  
+• Assistant General  Counsel  & Director, Legal & Compliance  (SIRT Secondary 
+Lead)  
+• Security team staff  
+• Information owner  
+ 
+Other groups and/or individuals that may be needed include:  
+• Senior management  
+• General Counsel’s Office (GCO)  
+• Human Resources (Talent)  
+• End User Support  
+• ISS or Dev Ops  Staff 
+• Building and/or facilities management staff  
+• Other Personnel involved in the Security Incident or needed for resolution  
+• Contractors (as necessary)  
+• Communications Resources  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 9                            
+9. PROCESS  
+ 
+ 
+ 
+ 
+9.1. Detection Phase  
+In the detection phase the SIRT, or an internal or external entity, identifies a Security Event 
+that may be  the result of a potential exploitation of a Security Vulnerability or a Security 
+Weakness , or that may be the result of an innocent error .   
+Immediately upon observation or notice of any suspected Security Event, Personnel shall use 
+reasonable efforts to promptly report such knowledge and/or suspicion to the Information 
+Security  Department  at the following address:  
+• Email: InformationSecurity@icims.com  
+ 
+A Security Event may be discovered in many ways, including the following:  
+• Observation of suspicious behavior or unusual occurrences ; 
+• Lapses in physical or procedural security;  
+• Information coming into the possession of unauthorized Personnel or Third Parties ; 
+• Information inappropriately exposed on a publicly facing website.   
+ 
+To assess whether a Security Event must be reported, Personnel should consider whether 
+there are indications that:  
+• Information was used by unauthorized Personnel or Third Parties;  
+
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 10                           • Information has been downloaded or copied inappropriately from iCIMS's  
+computer systems or equipment;  
+• Equipment or devices containing Information have been lost or stolen;  
+• Equipment or device s containing Information have been subject to unauthorized 
+activity (e.g., hacking, malware).  
+• Personal Data has been publicly exposed  
+ 
+In addition, the following situations should be considered for Security E vent reporting:  
+• Ineffective security controls;  
+• Breach of information integrity, confidentiality or availability expectations;  
+• Human errors  (innocent or otherwise) ; 
+• Non–compliance with policies or standards;  
+• Breaches of physical security arrangements;  
+• Uncontrolled systems changes;  
+• Malfunctions of softwa re or hardware;  
+• Access violations.  
+ 
+Even if Personnel are not sure whether a Security Event is an actual Security Incident they 
+are still required to report it as provided herein, as it is better to be cautious than to be 
+compromised.  
+The SIRT  will usually  require the reporter to supply further information, which will depend upon 
+the nature of the Security Event. However, the following information normally shall  be 
+supplied:  
+• Contact name and information of person reporting the Security Event;  
+• Date and time the Security Event occurred  or was noticed ; 
+• Type and circumstances of the Security Event;  
+• The type of data, information, or equipment involved;  
+• Location of the Security Event, data or equipment affected;  
+• Whether the Security Event puts any person or other data at risk; and  
+• Any associated ticket numbers, emails or log entries associated with the Security 
+Event.  
+ 
+SIRT Primary Lead  will ensure that the SIRT is promptly engaged once  such notice  is 
+received . The following actions will also be taken:  
+1. The SIRT, un der the leadership of the SIRT Primary Lead , shall use reasonable 
+efforts to analyze the matter within four (4) hours of notice and decide whether to 
+proceed with the Analysis Phase of the Incident Response Procedures.  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 11                           a. Determination to initiate the Analysi s Phase must be made quickly so 
+that Personnel can make an initial determination as to the urgency and 
+seriousness of the situation.  
+2. Upon m aking the  decision to begin the Analysis Phase, if the SIRT suspects that 
+the Security Event may result in damage to the reputation of iCIMS or legal liability, 
+the GCO shall initiate a legal assessment of actual or potential legal issues.   
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 12                           9.2. Analysis Phase  
+The initial response to detection of a Security Event is typically the Analysis Phase. In this 
+phase the SIRT determines whether or not a Security Event is an actual Security Incident.   To 
+determine if a Security Event is a Security Inc ident the following considerations apply : 
+1. Leverage diagnostic data to analyze the Security Event using tools directly on the 
+operating system or application .  This may include , but not be limited to:  
+(i) Taking screenshots, memory dumps, consult logs and network traces;  
+(ii) Performin g analysis on the information being collected;  
+(iii) Analyzing the precursors and indications;  
+(iv) Looking for correlating information; and  
+(v) Performing research (e.g., search engines, knowledgebase).  
+ 
+2. Identify  whether the Security Event was the result of an innocent error, or the 
+actions of a potential attacker.  If the latter, effort shall be made to identify who the 
+potential attacker  may be, by :  
+(i) Validating the attacker's IP address;  
+(ii) Researching the attacker through search engines;  
+(iii) Using incident databases;  
+(iv) Monitoring attacker communication channels, if possible; and  
+(v) In unique cases, and with the approval of legal counsel, potentially 
+scanning the attacker's system.  
+ 
+If the SIRT has determined that a Security Event has triggered a Security Incident, the 
+appropriate SIRT team members will be engaged accordingly and the SIRT will begin 
+documenting the investigation and gathering evidence.  The type of Security I ncident i s based 
+on the nature of the event. Example types are listed as follows:  
+1. Data exposure.  
+2. Unauthorized access.  
+3. Distributed Denial of Service/ Denial of Service (DDoS/DoS).  
+4. Malicious code.  
+5. Improper usage.  
+6. Scans/Probes/Attempted access.  
+If it is determined tha t a Security Incident has not been triggered, additional activities noted 
+under ‘5.6.  Post-Incident Activities’ may be initiated under the direction of the SIRT.   
+ 
+The Security Incident’s potential impact on iCIMS and/or its subscribers shall be evaluated 
+and the SIRT shall assign an initial severity classification of low, medium, high or critical to 
+the Security Incident.  To analyze the situation, scope, and impact, the SIRT shall: 
+1. Define and confirm the severity level and potential impact of the Security  Incident.  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 13                           2. Identify which resources have been affected and forecast which resources will be 
+affected.  
+3. Estimate the current and potential effect of the Security Incident.  
+ 
+The SIRT shall attempt to determine the scope of the Security Incident and verify if the 
+Security Incident is still ongoing. Scoping the Security Incident may include collecting forensic 
+data from suspect systems or gathering evidence that will support the investigation. It may 
+also include identifying any potential data theft or destructi on. New investigative leads may be 
+generated as the collected data is analyzed.  If the Security Incident involves malware, the 
+SIRT shall analyze the malware to determine its capabilities and potential impact to the 
+environment. Based on the evidence revie wed, the SIRT will determine if the Security Incident 
+requires reclassification as to its  severity  or cause (e.g., whether it was originally thought to 
+be the action of a malicious actor but turned out to be an innocent error, or vice versa) .  
+As indicated  above, a Security Incident may require evidence to be collected. The collection 
+of such evidence shall be done  with due diligence and the following procedures shall apply : 
+1. Gathering and handling of evidence (forensics) shall include:  
+(i) Identifying information (e.g., the location, serial number, model number, 
+hostname, media access control (MAC) address, and IP address of a 
+computer);  
+(ii) Name, title, and phone number of everyone who collected or handled the 
+evidence during the investigation ;  
+(iii) Time and date (including time zone) of each occurrence of evidence 
+handling;  
+(iv) Locations where the evidence was stored , and conditions of storage (e.g., 
+locked spaces, surveilled spaces) ; and  
+(v) Reasonable efforts to create two backups of the affected sys tem(s) using 
+new, unused media — one is to be sealed as evidence and one is to be 
+used as a source of additional backups.  
+2. To ensure that evidence is not destroyed or removed, where any Personnel are 
+suspected of being responsible for  a Security Incident, i CIMS shall, consistent with 
+its procedures, use reasonable efforts to place monitoring and forensics agents 
+and/or confiscate all computer/electronic assets that have been assigned to him  or 
+her. 
+(i) This task may be done surreptitiously, and should be completed  as quickly 
+and in as non -intrusive a manner as possible.  
+(ii) The SIRT should consider restricting access to the computers and attached 
+peripherals (including remote access via modem, secure remote system 
+access, etc.) pending the outcome of its exami nation.  
+3. Where applicable, and depending upon the seriousness of the Security Incident, 
+items and areas that should be secured and preserved in an “as was” condition 
+include:  
+(i) Work areas (including wastebaskets);  
+(ii) Computer hardware (keyboard, mouse, monitor, CPU, etc.);  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 14                           (iii) Software;  
+(iv) Storage media (disks, tapes, removable disk drives, CD ROMs, etc.);  
+(v) Documentation (manuals, printouts, notebooks, notepads);  
+(vi) Additional components as deemed relevant (printer, cables, etc.);  
+(vii) In cases of damage, the computer system an d its surrounding area, as 
+well as other data storage devices, should be preserved for the potential 
+collection of evidence (e.g., fingerprinting);  
+(viii) If the computer is “Off”, it should not be turned “On”. For a stand -alone 
+computer system, if the computer is “On”, the Information Security and 
+IT Departments are to be contacted.  
+4. It is important to establish who was using the computer system at the time of the 
+Security Incident and/or who was in the immediate area. The SIRT should obtain 
+copies of applicable records (e.g., access logs, swipe card logs, closed circuit 
+television (“CCTV”) recordings) as part of the investigation.  
+5. Based on the severity level and the categorization of the Security Incident, the 
+proper team or Personnel shall be notified and contac ted by the SIRT.  
+6. Until the SIRT, with the approval of iCIMS management, makes the Security 
+Incident known to other Personnel, the foregoing activities shall be kept 
+confidential to the extent possible.  
+If it is determined that a Security Incident has occur red and may have a significant impact on 
+iCIMS or its subscribers, the SIRT shall determine whether additional resources are required 
+to investigate and respond to the Security Incident. The extent of the additional resources will 
+vary depending on the nat ure and significance of the Security Incident.  
+ 
+Abnormal Activities Notification:  
+The SIRT recognizes that there may be many attempts to gain unauthorized access to, disrupt 
+or misuse information systems and the information stored on them, and that many o f these 
+attempts will be thwarted by iCIMS’ information security program.  In general, the SIRT will not 
+report unsuccessful attacks to customers. For example, the SIRT would generally not be 
+required to report to a Data Controller or customer if it makes a  good faith judgment that the 
+unsuccessful attack was of a routine nature.  
+ 
+However, the SIRT will take reasonable steps to notify customers or Data Controllers of any 
+identified Abnormal Activities. For example, in making a judgment as to whether a partic ular 
+unsuccessful attack should be reported, iCIMS might consider whether handling the attack 
+required measures or resources well beyond those ordinarily used, like exceptional attention 
+by senior personnel or the adoption of extraordinary non -routine prec autionary steps.  In cases 
+of identified Abnormal Activities, the Data Controller or customer would be notified by means 
+agreed upon by iCIMS and the Data Controller or customer within twenty -four (24) hours upon 
+iCIMS becoming aware of the Abnormal Activi ty. 
+ 
+Data Breach Notification:  
+ 
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 15                           If it is determined during the analysis phase that a Security Incident has occurred that 
+constitutes a Data Breach, with notification obligations based on regulatory, legal, or similar 
+requirements, notification of such Data  Breach shall be provided to the impacted Data 
+Controller by email, telephone, or other means agreed upon by iCIMS and the Data Controller, 
+within twenty -four (24) hours upon iCIMS becoming aware of the Data Breach.   Additional 
+activities noted under ‘5.6.  Post-Incident Activities’ may also be initiated under the direction 
+of the SIRT.   
+ 
+ 
+9.3. Containment Phase  
+The Containment Phase mitigates the root cause of the Security Incident to prevent further 
+damage or exposure.  This phase attempts to limit the impact o f a Security Incident prior to 
+an eradication and recovery event. During this phase, the SIRT may implement controls, as 
+necessary, to limit the damage from a Security Incident.  If a Security Incident is determined 
+to be caused by innocent error, the erad ication phase may not be needed.  For example, after 
+reviewing any information that has been collected investigating the Security Incident the SIRT 
+may:  
+1. Secure the physical and network perimeter.  
+i. For example, shutting down a system, disconnecting it from the network, 
+and/or disabling certain functions or services.  
+2. Connect through a trusted connection and retrieve any volatile data from the 
+affected system.  
+3. Determine the relative integrity and the appropriateness of backing the system up.  
+4. If appropriate, b ack up the impacted system.  
+5. Change the password(s) to the affected system(s). Personnel, as appropriate, 
+shall be notified of the password change.  
+6. Determine whether it is safe to continue operations with the affected system(s).  
+i. If it is safe, allow the system to continue to function, in which case the SIRT 
+will:  
+a. Update the Incident Record accordingly; and   
+b. Move to the Recovery Phase.  
+ii. If it is not safe to allow the system to continue operations, the SIRT will 
+discontinue the sys tem(s) operation and move to Eradication Phase.   
+iii. The SIRT may permit continued operation of the system under close 
+supervision and monitoring if:  
+1. Such activity will assist in identifying individuals responsible for the 
+Security Incident;  
+2. The system can r un normally without risk of disruption, compromise 
+of data, or serious damage; and  
+3. Consensus has been reached within the SIRT before taking the 
+supervision and monitoring approach.  
+7. The final status of this stage should be appropriately documented in the 
+Incident Record.  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 16                           8. The SIRT shall apprise senior management of the progress, as appropriate . 
+ 
+During the Analysis and Containment Phases, the SIRT shall keep notes and use appropriate 
+chain of custody procedures to ensure that the evidence gathered during the Security Incident 
+can be used successfully during prosecution, if appropriate.  
+  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 17                           9.4. Eradication Phase  
+The Eradication Phase is the phase where vulnerabilities causing the Security Incident, and 
+any associated compromises, are removed from the environment.  An effective eradication 
+for a targeted attack removes the attacker’s access to the environment all a t once, during a 
+coordinated containment and eradication event. Although the specific actions taken during the 
+Eradication Phase can vary depending on the Security Incident, the standard process for the 
+Eradication Phase shall be  as follows:   
+1. Determine th e symptoms and cause related to the affected system(s).  
+2. Eliminate components of the Security Incident. This may include deleting malware, 
+disabling breached user accounts, etc.  
+3. Strengthen the controls surrounding the affected system(s), where possible (a risk 
+assessment will be performed, if needed). This may include the following:  
+i. Strengthening network perimeter defenses.  
+ii. Improving monitoring capabilities or scope.  
+iii. Remediating any security issues within the affected system(s), such as 
+removing unused serv ices or implementing general host hardening 
+techniques.  
+iv. Conduct a vulnerability assessment to verify that all the holes/gaps that can 
+be exploited have been addressed.   
+4. If additional issues or symptoms are identified, take appropriate preventative 
+measure s to eliminate or minimize potential future compromises.  
+5. Update the Incident Record with the information learned from the vulnerability 
+assessment, including the cause, symptoms, and method used to fix the problem 
+with the affected system(s).  
+6. If necessary,  escalate to higher levels of support to enhance capabilities, 
+resources, or time -to-eradication.  
+7. Apprise senior management of progress, as appropriate . 
+ 
+After iCIMS has implemented the changes for eradication, it is important to verify  that cause of 
+and individual(s) causing  the Security Incident is fully eradicated from the environment.  The 
+SIRT shall also  test the effectiveness of any security controls or changes that were made to the 
+environment during containment and eradication.  
+  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 18                           9.5. Reco very Phase  
+The Recovery Phase represents the SIRT’s effort to restore the affected system(s) to 
+operation after the problems that gave rise to the Security Incident, and the consequences of 
+the Security Incident,  have been corrected.  Recovery events can be complex depending on 
+the Security Incident type and can require full project management plans to be effective.  
+Although the specific actions taken during the Recovery Phase can vary depending on the 
+identified Security Incident, the standard process to accomplish this shall be  as follows:  
+1. Execution  of the following actions, as appropriate:  
+• Installing patches.  
+• Rebuilding systems.  
+• Changing passwords.  
+• Restoring systems from clean backups.  
+• Replacing affected files with clean versions.  
+2. Determination whether the affected system(s) has been changed in any way.  
+a. If the system(s) has been changed, the system is restored to its proper, 
+intended functioning (“last known good”).  
+i. Once restored, the system functions are validated to verify that the 
+system/process funct ions as intended. This may require the involvement of 
+the business unit that owns the affected system(s).  
+ii. If operation of the system(s) had been interrupted (i.e., the system(s) had 
+been taken offline), it should be restored and validated, and the system(s ) 
+should be monitored for proper behavior.  
+b. If the system(s) has not been changed in any way, but was taken offline (i.e., 
+operations had been interrupted), restart the system and monitor for proper 
+behavior.  
+3. Implementation of additional monitoring and aler ting may be done  to identify similar 
+activities.  
+4. Update the Incident Record with any details determined to be relevant during this 
+phase.  
+5. Apprise senior management of progress, as appropriate . 
+ 
+ 
+  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 19                           9.6. Post -Incident Activities  
+In addition to the Data Breach an d Abnormal Activities notification requirements identified in 
+the analysis phase above, and after verification of a successful containment and any 
+necessary eradication, the SIRT shall take the following post -incident activities, as may be 
+necessary:  
+I. Communications  
+A. Notification  
+When warranted or required by judicial action, law, or regulation, iCIMS shall use 
+reasonable efforts to provide notice to Personnel and/or affected parties about a 
+Security Incident involving the Sensitive and/or Confidential I nformation of such 
+stakeholders. For example:  
+1. Where it has been determined, or the SIRT and management reasonably 
+believe, that there has been unauthorized access to or release of unencrypted 
+customer data;  
+2. Where the Security Incident has compromised the security, confidentiality or 
+integrity of Confidential Information.  
+ 
+Upon deciding to notify  the SIRT, in consultation with senior management , shall 
+use reasonable efforts to provide notice and disclosure to Personnel and/or 
+affected parties within twenty -four (24) hours and, subject to applicable law, prior 
+to notification of law enforcement personnel. Delay may nonetheless occur in 
+instances where it is mandated or authorized by applicable law. For example, 
+disclosure might be delayed if notice would impe de a criminal investigation or if 
+time is required to restore reasonable integrity to iCIMS's  information systems.  
+ 
+If appropriate, the SIRT may:  
+1. Prepare a general notice and arrange for providing  the notice to Personnel 
+and/or affected parties;  
+2. Prepare a FAQ based on the notice and arrange to have it posted to the iCIMS 
+website after the notice has been sent;  
+3. Identify a point a contact for Personnel and/or affected parties to contact if 
+further information is sought; and  
+4. Establish a toll -free number for us e by stakeholders.  
+ 
+iCIMS’s objective is to provide notice in a manner designed to ensure that 
+Personnel and/or affected parties can reasonably be expected to receive the 
+disclosure.  
+The form  and content of the  of notification may either be by letter (firs t class mail) 
+or by email sent to an address where Personnel and/or affected parties can 
+reasonably be expected to receive the disclosure  or other, similar means . 
+The notification, in clear and plain language, may contain the following elements:  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 20                           1. A description of the Security Incident that includes as much detail as is 
+appropriate under the circumstances;  
+2. The type of information subject to unauthorized access;  
+3. Measures taken by iCIMS to protect the Information of Personnel and/or 
+affected parties fro m further unauthorized access;  
+4. A contact name and toll -free number that Personnel and/or affected parties 
+may use to obtain further information;  
+5. A reference to the page on the iCIMS website where updates may be obtained;  
+6. A reminder to guard against possibl e identify theft by being vigilant with respect 
+to banking or credit activity for twelve to twenty -four months;  
+7. Contact information for national credit reporting agencies;  
+8. Other elements as may be required by applicable law or whose inclusion the 
+SIRT may  otherwise consider appropriate under the circumstances.  
+ 
+B. Cooperation with External Investigators  
+In the event that the SIRT considers it appropriate to inform law enforcement 
+authorities or to retain forensic investigators or other external advisors, the 
+following information shall be collected to provide to such authorities or 
+investigators:  
+1. To the extent known, details of the:  
+a. Security Incident ( date, time, place, duration, etc.);  
+b. Person(s) under suspicion (name, date of birth, address, 
+occupation/positi on, employment contracts, etc.);  
+c. Computer and network log files pertaining to the Security I ncident(s);  
+d. “Ownership” details of any Information that is allegedly stolen, altered, 
+or destroyed;  
+e. The access rights to the computer system involved of the person(s) 
+under investigation;  
+f. Information obtained from access control systems (e.g., computer 
+logs, CCTV, swipe card systems, attendance logs, etc.); and  
+g. Any action taken by the IT department in relation to the computer 
+systems concerned, including the d ate and time.  
+2. A copy of applicable  iCIMS Data Privacy and Security Policy (“Policy”) in force 
+at the time of the incident (if applicable); and  
+3. Any other documentation or evidence relevant to the internal investigation of 
+the Security Incident.  
+ 
+C. Information  Sharing and Media Relations  
+Security Incident -specific information (e.g., dates, accounts, programs, systems) 
+must not be provided to any unknown individuals making such requests by 
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 21                           telephone or email. Any release of Security Incident -specific information  should 
+only be to individuals previously identified by the SIRT. All requests for information 
+from unknown individuals should be forwarded to the SIRT. If there is any doubt 
+about whether information can be released, contact the GCO.  
+Contact with law enfo rcement authorities shall only be made by the GCO in 
+consultations with the SIRT and senior management.  
+In the event of a Security Incident, where  members of the media make inquiries, 
+Personnel are to be made aware that all requests for the release of info rmation, 
+press releases, or media interviews must be submitted to the GCO.  
+The GCO, in consultation with the SIRT and senior management, shall determine 
+whether it is appropriate to issue a media statement, hold a press briefing, or 
+schedule interviews.  
+If Sensitive and/or Confidential Information has been compromised and a 
+significant number of individuals, as identified by the SIRT, are affected and/or 
+suspected of being affected, the GCO, upon consultation with outside counsel and 
+subject to applicable law, shall use reasonable efforts to contact applicable 
+consumer reporting agencies prior to sending notices to the affected Personnel 
+and/or affected parties.  
+Certain jurisdictions where iCIMS does business, or where iCIMS’s stakeholders 
+reside, mandate d ifferent disclosure  or notification  obligations. Additionally, a dvice 
+from both inside and outside counsel is required before communication occurs with 
+credit reporting agencies.  
+ 
+D. External Incident Communications  
+After a Security Incident, information may be required to be shared with outside 
+parties, following emergency response procedures as necessary, including:  
+• Law enforcement/incident reporting organizations  
+• Affected external parties  
+• The media  
+• Other outside p arties  
+1. iCIMS will seek to ensure its obligations are fulfilled  by quickly and 
+professionally taking control of communication early during major events. 
+Accordingly, the SIRT will:   
+• Designate a credible, trained, informed spokesperson to address the 
+media;  
+• Determine appropriate clearance and approval processes for the 
+media;  
+• Ensure the organization is accessible by media so they do not resort to 
+other (less credible) sources for information;  
+• Emphasize steps being taken to address the Security Incident ; 
+• Tell the story quickl y, openly, and honestly to counter falsehoods,  
+rumors, or undue suspicion.  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 22                           2. When publicly disclosing information of a Security Incident, the following 
+should be considered:  
+• Was Personal Information compromised?  
+• Was subscriber  data compromised?  
+• Were legal and /or contractual obligations invoked by the Security 
+Incident?  
+• What is the organization’s strategy moving forward?  
+ 
+E. Internal Incident Communications  
+1. Where warranted, the SIRT will ensure that open communication is maintained 
+within the organization to ensure relevant parties are informed of facts, 
+reminded of responsibilities, and capable of dismissing rumors and 
+speculation.  
+2. Aggregate documentation f rom post -mortem/follow -up reviews into the 
+Security Incident record and create a formal report of the Security I ncident to 
+share with senior management, as necessary.   
+ 
+II. Follow Up  
+The Follow -up Phase represents the review of the Security Incident to look f or 
+“lessons learned” and to determine whether the process that was followed could 
+have been improved in any way. Security Events and Security Incidents should be 
+reviewed after identification resolution to determine where response could be 
+improved.  
+The SIRT will meet to review the Security Event or Security Incident record 
+created, as necessary, and perform the following:  
+i) Determine the root cause of the Security Incident and what should be done 
+to ensure that the root cause has been addressed  
+ii) Create a “lessons learned” document and include it with the Incident 
+Record.  
+iii) Evaluate the cost and impact of the Security Event or Incident to the 
+organization using applicable documents and any other resources.  
+iv) Determine what could be improved.  
+v) Communicate these  findings to senior management for approval, as 
+necessary, and for implementation of any recommendations made post -
+review of the Security  Event or  Incident.  
+vi) Carry out recommendations approved by senior management while 
+ensuring that sufficient time and res ources are committed to this activity.  
+vii) Close the Security  Event or  Incident.  
+ 
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 23                           A. Retention and Review of Security Incident Record & Documentation  
+It shall be the responsibility of the SIRT to investigate the Security Incident and 
+establish a n incident  record.  The incident record should be verified during the 
+follow up process to ensure that it documents:  
+1. Relevant factual information or evidence;  
+2. Consultations with Personnel and external advisors; and  
+3. Findings resulting from the collection of factual information or evidence 
+obtained.  
+ 
+The rationale for the creation of a n incident  record is that law enforcement 
+authorities may be informed of Security Incidents or iCIMS may take legal action if 
+individuals causing a Security Incident can be identified. T he implications of each 
+Security Incident are not always discernible at the start of, or even during, the 
+course of a Security Incident. Accordingly, it is important that information is 
+documented and associated information system events are logged.  
+The incident r ecord may be in written or electronic form. If it is maintained in an 
+electronic form, appropriate protections must be applied to guard against the 
+alteration or deletion of the incident r ecord.  
+The information to be reported will vary according to  the specific circumstances 
+and availability of the information, but may include:  
+1. Dates and times when incident -related events occurred;  
+2. Dates and times when incident -related events were discovered;  
+3. Dates and times of incident -related conference calls;  
+4. A description of the Security Incident, including the systems, programs, 
+networks or types of Information that may have been compromised;  
+5. Root c ause(s) of the Security Incident(s), if known , and how they have been 
+addressed ; 
+6. An estimate of the amount of time  spent by Personnel working to remediate 
+incident -related tasks;  
+7. The amount of time spent by Third Parties working on incident -related tasks, 
+including advice from outside counsel;  
+8. The names and contact information of all individuals providing information in 
+connection with the investigation;  
+9. Measures taken to prevent future Security I ncidents , taking into consideration 
+root causes , along with any remediation costs incurred by iCIMS; and  
+10. If applicable, the date and time of law enforcement involvement.  
+ 
+All Personnel have an affirmative obligation to use reasonable efforts to respond 
+to all inquiries for information and cooperate in all investigations.  
+Incident Response Policy & Procedures   Policy Document  
+  Page  | 24                           Review of the incident record and documentation should include the following:  
+1. Review tracked documents of th e Security I ncident to evaluate the following:  
+• The causes of the nonconformity;  
+• Whether similar nonconformities exist or could potentially occur;  
+• The effectiveness of the corrective action taken; and  
+• The effectiveness of the Incident Response process.  
+2. Learn from Security Incidents and improve the response process. Security 
+Incidents must be recorded and a post incident review conducted. Identify the 
+impact of Security Incidents and outline pain points for future security 
+investments. The following details must be retained:  
+• Types of Security Incidents  
+• Volumes of Security Incidents and malfunctions  
+• Costs incurred during the Security Incidents , where possible.  
+ 
+B. Periodic Evaluation of the Program  
+The processes surrounding incident response shall be peri odically reviewed and 
+evaluated for effectiveness. This also involves appropriate training of resources 
+expected to respond to Security Events and Incidents, as well as the training of the 
+general population regarding the organization’s expectation of them , relative to 
+security responsibilities.  
+Security Events and Incidents shall be recorded  for tracking, analysis, and 
+reporting purposes. The following metrics should be considered to assess the 
+overall Security Incident management program:  
+• Overall reductio n in time spent responding to Security Incidents.  
+• Reduction of impact of certain Security Incidents.  
+• Overall reduction of the occurrence of Security Incidents.  
+• Mean time to analysis (MttA)  
+• Mean time to resolution (MttR)

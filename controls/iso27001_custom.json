@@ -1,0 +1,49 @@
+{
+  "domains": [
+    {
+      "name": "Access Control",
+      "controls": [
+        {
+          "ref": "A.5.17",
+          "title": "Authentication information",
+          "summary": "Establish and enforce password and authentication requirements. Users must keep passwords secure, avoid sharing accounts, and follow multi-factor authentication as defined in the Acceptable Use Policy."
+        },
+        {
+          "ref": "A.5.18",
+          "title": "Access rights",
+          "summary": "Access rights must be assigned based on roles and reviewed periodically. Unauthorized access or sharing of accounts is prohibited as stated in the Acceptable Use Policy."
+        }
+      ]
+    },
+    {
+      "name": "Acceptable Use",
+      "controls": [
+        {
+          "ref": "A.5.10",
+          "title": "Acceptable use of assets",
+          "summary": "Define acceptable use of IT assets, including restrictions on unauthorized software, internet misuse, personal email access, and prohibited activities. Monitoring of user activity is permitted as outlined in the Acceptable Use Policy."
+        }
+      ]
+    },
+    {
+      "name": "Information Security Governance",
+      "controls": [
+        {
+          "ref": "A.5.13",
+          "title": "Labelling of information",
+          "summary": "Define and implement labelling requirements for information classification (Confidential, Internal, Public) as described in the Information Security Policy and Acceptable Use Policy."
+        },
+        {
+          "ref": "A.8.2.1",
+          "title": "Classification of information",
+          "summary": "Classify information based on sensitivity (e.g., NCIC data) and enforce encryption and access controls in alignment with the Acceptable Use Policy."
+        },
+        {
+          "ref": "A.5.29",
+          "title": "Information security during disruption",
+          "summary": "Define procedures to ensure information security is maintained during disruptions, including business continuity and disaster recovery measures outlined in the Information Security Policy."
+        }
+      ]
+    }
+  ]
+}

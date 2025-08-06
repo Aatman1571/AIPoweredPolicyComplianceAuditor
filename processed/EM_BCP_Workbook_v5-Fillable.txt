@@ -1,0 +1,493 @@
+The Regional Municipality of Wood Buffalo would like to give credit to the 
+Calgary Emergency Management Agency (CEMA) and the Calgary Chamber of Commerce as the authors of the source material for this guide.Emergency ManagementBusiness 
+Continuity Template
+2 | rmwb.ca/bcpForeword
+ The Regional Municipality of Wood Buffalo recognizes the importance of the 
+business sector as an essential part of our community. The resumption of  business activities is a critical component of overall community recovery  following a disaster. 
+Following a disaster, businesses that have not prepared for disruptions with  
+a business continuity plan are at risk of having to close temporarily, or, at  worst, being unable to resume operations. This business continuity guide  is intended to assist small- and medium-sized businesses plan for the  continuity and resumption of business operations following a disruption.
+business continuity template  | 3directions
+ • Read the Business Continuity Guidebook to learn about the different  
+  components of a Business Continuity Plan (available for download at  
+  rmwb.ca/bcp).
+ • Fill out the Business Continuity Plan Template.
+ • Create duplicates and/or expand sections as needed (e.g. Action
+  Plan Template, Exercise Log).
+ • Save and print your Business Continuity Plan.
+List oF abbreviations
+aeMa Alberta Emergency Management Agency
+bcP Business Continuity Plan
+bcM Business Continuity Manager
+drP Disaster Recovery Program
+rto Recovery Time Objective
+4 | rmwb.ca/bcpintroduction
+There are six steps to developing an effective Business Continuity Plan:
+    steP one: Analyze your business
+     steP two: Assess the risks
+      steP tHree: Develop strategies
+       steP Four: Make a plan
+        steP Five: Exercise your plan                  steP siX: Review your plan
+To develop an effective Business Continuity Plan, tailor it according to the nature
+of your business and its operations. You are encouraged to customize this 
+template to meet your business’s needs.1
+2
+3
+4
+5
+6
+Sign up to receive alerts during an emergency with Alberta Emergency Alert.
+emergencyalert.alberta.ca
+business continuity template  | 5
+contents
+Foreword ................................................................................................. 2
+directions ................................................................................................ 3
+List oF abbreviations ............................................................................. 3
+introduction .......................................................................................... 4
+business continuitY PLan inForMation ........................................... 7
+revision List  ............................................................................................ 8
+distribution List ...................................................................................... 9
+vitaL inForMation ................................................................................ 10
+ Associated Policies, Documents, and Procedures ...................................... 10
+ Staff Contact Numbers ................................................................................ 11
+ Emergency Contact List .............................................................................. 12
+ Supplier Contact List ................................................................................... 13
+ Customer Contact List  ................................................................................ 14
+steP one: anaLYZe Your business ..................................................... 15
+ Employee Roles and Responsibilities .......................................................... 17
+ Key Business Functions ............................................................................... 18
+ Recovery Time Objective (RTO)  ................................................................. 19
+ Impact ......................................................................................................... 20
+steP two: assess tHe risKs ................................................................. 23
+ Risk Matrix ................................................................................................... 24
+steP tHree: deveLoP strateGies ......................................................... 27
+steP Four: MaKe a PLan ....................................................................... 30
+ Evacuation Procedures and Routes ............................................................. 30
+ Action Plan Example ................................................................................... 31
+ Action Plan Template .................................................................................. 32
+steP Five: eXercise Your PLan  ........................................................... 38
+ Exercise Process .......................................................................................... 38
+ Types of Exercises ....................................................................................... 38
+  Workshops .......................................................................................... 38
+  Tabletop ............................................................................................. 38
+  Full-Scale ............................................................................................ 38
+ Exercise Log ................................................................................................ 39
+steP siX: review Your PLan ................................................................. 41
+ Plan Review Cycle ....................................................................................... 41
+staY inForMed ....................................................................................... 44
+ 
+6 | rmwb.ca/bcp
+business continuitY PLan inForMation
+business continuity template  | 7COMPANY NAME
+BUSINESS CONTINUITY
+MANAGER
+CONTACT INFORMATION
+ALTERNATE MANAGER
+CONTACT INFORMATION
+BUSINESS CONTINUITY
+PLAN LOCATION
+8 | rmwb.ca/bcprevision List
+REVISION
+NUMBERDETAILS REVISED BYREVISION 
+DATE
+business continuity template  | 9distribution List
+NAME DETAILS DATE
+10 | rmwb.ca/bcpvitaL inForMation
+BUSINESS  
+LICENCE NUMBER
+GST NUMBER
+INSURANCE  
+POLICY NUMBER
+CRITICAL PAPER  
+RECORDS LOCATION
+BACK-UP COMPUTER 
+RECORDS LOCATION
+associated PoLicies, docuMents,
+and Procedures
+FILE LOCATIONDATE 
+UPDATED
+business continuity template  | 11staFF contact nuMbers
+NAME TITLE PHONE#1 PHONE#2
+12 | rmwb.ca/bcpeMerGencY contact List
+NAME TITLE PHONE#1 PHONE#2
+business continuity template  | 13suPPLier contact List
+NAME COMPANY PHONE#1 PHONE#2
+14 | rmwb.ca/bcpcustoMer contact List
+NAME COMPANY PHONE#1 PHONE#2
+steP one:
+anaLYZe Your business
+what is the purpose of your business?
+what products and services do you provide?
+How do you provide your products and services?
+(e.g. web store, shop, delivery)
+business continuity template  | 15
+do your service providers have business continuity plans in place?
+what are your resource requirements? (e.g. suppliers, equipment, records)
+who is involved in the daily operations? (e.g. employees, suppliers)
+who are your customers?
+16 | rmwb.ca/bcp
+business continuity template  | 17eMPLoYee roLes and resPonsibiLities
+POSITION ROLES AND RESPONSIBILITIES
+GST NUMBER
+INSURANCE  
+POLICY NUMBER
+CRITICAL PAPER  
+RECORDS LOCA-
+TION
+BACK-UP COM-
+PUTER RECORDS 
+LOCATION
+18 | rmwb.ca/bcpKeY business Functions
+BUSINESS  
+FUNCTIONSTAFF 
+REQUIREMENTSRESOURCE 
+REQUIREMENTS
+business continuity template  | 19recover Y tiMe objective (rto)
+ This table will assist you in prioritizing the key business functions that are critical to your operations. 
+Check the maximum timeframe for which a key business function can be interrupted.
+Armed with a better understanding of your key business functions, make a plan to ensure that these 
+functions return to operation within the specified RTO.
+For example, a bakery may survive a supplier disruption for up to 48 hours. It may continue operating 
+with the existing inventory stock of baking ingredients. However, the company will be unable to contin-
+ue operations without further shipments from its suppliers past 48 hours.BUSINESS  
+FUNCTION<24 HRS 48 HRS 72 HRS 1 WEEK2 
+WEEKS1 
+MONTH
+Staff
+IT
+Vital Records
+Internet
+Facilities
+Communications
+Transportation
+Equipment
+Suppliers
+Vendors
+20 | rmwb.ca/bcpiMPact (1 oF 2)
+BUSINESS  
+FUNCTIONPOTENTIAL IMPACTS
+GST NUMBER
+INSURANCE  
+POLICY NUMBER
+CRITICAL PAPER  
+RECORDS LOCA-
+TION
+BACK-UP COM-
+PUTER RECORDS 
+LOCATION
+business continuity template  | 21iMPact (2 oF 2)
+BUSINESS  
+FUNCTIONPOTENTIAL IMPACTS
+GST NUMBER
+INSURANCE  
+POLICY NUMBER
+CRITICAL PAPER  
+RECORDS LOCA-
+TION
+BACK-UP COM-
+PUTER RECORDS 
+LOCATION
+22 | rmwb.ca/bcpnotes:
+business continuity template  | 23steP two:
+assess tHe risKs
+There are different types of risks to consider, such as: natural hazards, human- caused hazards, and technological hazards. Each potential risk carries unique needs which may require special planning.
+The following demonstrates the risks and hazards that your business may be 
+vulnerable to. Assess each risk and imagine how they could potentially affect your ability to continue operating.security
+Theft, vandalism, 
+cyber attack, fraud, 
+sabotage
+Personnel
+Pandemic,
+loss of staff,
+labour actionsecurity
+Theft, vandalism, 
+cyber attack, fraud, 
+sabotageinfrastructure
+Fire, hazardous
+materials, power
+outage, loss of
+utilities
+severe weather
+Flooding, tornado
+hail, windstorm,
+lightningsecurity
+Theft, vandalism, 
+cyber attack, fraud, 
+sabotageoperational
+Supply chain, 
+transportation, IT and 
+telecommunications 
+disruptions
+
+24 | rmwb.ca/bcprisK MatriX
+Consider the different hazards in the previous page and use the risk assessment
+matrix below to assess the potential hazards to your business.
+To calculate the risk level, multiply the hazard’s likelihood value by the severity 
+value (likelihood x severity = risk level). Prioritize your planning based on the  risk value.
+very LikelyMedium High High extremeLikelyMedium Medium High HighunlikelyLow Medium Medium Highvery unlikelyLow Low Medium Medium
+insignificant Minor serious Majorextreme 16
+High 8 – 12
+Medium 3 – 6
+Low 1 – 2  risK LeveL        score
+4very likely very likely to occur in the foreseeable future
+3Likely Likely to occur in the foreseeable future
+2unlikely not likely to occur in the foreseeable future
+1very unlikely will only occur in exceptional circumstancesvaLue  LiKeLiHood           descriPtionseverityLikelihood
+4MajorLoss of key business functions and  
+extensive damage to infrastructureMajor 1+ month
+3serioussignificant impact on key business
+functions and damage to infrastructuresignificant 1+ week
+2MinorMinimal impact on key business functions
+and little to no impact on infrastructureLimited 1-3 days
+1insignificantnegligible impact on key businessfunctions and no impact on infrastructurenone immediatevaLue  severitY iMP act on KeY business Functions FinanciaL recover Y
+  & inFrastructure iMPact tiMe
+business continuity template  | 25HAZARD RISK LEVEL PLANNING MEASURES
+Choose and item
+Choose and itemChoose and itemChoose and itemChoose and itemChoose and itemChoose and itemChoose and itemChoose and item
+26 | rmwb.ca/bcpnotes:
+business continuity template  | 27steP tHree: deveLoP strateGies
+what strategies can you implement BEFORE a disruption occurs?
+28 | rmwb.ca/bcpwhat strategies can you implement DURING a disruption?
+business continuity template  | 29what strategies can you implement AFTER a disruption has occurred?
+30 | rmwb.ca/bcpsteP Four: MaKe a PLan
+evacuation Procedures and routes
+evacuation Procedures:
+To calculate the risk level, multiply the hazard’s likelihood value by the severity 
+value (likelihood x severity = risk level). Prioritize your planning based on the  
+risk value.
+ • cease all other activities (phone calls, meetings, etc.)
+ • remain calm and follow directions from floor wardens or emergency  
+  services personnel
+ • do not return to your workspace for personal possessions; evacuate  
+  from where you are
+ • walk, do not run, to nearest safe exit. use stairwell, not elevators
+ • direct all visitors to the nearest safe stairwell
+ • Know the alternate evacuation routes
+ • check doors for heat, using the back of your hand before opening. if a  
+  door is hot, use an alternate route
+ • close all doors behind you and proceed to the muster point
+ • remain at the muster point and do not re-enter the building until  
+  instructed by emergency personnel
+evacuation routes:
+Draw or print out a map showing the muster points and exit routes in the space 
+provided below.
+Muster Point: Secondary:
+Exit Route:
+Secondary:
+business continuity template  | 31action PLan – eXaMPLe
+if you suffer an interruption, you may wish to make an insurance claim.
+ 1. Phone your agent as soon as possible to discuss the situation.
+ 2. If your business has suffered a flood, ask your agent if you should take a  
+  sample of the floodwater, and if your insurance covers the cost of analyzing  
+  the data.
+ 3. Photograph the damage. Ideally, you should photograph everything  
+  before you start cleaning up, as you clean up, and when you’re finished.
+ 4. Keep all receipts for repairs and document all funds spent. If you have to 
+  dispose of anything, record what you dispose of. Keep a log of the time  
+  you spend on clean-up.RISK Power outage
+RISK LEVEL Medium
+RTO Less than 24 hours
+BUSINESS FUNCTIONS 
+AFFECTEDVital records, internet, communications, computer  
+equipment, cash registers, sales
+ACTION • Turn on generator
+• Call the building manager
+   Jack: 780-000-1111
+• Notify the owner
+   Jill: Mobile: 587-222-3333
+   Home: 780-444-5555
+• Determine the likely duration of the power outage
+   Call ATCO Electric: 1-800-668-5506
+• If it is an extended outage, maintain fuel levels
+   Call fuel delivery: 780-666-7777
+RESOURCES Landline, mobile phone, generator
+32 | rmwb.ca/bcpaction PLan teMPLate
+RISK
+RISK LEVEL
+RTO
+BUSINESS 
+FUNCTIONS 
+AFFECTED
+POTENTIAL IMPACT
+BEFORE
+DURING
+AFTER
+RESOURCE  
+REQUIREMENTS
+STAFF  
+REQUIREMENTS action
+business continuity template  | 33RISK
+RISK LEVEL
+RTO
+BUSINESS 
+FUNCTIONS 
+AFFECTED
+POTENTIAL IMPACT
+BEFORE
+DURING
+AFTER
+RESOURCE  
+REQUIREMENTS
+STAFF  
+REQUIREMENTS action
+34 | rmwb.ca/bcpRISK
+RISK LEVEL
+RTO
+BUSINESS 
+FUNCTIONS 
+AFFECTED
+POTENTIAL IMPACT
+BEFORE
+DURING
+AFTER
+RESOURCE  
+REQUIREMENTS
+STAFF  
+REQUIREMENTS action
+business continuity template  | 35RISK
+RISK LEVEL
+RTO
+BUSINESS 
+FUNCTIONS 
+AFFECTED
+POTENTIAL IMPACT
+BEFORE
+DURING
+AFTER
+RESOURCE  
+REQUIREMENTS
+STAFF  
+REQUIREMENTS action
+36 | rmwb.ca/bcpRISK
+RISK LEVEL
+RTO
+BUSINESS 
+FUNCTIONS 
+AFFECTED
+POTENTIAL IMPACT
+BEFORE
+DURING
+AFTER
+RESOURCE  
+REQUIREMENTS
+STAFF  
+REQUIREMENTS action
+business continuity template  | 37RISK
+RISK LEVEL
+RTO
+BUSINESS 
+FUNCTIONS 
+AFFECTED
+POTENTIAL IMPACT
+BEFORE
+DURING
+AFTER
+RESOURCE  
+REQUIREMENTS
+STAFF  
+REQUIREMENTS action
+38 | rmwb.ca/bcpsteP Five: eXercise Your PLan
+eXercise Process
+types of exercises
+ 
+ workshops
+Workshops are designed to familiarize the employees with their roles and responsibilities as defined in the business continuity plan. Workshops are normally conducted in a classroom setting.
+tabletop
+Tabletop exercises are designed to test a hypothetical business disruption. The 
+focus is on training, familiarization with roles, responsibilities, and procedures. Tabletop exercises are guided by a facilitator that walks the employees through the process. It is conducted in a stress-free and informal environment where participants are encouraged to ask questions.
+Full-scale
+Full-scale exercises attempt to simulate a real business disruption. This is as 
+close as it gets to a real event. This exercise takes place on location where the hypothetical disruption has occurred. Actual equipment, personnel, and business partners are often included in a full- scale exercise.
+developexercise
+• Exercise design
+• Scenario
+• Drills, tabletop 
+ exercise,  
+ orientation, full  
+ scale exerciseevaluate
+exercise
+•  Ask for feedback  
+ from participants
+• Evaluate staff  
+ preparedness
+• Evaluate systems   
+ and equipment   
+ performance
+conduct
+exercise
+• Test the plan
+•  Test staff,  
+ equipment, and  
+ procedures
+•  Train staff,  
+ clarify roles and  
+ responsibilitiesrevise
+bcP
+•  Update the plan  
+ to amend noted  
+ weaknesses and  
+ gaps
+business continuity template  | 39eXercise LoG
+EXERCISE NAME
+DATE
+DURATION
+SCENARIO
+BUSINESS 
+FUNCTIONS TO BE 
+EXERCISED
+PARTICIPANTS
+COMMENTS AND 
+FINDINGS
+RECOMMENDATIONS
+40 | rmwb.ca/bcpEXERCISE NAME
+DATE
+DURATION
+SCENARIO
+BUSINESS 
+FUNCTIONS TO BE 
+EXERCISED
+PARTICIPANTS
+COMMENTS AND 
+FINDINGS
+RECOMMENDATIONS
+business continuity template  | 41steP siX: review Your PLan
+PLan review cYcLe
+ To ensure that your Business Continuity Plan remains accurate and up-to-date, it is suggested to review your plan at least once a year.
+PLAN REVIEW 
+CYCLE FREQUENCY
+DATE OF 
+PLAN REVIEW
+PERSONNEL 
+INVOLVED IN 
+PLAN REVIEW
+OVERVIEW OF 
+CHANGES/UPDATES
+NEXT PLAN 
+REVIEW DATE
+42 | rmwb.ca/bcpnotes:
+business continuity template  | 43notes:
+44 | rmwb.ca/bcpstaY inForMed:
+MuniciP aL
+regional Municipality of w ood buffalo website | rmwb.ca
+In the event of an emergency, the Regional Municipality of Wood Buffalo 
+website will have up-to-date information.
+regional Municipality of w ood buffalo Facebook | facebook.com/
+rmwoodbuffalo
+Receive the latest Regional Municipality of Wood Buffalo updates on Facebook.
+regional Municipality of w ood buffalo t witter | @rMw oodbuffalo
+Receive the latest Regional Municipality of Wood Buffalo updates on Twitter.
+PuLse: w ood buffalo | 780-743-7000
+PULSE: Wood Buffalo is a 24/7 Call Line that provides ‘real person’ support  
+for all inquiries, requests and complaints. Please note that this number does  not replace 911.
+ProvinciaL
+alberta emergency alert @ab_emergalert | emergencyalert.alberta.ca
+Alberta Emergency Alerts are issued to warn people about potential risks to 
+their health and safety.
+FederaL
+Public safety canada @safety_canada | publicsafety.gc.ca
+Public Safety Canada works to keep Canadians safe from risks such as natural 
+disasters, crime and terrorism.
+in an eMerGencY , diaL 911
+For more information on business continuity planning, go to:
+Regional Municipality of Wood Buffalo    rmwb.ca/bcp
+Alberta Emergency Management Agency     aema.alberta.ca
+Public Safety Canada    publicsafety.gc.ca

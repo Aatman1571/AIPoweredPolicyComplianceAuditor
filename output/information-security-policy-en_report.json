@@ -1,0 +1,240 @@
+{
+  "policy": "information-security-policy-en.pdf",
+  "detected_domains": [
+    "asset_management",
+    "data_protection",
+    "security_governance",
+    "incident_response"
+  ],
+  "summary": {
+    "score": 0.5,
+    "total": 13,
+    "percentage": 3.85,
+    "grade": "F"
+  },
+  "mappings": [
+    {
+      "id": "A.5.13",
+      "source": "ISO",
+      "text": "Labelling of information. Define and implement labelling requirements for information classification (Confidential, Internal, Public) as described in the Information Security Policy and Acceptable Use Policy.",
+      "sentences": [
+        "Information Security Policy  \n \nSecurity Classification: Public  2 Scope  \nThis policy and all related standards, guidelines and procedures apply to all CIHI Staff, contractors, \nconsultants, temporary workers and students."
+      ],
+      "scores": [
+        0.67
+      ],
+      "domain": "data_protection"
+    },
+    {
+      "id": "AT-2",
+      "source": "NIST",
+      "text": "Conduct regular security awareness training, including acceptable use, phishing prevention, and incident reporting, as outlined in the Information Security Policy.",
+      "sentences": [
+        "A security governance framework;  \n\u2022 Privacy and Security Risk Management;  \n\u2022 Ongoing review of the security policies, procedures and practices  implemented;  \n\u2022 An information security awareness and training program for all  employees;  \n\u2022 Policies, standards, practices and/or procedures for ensuring the physical security of the premises, the security of information processing facilities and the protection of information \nthroughout its life cycle (creation, acquisition, retention and storage, use, disclosure and  \ndisposition),  including policies and procedures related to mobile devices, remote access \nand security of data at rest;  \n\u2022 An access management process for information and information processing facilities;  \n\u2022 Secure systems acquisition, development and maintenance;  \n\u2022 Technical vulnerability  management;  \n\u2022 A cybersecurity program;  \n\u2022 Security  audits;  \n\u2022 Acceptable use of information technology;  \n\u2022 Security in backup and recovery;  \n\u2022 Business continuity and disaster recovery;   \n\u2022 Information security incident  management;  \n\u2022 Protection against malicious and mobile code;\n and \n\u2022 Continuous improvement of the Information Security Program."
+      ],
+      "scores": [
+        0.669
+      ],
+      "domain": "security_governance"
+    }
+  ],
+  "gaps": [
+    {
+      "control_id": "A.5.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "The control requires the policy to 'Define and implement labelling requirements for information classification (Confidential, Internal, Public)'. The provided policy snippet only states its own 'Security Classification: Public' and its scope. It does not define the different information classification levels (Confidential, Internal, Public) for general information, nor does it define or implement the labelling requirements for information based on these classifications. The snippet pertains to the classification of the policy document itself, not the broader information classification system required by the control.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "AT-2",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy includes 'An information security awareness and training program for all employees,' which directly addresses the general requirement for security awareness training. The 'program' implies an ongoing or regular nature, though not explicitly stated. However, the policy falls short in explicitly linking the required specific training topics to this program. While 'Acceptable use of information technology' and 'Information security incident management' are listed as separate bullet points within the overall governance framework, the policy does not explicitly state that training on these specific topics (acceptable use, incident *reporting*) is *included* as part of the 'information security awareness and training program.' Crucially, 'phishing prevention' is not explicitly mentioned anywhere in the policy as a required training topic or covered area. Therefore, the policy provides a foundational element (the training program) but lacks the specificity required by the control regarding content inclusion.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "A.5.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "asset_management"
+    },
+    {
+      "control_id": "A.8.2.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "A.5.29",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "AC-3",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "IR-4",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "incident_response"
+    },
+    {
+      "control_id": "IR-6",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "MP-4",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "PL-2",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "security_governance"
+    },
+    {
+      "control_id": "SC-12",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "SC-28",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection"
+    },
+    {
+      "control_id": "AU-6",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "incident_response"
+    }
+  ],
+  "remediations": [
+    {
+      "control_id": "A.5.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "The control requires the policy to 'Define and implement labelling requirements for information classification (Confidential, Internal, Public)'. The provided policy snippet only states its own 'Security Classification: Public' and its scope. It does not define the different information classification levels (Confidential, Internal, Public) for general information, nor does it define or implement the labelling requirements for information based on these classifications. The snippet pertains to the classification of the policy document itself, not the broader information classification system required by the control.",
+      "domain": "data_protection",
+      "remediation": "The Information Security Policy needs to be updated to explicitly define the criteria for 'Confidential', 'Internal', and 'Public' information classifications, and to detail the specific labelling requirements for each category. This includes outlining *what* information falls into each classification, *how* it should be physically and digitally labelled (e.g., header/footer text, watermarks, file naming conventions, metadata), and the procedures for applying these labels consistently across all relevant information assets. This update will close the gap by providing the descriptive guidance the 'Labelling of information' control references and requires."
+    },
+    {
+      "control_id": "AT-2",
+      "source": "NIST",
+      "coverage": "partial",
+      "justification": "The policy includes 'An information security awareness and training program for all employees,' which directly addresses the general requirement for security awareness training. The 'program' implies an ongoing or regular nature, though not explicitly stated. However, the policy falls short in explicitly linking the required specific training topics to this program. While 'Acceptable use of information technology' and 'Information security incident management' are listed as separate bullet points within the overall governance framework, the policy does not explicitly state that training on these specific topics (acceptable use, incident *reporting*) is *included* as part of the 'information security awareness and training program.' Crucially, 'phishing prevention' is not explicitly mentioned anywhere in the policy as a required training topic or covered area. Therefore, the policy provides a foundational element (the training program) but lacks the specificity required by the control regarding content inclusion.",
+      "domain": "security_governance",
+      "remediation": "Update the 'Information Security Policy' to expand on the 'An information security awareness and training program for all employees' section. The policy should explicitly define the scope, frequency (e.g., regular, annual, upon hire), and mandatory content for security awareness training. Specifically, it should include explicit mention of topics such as acceptable use, phishing prevention techniques, and incident reporting procedures. This will align the policy with the granular requirements outlined in the control, making the control directly traceable and enforceable against a detailed policy statement."
+    },
+    {
+      "control_id": "A.5.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "asset_management",
+      "remediation": "Develop and implement a comprehensive Acceptable Use Policy (AUP) that directly addresses all components outlined in the control. The policy must clearly define acceptable and unacceptable uses of all IT assets, including specific restrictions on unauthorized software installation, internet misuse, personal email access on company systems, and other prohibited activities. It must also explicitly detail the organization's right and methods for monitoring user activity, ensuring transparency and compliance with relevant privacy regulations. Key steps include: drafting the policy with input from IT, HR, and Legal; obtaining formal approval from management; communicating the policy to all employees through training and mandatory acknowledgment; and establishing clear enforcement procedures for violations."
+    },
+    {
+      "control_id": "A.8.2.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection",
+      "remediation": "The primary gap is the complete absence of a defined 'POLICY'. The control explicitly states requirements around information classification, encryption, and access controls, and references an 'Acceptable Use Policy'. Therefore, the remediation is to establish a comprehensive Information Classification and Handling Policy (which may incorporate or cross-reference an Acceptable Use Policy) that provides the framework and details for the control. \n\n**Proposed Remediation:**\n\n1.  **Develop an Information Classification and Handling Policy:** Create a formal policy document that:\n    *   **Defines Information Classification Levels:** Clearly delineate categories (e.g., Public, Internal, Confidential, Restricted, Sensitive) with associated definitions and examples (including specific mention of high-sensitivity data like NCIC data).\n    *   **Establishes Classification Criteria:** Provide guidelines and procedures for how information owners/custodians classify data based on its sensitivity, potential impact of compromise, and regulatory requirements.\n    *   **Mandates Data Handling Requirements:** For each classification level, specify:\n        *   **Encryption Requirements:** When and how data at rest and data in transit must be encrypted (e.g., minimum algorithms, key management). This directly addresses 'enforce encryption'.\n        *   **Access Control Requirements:** How access must be managed (e.g., 'least privilege', 'need-to-know', authentication methods, regular access reviews). This directly addresses 'enforce access controls'.\n        *   **Storage Requirements:** Secure storage locations and methods.\n        *   **Transmission Requirements:** Secure methods for sharing/transferring classified information.\n        *   **Disposal Requirements:** Secure methods for decommissioning or destroying classified information.\n    *   **Defines Roles and Responsibilities:** Clearly assign who is responsible for classifying information, applying controls, enforcing the policy, and overseeing compliance.\n    *   **References or Integrates Acceptable Use Policy:** Ensure alignment and consistency with the organization's Acceptable Use Policy, particularly regarding the proper handling and protection of classified information by users.\n    *   **Outlines Training and Awareness:** Mandate regular training for all personnel on information classification, handling procedures, and their responsibilities under the policy.\n    *   **Establishes Policy Review and Update Process:** Define how and when the policy will be reviewed and updated to remain relevant.\n\n2.  **Implement Communication and Training:** Once the policy is drafted and approved, communicate it effectively to all relevant personnel and provide mandatory training to ensure understanding and compliance."
+    },
+    {
+      "control_id": "A.5.29",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "incident_response",
+      "remediation": "Develop and integrate a dedicated section within the Information Security Policy that outlines the organization's commitment and requirements for maintaining information security during disruptions. This section should explicitly mandate the creation, maintenance, and regular testing of detailed Business Continuity Plans (BCP) and Disaster Recovery Plans (DRP), specifying their purpose, scope, and key components related to information security. It should also define roles and responsibilities for developing, implementing, and reviewing these procedures, ensuring they align with the overall information security objectives."
+    },
+    {
+      "control_id": "AC-3",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "security_governance",
+      "remediation": "Develop and formally approve an 'Access Control Policy'. This new policy must define: 1) The principles and implementation methodology for Role-Based Access Controls (RBAC). 2) Detailed procedures for access requests, approvals, provisioning, and de-provisioning. 3) Specific requirements for periodic access reviews, including defined frequencies (e.g., quarterly, annually) and responsible parties. This policy will provide the necessary framework and details explicitly referenced by the control."
+    },
+    {
+      "control_id": "IR-4",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "incident_response",
+      "remediation": "Develop and formally establish a comprehensive 'Incident Response Policy' that clearly defines the procedures, roles, responsibilities, and specific steps for detecting, reporting, responding to, containing, escalating, and conducting forensic investigations for security incidents. This policy is explicitly referenced by the control and is currently missing or undefined, creating a critical gap in governance and operational guidance. The policy should provide the detailed framework that the control requires to be effectively implemented and auditable."
+    },
+    {
+      "control_id": "IR-6",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "security_governance",
+      "remediation": "The primary remediation is to develop and implement the 'Incident Response Policy' itself. The control explicitly references this policy, indicating a critical gap where the foundational document is missing. The policy should detail procedures for incident tracking, documentation, capturing lessons learned, and their application, thus providing the necessary framework for the control to be effective and auditable."
+    },
+    {
+      "control_id": "MP-4",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection",
+      "remediation": "The primary remediation is to establish or complete the 'Information Security Policy' itself. This policy must include a dedicated section or annex on 'Secure Media Disposal and Sanitization' that defines the organization's requirements, standards, and principles for these activities. The policy should specify: 1. **Scope:** What media types are covered. 2. **Purpose:** Why secure disposal/sanitization is necessary. 3. **Requirements:** Broad statements about data confidentiality and integrity during disposal. 4. **Roles & Responsibilities:** Who is accountable for defining and enforcing procedures. 5. **Compliance:** Reference to relevant regulations or standards. This policy then serves as the foundation for the procedures mandated by the control."
+    },
+    {
+      "control_id": "PL-2",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "security_governance",
+      "remediation": "The 'POLICY' field is currently empty, indicating that the required security policies do not exist or are not documented. The remediation for this 'gap' is to **develop, document, and implement comprehensive security policies** that directly fulfill the requirements outlined in the 'CONTROL'.\n\nSpecifically, the new policy (or set of policies) should clearly define and include sections covering:\n\n1.  **Acceptable Use Policy:** Detailing the appropriate use of organizational information systems, assets, and data.\n2.  **Access Control Policy:** Outlining rules, procedures, and responsibilities for granting, modifying, and revoking access to systems, applications, and data.\n3.  **Incident Response Policy:** Establishing procedures, roles, and communication plans for identifying, responding to, recovering from, and learning from security incidents.\n4.  **Information Protection Policy:** Defining guidelines for classifying, handling, storing, transmitting, and disposing of sensitive and confidential information.\n\nFurthermore, the policy must be drafted and continually maintained in **compliance with all applicable organizational requirements**, industry standards, and regulatory mandates. A regular review and update schedule for these policies should also be established to ensure their ongoing relevance and effectiveness."
+    },
+    {
+      "control_id": "SC-12",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection",
+      "remediation": "Develop and document the Information Security Policy, specifically the section pertaining to cryptographic mechanisms for data protection. This policy should clearly define the organization's high-level requirements, principles, and standards for protecting sensitive data in transit and at rest using cryptography. It should outline the types of data requiring encryption, the approved cryptographic standards and algorithms, key management principles, and roles and responsibilities. Once established, the control will have a definitive policy to align with and enforce."
+    },
+    {
+      "control_id": "SC-28",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "data_protection",
+      "remediation": "The primary remediation is to **develop and formally approve an 'Information Security Policy'** (or similar overarching policy) that provides the necessary definitions and procedures to support the stated control. This policy is explicitly referenced by the control and its absence creates a critical gap in guiding compliance and enforcement. The policy should specifically address:\n\n1.  **Data Classification:** Define what constitutes 'sensitive data' within the organization, including examples and categories.\n2.  **Encryption Standards:** Specify required encryption algorithms, protocols, key management practices, and scenarios for data at-rest and in-transit.\n3.  **Access Control Principles & Procedures:** Outline the principles of least privilege, need-to-know, role-based access control (RBAC), and detailed procedures for granting, reviewing, and revoking access to sensitive data.\n4.  **Authorization Process:** Detail the formal process for authorizing personnel access to sensitive data, including roles, responsibilities, and documentation requirements.\n\nOnce developed, the policy must be communicated to all relevant personnel and integrated into ongoing training and awareness programs."
+    },
+    {
+      "control_id": "AU-6",
+      "source": "NIST",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "domain": "incident_response",
+      "remediation": "The primary gap is that the 'Information Security Policy' referenced by the control is empty or missing. The remediation is to develop and implement a comprehensive Information Security Policy that includes specific guidelines for the review and analysis of audit logs. This policy should detail: what constitutes suspicious activity; frequency of review; responsible parties; tools and methods for analysis; incident response procedures for identified events; and log retention requirements. Once developed, the policy should be communicated to relevant personnel and enforced."
+    }
+  ]
+}

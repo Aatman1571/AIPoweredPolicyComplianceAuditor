@@ -1,0 +1,54 @@
+[
+  {
+    "id": "AC-2",
+    "text": "Users must keep passwords secure and must not share accounts, and administrators must manage user accounts including creation, modification, and removal according to the Acceptable Use Policy."
+  },
+  {
+    "id": "AC-3",
+    "text": "Access must be limited to only what is required for a user's job role and reviewed regularly in alignment with the Acceptable Use Policy."
+  },
+  {
+    "id": "AC-17",
+    "text": "Secure remote access must be configured using MFA and secure connections (e.g., VPN) in alignment with the Acceptable Use Policy."
+  },
+  {
+    "id": "IA-2",
+    "text": "Multi-factor authentication must be required for user access, as stated in the Acceptable Use Policy."
+  },
+  {
+    "id": "IA-5",
+    "text": "Passwords must meet complexity requirements and be kept confidential, with account sharing strictly prohibited, as outlined in the Acceptable Use Policy."
+  },
+  {
+    "id": "IR-4",
+    "text": "Establish an Incident Response procedure for detecting, reporting, and responding to security incidents. Follow steps for containment, escalation, and forensic investigation as described in the Incident Response Policy."
+  },
+  {
+    "id": "IR-6",
+    "text": "Maintain incident tracking and documentation requirements to ensure lessons learned are captured and applied, per the Incident Response Policy."
+  },
+  {
+    "id": "MP-4",
+    "text": "Define and enforce procedures for secure media disposal and sanitization in accordance with the Information Security Policy."
+  },
+  {
+    "id": "SC-12",
+    "text": "Sensitive data such as NCIC information must be encrypted both in transit and at rest, in accordance with the Acceptable Use Policy."
+  },
+  {
+    "id": "SC-28",
+    "text": "Sensitive information including NCIC data must be protected through encryption and restricted access in compliance with the Acceptable Use Policy."
+  },
+  {
+    "id": "PL-2",
+    "text": "Security policies including acceptable use, access control, and encryption requirements must be documented and enforced as referenced in the Acceptable Use Policy."
+  },
+  {
+    "id": "AT-2",
+    "text": "Conduct regular security awareness training, including acceptable use, phishing prevention, and incident reporting, as outlined in the Information Security Policy."
+  },
+  {
+    "id": "AU-6",
+    "text": "Review and analyze audit logs for suspicious activity and security events, following the guidelines in the Information Security Policy."
+  }
+]

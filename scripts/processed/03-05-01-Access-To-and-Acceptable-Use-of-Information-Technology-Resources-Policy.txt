@@ -1,0 +1,417 @@
+Policy Title: Access To and Acceptable Use of Infor mation Technology 
+Resources  
+ 
+Policy Number: 03-05-01 
+ 
+Section: Corporate Administration  Subsection: Technology  
+Effective Date: June 9, 2010  Last Review Date: [Last Review]  
+Approved by: 
+Council Owner Division/Contact:  
+Information Technology Division, 
+Communications Division 
+Corporate Services Department 
+ 
+Policy Statement 
+The City of Mississauga provides access to various types of Information Technology Resources 
+for business purposes and expects that all Informat ion Technology Resources will be used 
+appropriately and in accordance with this policy.  
+ 
+Purpose  
+The purpose of this policy is to outline the City’s  expectations with respect to the access and 
+acceptable use of Information Technology (IT) Resou rces provided by the City of Mississauga 
+and to ensure IT Users are aware of their responsib ilities and the limitations regarding privacy 
+and confidentiality when accessing and using IT Res ources. The accompanying “Guidelines for 
+Acceptable Use of IT Resources” (the Guidelines) re inforce and expand on the information 
+provided in the policy.   
+  
+Scope 
+This policy and accompanying Guidelines apply to al l City employees, elected officials, citizen 
+members of committee, and volunteers acting on beha lf of the City, as well as affiliates, 
+contractors, consultants and any other individuals given authorized access to, and use of, City IT 
+Resources. All authorized IT Users are expected to respect the intent of this policy. 
+ 
+IT Resources must be used in compliance with this p olicy, applicable laws and regulations, 
+professional standards, software licensing agreemen ts and Corporate Policies and Procedures, 
+including but not limited to the following Human Re sources, Employee Conduct policies: 
+• Standard of Behaviour 
+• Respectful Workplace 
+• Fraud and Theft 
+• Conflict of Interest 
+ 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        2 of 10 
+ 
+Definitions 
+For the purposes of this policy:  
+ 
+“E-mail” includes all business and personal communi cations created using or accessing the 
+City’s E-mail system, regardless of physical locati on, and includes E-mail communications sent 
+or received on any City-issued or City-authorized W ireless Communication Device or smart 
+phone, including, but not limited to, a BlackBerry® , iPhone™, or cell phone. E-mail includes 
+communications sent or received on any personally o wned Wireless Communication Device, as 
+well as to externally hosted e-mail sites, when the  communication is conducted on behalf 
+of/pertains to City business. 
+ 
+ “Internet use” includes all activities undertaken on any electronic device through the City’s 
+Internet resources, including electronic mail and b rowsing and/or posting information to internal 
+or external websites, whether accessed from a City facility or any offsite location. 
+ 
+“Information Technology User” (IT User) includes al l employees, elected officials, citizen 
+members of committees and volunteers acting on beha lf of the City of Mississauga, as well as all 
+affiliates, contractors, consultants and any other individuals given access to, and use of, City IT 
+Resources. 
+ 
+“Information Technology (IT) Resources” means City owned or issued IT resources including, but 
+not limited to: 
+• Hardware, such as computer desktops, laptops, port able and computing devices and related 
+peripherals (e.g. Printers, scanners, etc.) And wir eless communication devices (e.g. 
+Blackberry®, pagers, iPhone™, smart phones, cell ph ones, etc.) 
+• All internet and e-mail systems 
+• Electronic data transmission equipment, devices an d networks 
+• Business systems and servers and all city managed data and software 
+• All types of telephone, radio and other audio/voic e or audio/visual communication 
+equipment, devices and networks, including voicemai l 
+• Local and network storage media used in the operat ion of these resources including, but not 
+limited to, diskettes, CDs, tape media, paper, USB,  flash memory, flash drives, external hard 
+drive, etc., and  
+• Data, information and other work products, such as  computer programs, databases, 
+spreadsheets, etc., created and/or maintained in us ing these resources 
+In addition, any city related data and information that is accessed, stored, created, processed, 
+transmitted or filed in a personal electronic devic e is included in this definition 
+ 
+“Wireless Communication Device” means any cordless device that is capable of receiving or 
+transmitting telephone communications, electronic d ata, mail, instant messaging (e.g. PIN 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        3 of 10 
+ 
+messaging) or texting and includes, but is not limi ted to, cell phones, iPhones™, smart phones, 
+pagers, and a BlackBerry®. 
+ 
+Administration 
+Access to IT Resources is provided on a corporate b asis through the Information Technology 
+Division of the Corporate Services Department. 
+ 
+The Director of Information Technology shall design ate security administrators for each corporate 
+system. The security administrators will be respons ible for implementation of appropriate security 
+controls. 
+ 
+The parameters for corporate-wide, routine monitori ng are set by the Director of Information 
+Technology in consultation with all City department s and approved by the Commissioner of 
+Corporate Services & Chief Financial Officer (CFO) and the City Manager. Modification to these 
+parameters must be conducted according to establish ed protocol, documented, and approved by 
+the Commissioner of Corporate Services & CFO and au thorized, in writing, by the City Manager.  
+ 
+Segregation of Duties 
+There must be a segregation of duties between indiv iduals responsible for configuring the system 
+parameters and those who are responsible for the ro utine administering of the internet monitoring 
+software. Appropriate authorization must be obtaine d before system parameters are 
+reconfigured. 
+ 
+Legislative Requirements 
+Municipal Freedom of Information and Protection of Privacy Act  
+The  Municipal Freedom of Information and Protection of  Privacy Act  (MFIPPA) governs the 
+collection, use and disclosure of information by th e City. MFIPPA applies to information both in 
+hard copy and electronic form. Therefore, communica tions created, received or transmitted using 
+the City’s IT Resources, including personal records , may be subject to the provisions of MFIPPA. 
+Elected officials’ records are dealt with in accord ance with the Corporate Policy and Procedure - 
+Records Management - Elected Officials’ Records.  
+ 
+Communications, including E-mail, text or PIN messa ges sent or received from any IT 
+Resources, including a BlackBerry®, may be subject to MFIPPA and to the same retention 
+requirements as hard-copy messages and must be deal t with in accordance with the City’s 
+Records Retention By-Law 537-96, as amended from ti me to time or, in the case of elected 
+officials’ records, in accordance with Corporate Po licy and Procedure - Records Management - 
+Elected Officials’ Records. 
+ 
+ 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        4 of 10 
+ 
+Guidelines for Acceptable Use of It Resources 
+The City’s “Guidelines for Acceptable Use of IT Res ources”, available through departmental IT 
+Managers and on the City’s Intranet, and provides a ssistance to IT Users in understanding their 
+respective responsibilities and the City’s standard s and expectations. The purpose of the 
+Guidelines is to protect the integrity of City IT R esources and the safety and security of IT Users 
+by offering additional information and examples of both acceptable and unacceptable use of IT 
+Resources. 
+ 
+Ownership and Privacy Expectations 
+Ownership 
+All IT Resources acquired and managed by the City a nd the data, documents, information and 
+work product created, received, transmitted or down loaded from external sources using the City’s 
+IT Resources are the sole property of the City of M ississauga.  
+ 
+Privacy and Monitoring 
+The City reserves the right to implement reasonable  technological and procedural measures in 
+order to ensure compliance with corporate policies and standards, assess system or network 
+performance and resource usage, and protect and mai ntain the security of IT Resources, as well 
+as safeguard the integrity of IT Users.  
+ 
+IT Users should have no expectation of privacy in r elation to the use of IT Resources and should 
+be aware that their use of IT Resources, both busin ess and personal, may not be confidential 
+and may be subject to MFIPPA. The City reserves the  right to monitor and/or access any 
+electronic voice or data file and may do so for any  of the following reasons:  
+• Routine monitoring of the City’s computer systems to track and analyse trends of operational 
+metrics, which includes tracking of web site visits  
+• Appropriate City staff, who are governed by confid entiality agreements, may be authorized 
+and/or required to access the information to meet l egal obligations or if there are reasonable 
+grounds to suspect that an IT User has abused or co ntravened this policy, and 
+• To protect the City’s interests in the event of a reasonable suspicion of crime or 
+inappropriate use of City IT Resources, and 
+• If there are any other legitimate authorized reaso ns to do so, such as retrieving voice mail 
+directly from an Employee’s telephone in the event of an unscheduled absence or 
+unexpected departure from the City; approval from t he Director of IT is required 
+ 
+Any resulting investigation into an IT User’s use o f IT Resources must be authorized according to 
+the Investigation section of this policy. 
+ 
+ 
+ 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        5 of 10 
+ 
+Confidential Information 
+Employees are advised that the privacy of informati on sent electronically that is sensitive or 
+confidential in nature, such as personal informatio n about individuals; employee performance or 
+other human resource issues; information regarding issues to be discussed in camera, cannot be 
+guaranteed. IT Users should consider another medium , such as sending the information via 
+interoffice mail in an envelope marked “Confidentia l”. When sensitive or confidential messages 
+are sent electronically, both the sender and the re ceiver are responsible for safeguarding the 
+information. 
+ 
+Personal communications which IT Users do not want accessed or monitored in accordance with 
+this policy should not be retrieved, created, or tr ansmitted using the City’s IT resources. 
+ 
+IT Users may forward communications in electronic f ormat to other IT Users or external 
+clients/customers as required, subject to protectin g any confidential information or information 
+which is otherwise protected by MFIPPA. IT Users wh o send communications in electronic format 
+and do not want those communications forwarded by t he receiver(s) should expressly indicate 
+this in the subject line or at the top of the e-mai l by marking the electronic communication with 
+“Do Not Forward”. If an IT User receives communicat ion in electronic format which is marked “Do 
+Not Forward”, it must not be forwarded unless expre ss authorization has been received from the 
+sender. 
+ 
+Responsibilities  
+IT User Responsibilities 
+IT Users are expected to exercise good judgement wh en using IT Resources and to ensure they 
+are used appropriately. Any abuses of IT Resources must be reported to the individual’s 
+immediate supervisor or the Director of IT and the departmental HR Manager.  
+ 
+IT Users are responsible for the security of mobile  equipment assigned to them. Employees 
+using a City laptop, external hard drive, USB memor y stick, digital memory card, portable device 
+or Wireless Communication Device are responsible to  protect both the equipment and data, 
+inside and outside of the office. Information which  is sensitive or confidential in nature should not 
+be stored on mobile equipment, whether City provide d or personally owned. Where it is 
+necessary, the information should be password prote cted or, when possible, encrypted. Loss or 
+theft of any City issued equipment must be reported  immediately to the employee’s immediate 
+supervisor, the departmental IT Manager, the Access  and Privacy Officer and Corporate 
+Security.  
+ 
+Supervisor/Manager Responsibilities 
+Supervisors/managers are responsible for ensuring t hat IT Users under their supervision are 
+aware of and comply with this policy; are properly authorized and trained to use IT Resources; 
+that the access rights of IT Users who transfer, ta ke a leave of absence exceeding three weeks, 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        6 of 10 
+ 
+or leave the City are processed or rescinded in a t imely manner; and that all IT Resources are 
+returned to the City, if applicable.  
+ 
+City departments, and therefore supervisors/manager s, are responsible for equipment security. 
+Where practical, small, portable equipment should b e locked up at night and, depending on the 
+level of risk, other methods such as restraining de vices should be used, particularly in remote 
+locations. Any theft, tampering or unacceptable use  of IT Resources must be immediately 
+reported to the appropriate departmental HR Manager  and/or the Director of IT. 
+ 
+Supervisors/managers are accountable to review IT u sage reports generated by the IT Division 
+and to address atypical results with IT Users, if a pplicable. 
+ 
+IT Division Responsibilities 
+The IT Division of the Corporate Services Departmen t is responsible to administer, distribute and 
+track the location of required IT Resources; provid e ongoing training, guidance, technical support 
+and assistance to IT Users on efficient IT practice s; and to ensure the Guidelines remain current.  
+ 
+IT Division staff are also responsible for verifyin g that the City's IT Resources are efficient and 
+appropriate for the needs of the Corporation and wi ll administer the programs used to conduct 
+the on-going authorized collection and monitoring o f IT User activity, including generating IT 
+usage reports. The IT Division’s monitoring and rou tine reporting of IT Users’ activities are the 
+responsibility of the Director of IT. 
+ 
+Communications Division Responsibilities 
+The Communications Division of the Corporate Servic es Department is responsible for the 
+overall look of the City’s Internet site and for mo nitoring the content of the site to ensure that 
+standards are met. Standards for the design of corp orate web pages (page layout, colours, fonts, 
+etc.) have been developed in consideration of acces sibility for all IT Users. Individual 
+departments must comply with these standards.  
+ 
+Communications will also be consulted by the Direct or of IT if consideration is being given to a 
+departmental request to host a corporate web page t hrough another service provider. 
+ 
+Access  
+Access 
+IT Users may not authorize their own IT Resources a ccess. Access to City IT Resources is 
+determined by the requirements of the IT User’s pos ition. It is the responsibility of individual 
+departments to assess IT Users needs when granting access. Form 990 - Security Access must 
+be completed, authorized and signed by the employee ’s immediate manager or designate and 
+forwarded to the applicable departmental IT Manager  for approval and processing. Alternately, 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        7 of 10 
+ 
+the Director of IT may provide authorization. In th e case of elected officials, the form must be 
+approved by the Commissioner of Corporate Services & CFO.  
+ 
+Access for any authorized IT User who is not an emp loyee or elected official requires the 
+approval of the Director of IT or their designate. Authorized IT Users will be required to sign an 
+acknowledgement of these requirements and may also be requested to sign a confidentiality 
+agreement, if applicable. 
+ 
+Where access to an information system that is not m anaged by the department requesting 
+access, supplementary authorization by the Director  of Information Technology or the applicable 
+Departmental Commissioner or designate will also be  required. 
+ 
+Exceptions 
+The Director of IT may authorize access to IT syste ms to allow Information Technology staff to 
+support maintenance, operations and investigations on specific systems. However, prior to any 
+investigation, the Director must seek the necessary  authorizations in accordance with the 
+Investigation section of this policy. 
+ 
+In accordance with the City’s Emergency Plan, the D irector of IT may authorize Information 
+Systems staff to access and update systems to deal with extraordinary circumstances. On 
+cessation of the emergency, the Director shall with draw and/or update privileges immediately. 
+Detailed records of all updates shall be retained f or audit purposes. 
+ 
+Use of It Resources  
+Business vs. Personal Use  
+The primary purpose of IT Resources is for City bus iness communication and related activities. 
+Occasional or incidental personal use of IT Resourc es is permitted within reasonable limits, 
+provided it does not conflict with business use or time, impact negatively on other IT Users or on 
+IT Resources, or adversely affect an individual’s p erformance of work duties and responsibilities. 
+IT Users are responsible for exercising good judgem ent regarding the reasonableness of 
+personal use. IT Users are reminded that personal u se may be monitored and accessed in 
+accordance with this policy. 
+ 
+Use of the City’s IT Resources to run a personal bu siness is strictly prohibited. This includes 
+photocopying or printing flyers, advertisements, et c. for a personal business or for personal gain, 
+or sending “for profit” messages via the Internet. Further, it is a contravention of Corporate Policy 
+and Procedure, Human Resources, Employee Conduct, C onflict of Interest. 
+ 
+No information should be distributed which would no t be distributed under the City’s letterhead or 
+logo and no information should be viewed, copied or  saved which is not related to City business. 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        8 of 10 
+ 
+Information which would not be released in hard cop y form should not be released in electronic 
+form.  
+ 
+It is the employee’s responsibility to reconcile an y outstanding overage charges such as personal 
+long distance. For additional information, refer to  Corporate Policy and Procedure, Corporate 
+Administration, Technology, Personal Telephone Char ges. 
+ 
+The City cannot guarantee the security of online fi nancial transactions such as, but not limited to, 
+personal online banking. IT Users must therefore be  aware that they perform these transactions 
+at their own risk. Refer to the Guidelines for addi tional information. 
+ 
+Passwords 
+Passwords prevent access to equipment or confidenti al data by unauthorized persons, without 
+impeding sharing of information or exchange of corp orate data among departments by authorized 
+staff. IT Users must use and safeguard their indivi dual passwords at all times. 
+ 
+General Restrictions 
+IT Resources may not be used for transmitting, acce ssing, retrieving, viewing, uploading, 
+downloading or storing inappropriate communications . This includes, but is not limited to, 
+discriminatory, harassing, threatening, profane, ma licious, pornographic or illegal 
+communications. Inadvertently accessing an inapprop riate site, or receiving an e-mail with an 
+unacceptable attachment, will not be considered a v iolation of this policy. However, printing, 
+saving or forwarding inappropriate material is a vi olation.  
+ 
+IT Users must respect copyright restrictions on any  downloaded information.  
+ 
+The files or data of other IT Users may not be acce ssed, deleted or modified without the IT 
+User’s consent, or in accordance with this policy.  
+ 
+IT Users may not install or download software on an y City issued IT Resource without the prior 
+knowledge, approval and authorization of their depa rtmental IT Manager. Copying licensed 
+software is strictly prohibited; only software that  is licensed with the City of Mississauga and paid 
+for through the designated channels is permitted.  
+ 
+Internet service is provided on a corporate basis t hrough the IT Division of the Corporate 
+Services Department. Individual departments may not  host corporate web pages through another 
+service provider without the authorization of the D irector of IT.  
+ 
+City staff posting information on external websites  that relates to the City must not knowingly 
+defame the City or post confidential information. T his includes, but is not limited to, chat groups, 
+blogs, message boards, Facebook, etc.  
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        9 of 10 
+ 
+All IT Users are prohibited from sending credit car d Primary Account Numbers (PAN) via E-mail 
+or any other unencrypted electronic medium. Online purchasing with a City issued credit card 
+(PCard) for City business purposes is permitted.  
+ 
+Web Board/Potpourri 
+The City’s Web Board/Potpourri allows staff to post  and exchange messages and have 
+discussions with other City staff. Employees must e xercise good judgement and post only items 
+that are appropriate. Staff can post referrals, non -City related events, and personal items for 
+sale/buy; however, Web Board/Potpourri cannot be us ed to promote an ongoing personal 
+business. For additional information regarding Web Board/Potpourri, refer to the City’s Intranet or 
+the Guidelines. 
+ 
+Wireless Communication Devices – Safe Driving Guide lines 
+All IT Users who use Wireless Communication Devices  in the performance of their duties are 
+expected to use Wireless Communication Devices in a  safe and responsible manner and in 
+accordance with Corporate Policy and Procedure - Hu man Resources - Acceptable Use of 
+Mobile Technology.  
+ 
+Acquisition of Goods and Services Through the Inter net  
+Any acquisition of goods and services for business use must comply with the City’s by-law 
+governing purchasing, and established Corporate Pol icies and Procedures on Purchasing. 
+ 
+Removal of IT User Access and Return of IT Resource s 
+Upon cessation of employment for any reason; at the  end of an IT User’s relationship with the 
+City; or at any time upon request, the IT User will  immediately return all IT Resources to the City. 
+All information pertaining to the City stored solel y on personal IT devices, such as but not limited 
+to, laptops, USB, flash memory and external hard dr ives, remains the property of the City. All 
+such information not already in the City’s possessi on must be returned to the City and be 
+immediately and permanently deleted from any home c omputer or personal IT device.  
+ 
+Compliance 
+Any IT User who violates this policy will be subjec t to appropriate disciplinary action, up to and 
+including termination of employment. The City is au thorized to immediately withdraw IT access 
+and initiate an investigation should abuse of any a spect of this policy be suspected. 
+In addition, any expenses incurred as a result of n on-compliance will be the personal 
+responsibility of the IT User.  
+ 
+Investigation 
+Prior to commencing an investigation into the inapp ropriate use of IT Resources by an IT User, 
+Policy Number: 03-05-01 Effective Date: June 9, 201 0  
+Policy Title: Access To and Acceptable Use of 
+Information Technology Resources Last Review Date:        10 of 10  
+ 
+authorization must be obtained from the Directors o f IT and Human Resources and from the 
+following individuals or their designates:  
+• Investigations concerning a citizen member of comm ittee, from the City Manager 
+• Investigations concerning City staff, including ma nagers and supervisors, from the applicable 
+Director 
+• Investigations concerning a director, from the app licable commissioner  
+• Investigations concerning a commissioner, from the  City Manager 
+• Investigations concerning the City Manager from th e City Solicitor, and 
+• Investigations concerning an elected official, fro m the City Manager as authorized by Council 
+ 
+In addition, the appropriate commissioner must be n otified of any investigation concerning their 
+departmental staff. 
+ 
+All IT Users are required to fully cooperate in any  investigation.  
+ 
+Revision History 
+Reference  Description  
+GC-0397-2010  2010 06 09  
+September 25, 2013 Housekeeping – title change for 
+Commissioner of Corporate Services

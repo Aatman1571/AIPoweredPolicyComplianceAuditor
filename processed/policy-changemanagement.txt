@@ -1,0 +1,426 @@
+Department of Information Services  
+Last Updated: July 2020   
+ 
+CHANGE MANAGEMENT POLICY  & PROCEDURES GUIDE  
+ 
+1. PURPOSE: Ensuring effective change management within the University’s production technology  environment 
+is extremely important in ensuring quality delivery of Information Services. The intent of this Policy and 
+Procedures Guide is to ensure the effective management of change while reducing risk . 
+ 
+2. SCOPE: This policy applies to all production systems and the Information Services staff who manage them 
+including but not limited to all production data bases, servers, and application layers.  
+ 
+3. POLICY:  Key components to the University’s Change Management program include:  
+ 
+a. Accurate Documentation : Identify the information relevant to a specific change that needs to be 
+collected throughout the change management process.  
+ 
+b. Continuous Oversight : Change Advisory Board (CAB) The CAB is tasked with balancing the need for 
+change with the need to minimize risks.  
+ 
+c. Formal, Defined Approval Process : All changes will follow the established multiple level approval process 
+to ensure routine changes are completed with minimum restrictions while complex, high impact changes 
+receive the oversight necessary to guarantee success.  
+ 
+d. Scope : Establish the specific areas that this policy will cover. Examples include Payroll and HR 
+Applications, Event management Applications, Accounting and Business Applications. Also included are all 
+changes associated with hardware and software changes (networ k, client server, SAN and Banner).  
+ 
+4. PROCESS: IS Change Management is the process of requesting, analyzing, approving, developing, 
+implementing, and reviewing a planned or unplanned change within the IS infrastructure. The Change 
+Management Process begins with the creation of a Change Request within t he University’s selected 
+technology platform. It ends with the satisfactory implementation of the change and the communication of 
+the result of that change to all interested parties  
+ 
+The primary goal of the IS change management organization is to accomplish IS changes in the most efficient 
+manner while minimizing the business impact, costs, and risks.  All IS changes within the University will be 
+documented in ServiceNow. To achieve this, the change management process includes the following primary 
+steps (note that all information collected in the steps below is documented in a  Change Record created in 
+ServiceNow):  
+ 
+a. Formally Request a Change : All requests for change will be documented within ServiceNow  by creating a 
+new request for change (RFC).  The completion of a new RFC will be completed by the Change 
+Coordinator.  
+ 
+b. Categorize and Prioritize the Change : The Change Coordinator will assess the urgency and the impact of 
+the change on the infrastructure, end user productivity, and budget.  
+ 
+c. Analyze and Justify the Change : The Change Coordinator works with the change requester and the 
+change initiator to develop specific justification for the change and to identify how the change may 
+impact the infrastructure, business operations, and budget. The Change Coordinators use thi s information 
+
+   
+ 
+ 
+Department of Information Services  
+Last Updated: July 2020  to further research and develop a risk and impact analysis. When completing the analysis of the change, 
+the Change Coordinator must ensure they consider the business as well as the technical impacts and risks.  
+ 
+d. Testing and Roll -Back plans :  The Change Coordinator works with the change requester and the 
+change initiator to develop a Roll -Back plan if the change is not successful, as well as a post 
+implementation testing plan.  
+ 
+e. Approve and Schedule the Change : The Change Coordinator uses ServiceNow  to route the Request 
+for Change (RFC) to the Change Advisory Board (CAB) for approval or rejection of the change.  
+Emergency changes can be routed and approved by a Director level and above, thus bypassing the 
+CAB. 
+ 
+f. Plan and Complete the Implementation of the Change : This process includes developing the 
+technical requirements, reviewing the specific implementation steps and then completing the change 
+in a manner that will minimize impact on the infrastructure and end users.  
+ 
+g. Post -Implementation Review : A post -implementation review is conducted to ensure whether the 
+change has achieved the desired goals. Post -implementation actions include deciding to accept, 
+modify or back -out the change; contacting the end user to validate success; and finalizing the c hange 
+documentation within the company’s selected technology platform.  
+ 
+5. PROCESS SCOPE:  Because  the Change  Management  Process  deals  with the management  of changes  in 
+the producti on envir onment , it is impera tive that both  custom ers and the University’s  change  
+organizat ion unde rstand the even ts that are cons idere d withi n the scope of the process.  In this section, 
+the scope  is describ ed and includes  areas  which  are both withi n and outside of the change management  
+process  scope.  
+ 
+a. In Scope : The intended  scope of the Change  Management  Process is to cover  all the University’s  
+computing  systems  and platforms.  The primary  function al components  covered  in the Change  
+Management  process  include:  
+ 
+• SDLC  – Change s handle d through  the form al softwar e development  life cycle will be included  
+within  the company’ s change management  program.  
+ 
+• Hardware  – Installation,  modification,  rem oval or relocat ion of computing  equipment.  
+ 
+• Software  – Installation,  Pa t ches  to no n -red un da n t s ys tem s, Se rv ice  Pa cks , upgrade  
+or removal  of software  products  including  operating  systems,  acces s methods,  commercial  off-
+the-shelf  (COTS)  packages,  internally  developed  packages  and utilitie s. 
+ 
+• Database  – Changes to databases  or files such as additions,  reorgani zations  and major  
+mainten ance.  
+ 
+• Applicat ion – Application  changes  being  promoted  to production  as well  as the integr ation of 
+new application  systems and the remova l of obsolete  elements. 
+ 
+• Moves, Adds, Changes and Deletes  – Changes to system  configuration.  
+ 
+• Telepho ny – Installation,  modification,  de-installation,  or relocati on of VoIP  equipment  and 
+services.  
+ 
+• Networking  – Installation,  modification,  de-installation,  or relocati on of major network services 
+   
+ 
+ 
+Department of Information Services  
+Last Updated: July 2020  including Firewall and Router changes . 
+ 
+b. Out of  Scope : There  are many  IS tasks  performed  at the University,  either  by the IS department  or by 
+the end users that do not fall under  the policies  and procedures  of Change Management.  Tasks that 
+require  an operational  process,  but are outside  the initial  scope of the universities  Change  Management  
+policy  include:  
+ 
+• Contingency/Disaster  Recovery  
+• Change s to non-production  element s or resources 
+• Certain changes to redundant systems including moves, adds, deletes.  
+• Changes  made  within  the daily  adm inistrative  process.  Examples  of daily  administrative  tasks  are: 
+o Passwo rd resets 
+o User  adds /deletes  
+o User modifications  
+o Adding,  deleting  or revising  secu rity grou ps 
+o Rebooting  machine s when there is no chan ge to the configuration  of the system 
+o File permission  changes 
+o Security Patches  
+o Switch and Wi -Fi hardware swaps  
+ 
+NOTE: The Change Advisory Board (CAB) may modify the scope periodically to include items in the scope 
+of the University’s overall Change Management policy . 
+ 
+6. PROCEDURES:  
+ 
+a. Assigning  the Change Prior ity: The Chang e Managemen t system has been designed  to default  to a 
+rout ine priority  for the end user community.  The Chang e Coordinat or will have auth ority to adjus t the 
+priority  level as required  to meet  the business needs. Ther e are four  levels of Chang e priorities  whic h 
+include:  
+ 
+• Eme rgency – A chang e that,  if not implemented  immed iately, will leave the organizat ion open  to 
+significant  risk (for example , applying  a security  patch, or a system down).  
+ 
+• High – A chan ge that  is important  for the orga nizatio n and must be impl emented  soon  to prevent  
+a significant  negati ve impact  to the ability  to conduct  business.  
+ 
+• Routin e – A change  that  will be implemented  to gain benefit  from  the change d servi ce. 
+ 
+• Low – A change that is not pressing  but would  be advantageous.  
+ 
+NOTE : Eme rgency  changes  must  be kept to an absolut e minimu m due to the increased  risk involved  in 
+implementing  them.  
+ 
+b. Lead  Time  Guidelines : It is essentia l that  request s for change  are submitted  and approved  in a timely  
+manner.  This will allow completion  of accur ate documentat ion, change proc essing  and obtaining  the 
+approvals  in sufficient  time  prior  to the requested  implementat ion date, and provide  for conflict  
+resolution  for schedulin g of changes.  
+ 
+Lead times  are the num ber of days an action  (Initiation  or Appr oval ) must be completed  prior  to the 
+   
+ 
+ 
+Department of Information Services  
+Last Updated: July 2020  reque sted implement ation date.  The num ber of days may vary depending  on the priority  and the risk 
+level . Preferably, high  risk and/or  large  chan ge requests should  have  several  weeks  (or even months ) 
+notice  prior  to the requested  implementation  date.  Lead Time s for each chang e will vary depending  on 
+the type  of chang e. Change  Initiators  should  plan lead times  to allow  sufficient  time for planning,  
+review,  and approval.  In some cases, lead times  would  also need to be planne d to allow for standar d 
+impl ementat ion times that  have been set for certain proce sses. 
+ 
+Determine need for 
+Production changeIs change SOP? Complete task YES
+Follow Deployment 
+Request process and 
+submit to CABNO
+CAB Approves? NOCommunicate 
+Change
+Deploy changes
+Post implementation 
+review with CABYES
+Need for follow-
+up change?
+Close ticketNOIs change an 
+Emergency?YES NO
+Follow Deployment 
+Request process and 
+submit to Director or 
+CIO
+Mgmt. 
+Approves?NO YES
+Change Management Overview
+10-18-2012
+Joey HouckTest and Validate 
+changesCommunicate Status 
+of Change to End 
+Users and Update 
+RFC in ZendeskPassCollect Additional 
+Information as 
+RequiredCollect Additional 
+Information as 
+Required
+Change 
+Successful?
+YESNOPerform Backout 
+Plan
+FailYes
+Cancel Change
+YES
+Failed Change
+ 
+ 
+c. Developi ng the Roll-Back  Plan: Developme nt of the Roll-Back  plan is essential  to ensuring  effecti ve 
+recovery in the event of a failed  change.  The Roll-Back  plan  is primarily  based on the technical  impact  
+analysi s and the implementati on plan.  A Roll -Back plan should be developed prior to submitting the 
+RFC.  
+ 
+d. Developing the Testing Plan : All change  categories  will undergo  som e level of testing  depending  on the 
+complexity  of the change. Once the chang e is built,  configu red and integrated  in the development  
+envir onme nt, the chang e is moved  to the Test/QA  envir onment.  This phas e focuse s on condu cting  
+testing  and quality assuranc e to ensure  reliabil ity and perfor mance of all components  of the 
+University’ s technology  infrastruct ure. The Chang e Coordinator  will overse e the testing  functi on, 
+develop  the test plan  and report  its findings  back to the CAB  for voting  on whether to advanc e the 
+change to production.  
+ 
+   
+ 
+ 
+Department of Information Services  
+Last Updated: July 2020  e. IS Busines s Unit Manager  Review  and Approval : Following  the submission  of the new  RFC,  it will be 
+screene d by the IS busines s unit manage r who  determi nes wheth er to author ize or deny the chan ge 
+based on the information  in the RFC.  This screen ing proce ss inclu des a reality  check to ensure that  the 
+RFC is appropriate,  and to ensure the reque st is complete.  The manage r can elect to approv e, deny or 
+reque st additional  information  from  the chan ge initiator. The Change Initiator  is notified  of the 
+progress of their  request at all stages. 
+ 
+f. Scheduli ng and Notificatio ns: The Chang e Coordinat or establishes the appropriate  schedule  for the 
+implementat ion of the change. The schedul e is base d on severa l factors  including  the change priority,  
+other  changes being  implemented,  and syste m availability . Once the schedul e has been establishe d the 
+Chang e Coordinator  ensure s the change is noted  on the consolidated  chang e schedule and notifies all 
+interested  parties  of the pending  change.  
+ 
+g. Chang e Impl ementation : The Chang e Implementer  implements  the chang e in accordanc e with  the 
+implement ation plan and during the  schedule d time.  This is gener ally a technical  implementation.  
+Failure of an implementati on at this leve l will normally require  the Chang e Impl ementer  to follow  the 
+Roll-Back  plan  to ensure  normal  system  operations.  Significant  changes within  the envir onme nt that 
+require a major  prog ram development  effort  will follow  the guideline s establishe d in the SDLC 
+document  and establishe d Custome r Project  Managemen t procedur es. In genera l, these include the 
+following  requirem ents whic h all change  implementati ons mus t follow:  
+ 
+• Developing  an implementat ion project  plan  
+• Verify  testing  was successful 
+• Applying  the chang e to producti on 
+• Validating  the chang e in producti on 
+• Resolving  problems  caus ed by the change 
+• Writing  a summary  of the results 
+• Updating  ServiceNow  with  results  of the implementat ion 
+ 
+h. Testing,  Validation,  and Acceptance : Once a chang e has been implemented,  the IS Business unit 
+responsible  for the chang e and end users who  will be usin g the chang e will conduct  testing  following  
+the test plan deve loped  during  the change  development  phase.  Accu rate documentation  and analysis 
+of any abnormalities  is documented  in the chang e record.  
+ 
+The Chang e Coordinat or or the CAB designe e will rate  the chang e with  one of the following  ratings.  
+ 
+• Acceptanc e ⎯ with  no com ments  
+ 
+• Acceptanc e ⎯ with  minor  exceptions  (note  that  thes e exceptions  will either  be fixed  under  the 
+current change or may require  the creation of another  new change)  
+ 
+• Rejection ⎯ normall y used only  if the implemented  change does not  meet  the requ ired business  
+need s.  This results in a failed  chang e determ ination  and must be thoro ughly  revie wed to identify  
+the root  caus e of the failure.  This will normall y result in the creati on of a new chang e request.  
+ 
+i. Change  Revi ew and Accep tance : Following  a successful  chan ge implementat ion, a change revie w must 
+be conduct ed to determ ine if the chang e resulted  in the desired  outcome.  In most cases, this review  
+process might be very brief.  For a routi ne chang e, wher e the effect has been small and the results 
+relatively  predictable,  the review  process  will be limited  to checkin g that  the chang e has provided  the 
+user with  the desired  functionality.  
+ 
+   
+ 
+ 
+Department of Information Services  
+Last Updated: July 2020  j. Monitor  Change in Product ion Environm ent: To determin e whether the deployed  chang e has been 
+effect ive, it is nece ssary  to monitor  the changes  in the production  environment.  For a small change, this 
+may consist of checki ng on the desired functionality.  For larger  changes,  it might  require  the 
+monitoring  of network  and server  information,  performance  data,  event  logs, or response times.   
+ 
+k. Hold  Post -Implementation  Review : The Chang e Coordinat or is responsible  for ensuring that  a post-
+implementati on review is completed  and presented  to the CAB. The findings  of the post 
+implementation  review  are docum ented  within  ServiceNow . After  sufficient  information  has been 
+gathered  from  monitoring  to determ ine the effecti veness of the change, a post-implementati on 
+review is held during the next schedule CAB meeting.  
+ 
+In addition  to making  a success  or failure  decisio n on the chang e implementat ion, the review  will also  
+consider  how  the chang e was deployed,  and wheth er it was implemented  on time.  This  exercis e will 
+result  in the document ation of lesson s learn ed from  the change.  Revie w feedback  is then  distrib uted to 
+all parties  involved  in the change to encourage and enabl e future  process  improvements.  
+ 
+l. Chan ge Advisory Board: The Change Adviso ry Board (CAB) is the change managemen t decision-making 
+author ity for the IS organizati on.  The primar y responsibilitie s of the CAB are to: 
+ 
+• Establish  and manage  overall change  managemen t polici es and provide  guidance  
+• Review  and approve all pending  reques ts for high-risk and high -impac t change s 
+• Review  comple ted changes and make  recommendation s for approval  
+• Appoint people to key roles withi n the Change Managemen t program  
+ 
+m. CAB Membe rship : The CAB is made up of indiv iduals  with stakeholde r interest in the IS productio n 
+environment . Since RFCs can impact  any part of IS and any organi zational  group, the makeu p of the CAB 
+refle cts the focu s of the particul ar RFC bein g review ed.  In general , the CAB is composed  of individuals  
+who have a wide rang e of expertis e and are familia r with business requirements , the user commun ity, 
+and IS system  technology.   
+  
+It is importan t to note that additiona l CAB mem bers may be required according to the RFCs being 
+considere d and if necessary,  may includ e input from security, service s, vendor s and custome r user 
+groups. The CAB Chairperson  will mak e thes e decis ions and notify  resources  if they need to atten d the 
+regul arly schedule d CAB or an emer gency session. 
+ 
+n. CAB Meetings : The CAB is schedule d to hold an exten sive meetin g monthly with upda te meet ings held 
+on a weekl y basis or as required . The monthl y and weekl y meeting s will provid e an overall revie w of the 
+technica l and business  impact, prioritizati on, approval,  and sched uling of pendin g RFCs . The monthl y 
+meeting s will also includ e review of the key chang e managemen t reports, discussion on the chang e 
+management  program,  and a review  of any failed changes  or changes requiring modifica tions  during 
+the implementati on phase to ensure a successful change . A few days befor e each CAB meet ing, the CAB  
+Chairperso n will send out a meeting notific ation and agenda  e-mail  to all CAB  members.  The contents  of 
+this e-mail include:  
+ 
+• Date, time,  and location (if relevan t) of the mee ting. 
+ 
+• Forma t of the meetin g. As an altern ative to holding  face -to-face  mee tings, CAB  meetings  may be  
+held using a confe rencing softwar e or by telephone conference calls.  
+ 
+• The reviewin g orde r for RFCs (agenda) . CAB mem bers may  be interested in only a smal l number  of 
+the propo sed change s and migh t join the meetin g only whe n necessary.  
+ 
+   
+ 
+ 
+Department of Information Services  
+Last Updated: July 2020  • A link to all the RFCs  being  reviewed  at the mee ting and a forwar d schedu le of the change  calendar 
+for discussion. 
+ 
+o. Voting Rules : This section establi shes the voting rules for RFCs requiring approval  of the CAB. The 
+standa rd change  categories developed  and included  in the com pany’s  selected  technology  platform  
+include  a recomm ended approva l process. If the specific change  being  comple ted does  not have  
+established  approva l requirements , the CAB Manager  will assign a minimum  of two CAB  memb ers as the 
+approval  auth orities for that change . These approval authoritie s are then added to the RFC 
+docume ntation in the change record. 
+ 
+7. ROLES AND RESPONSIBILITIES: Role s associated  with  the Change  Management  proc ess are defined  in the 
+context  of the management  function  and are not intended  to correspond  with  organizational  job titles.  
+Specific  roles  have  been  defined  according  to industry  best  practice s.  In some  cases, many  persons  might  
+share a single role;  and in other  cases, a single pers on may  assume many  roles.  The significant  roles defined  
+for the change management  process  are: Change  Manager , Chang e Initiator , Change  Coordinator , Chang e 
+Task Assignee or Chang e Implementer . 
+ 
+Committees  are also defined  in terms  of the roles  they play and the responsib ilities  they  have in the context  
+of the chang e managemen t functi on. At a mini mum, there  are normall y at least two committees  
+establis hed: The Chang e Advisory  Boar d (CAB) and the Chang e Advisor y Boar d Emergenc y Committe e, whic h 
+typically  have managemen t responsib ilities  for the chang e management  process. 
+ 
+a. Change Manager : The Chang e Manage r is responsible  for managin g the activities  of the change 
+managemen t proc ess for the IS organiz ation.  This individual  focuse s on the process more  than on any 
+individual  change.  However,  the Chang e Manage r is involved  in ever y step  of the proc ess – from  receipt  
+of an RFC to the implementati on of the chang e in the IS environm ent. The Change Mana ger is 
+ultimate ly responsible  for the successful implementati on of any chang e to the IS environm ent. The 
+Chang e Manager’s responsibilities  include:  
+ 
+• Receiving  RFCs  and ensuring  that they  are properly  recorded  in ServiceNow . 
+ 
+• Selecting  CAB members  and facilitating  CAB meetings . 
+ 
+• Preparing CAB meeting  agendas  and providing  all necessar y review  information  to the CAB  
+member s prior  to the meetin gs. 
+ 
+• If necessa ry, assig ning teams  to conduct  RFC impact  analyses and risk assessments. 
+ 
+• Analyzing  and prioriti zing RFCs.  
+ 
+• Categorizing, assigning  change  Coordinators,  and scheduling  RFCs, subject to approv al by the CAB. 
+ 
+• Approving  requests for minor chan ges or assigning  approval  authority  to othe rs. 
+ 
+• Provi ding  change notification  to the Change Initiator  and other  affected  parties.  
+ 
+• Monitoring  the succe ssful completion  of all RFCs, including  the chang e developme nt project  phases 
+and ensuring  that  these  processes follow  the change schedule.  
+ 
+• Reviewing  and evaluating  the change  process.  
+   
+ 
+ 
+Department of Information Services  
+Last Updated: July 2020  b. Chang e Initiator : The Change  Initiator  (normally  someone  within  the IS Busines s Unit)  originates  changes  
+by submitting  a Request for Change  (RFC) to ServiceNow . Everyone  is authorized  to initiate  an RFC.  The 
+Change  Initiator  is responsible  for providing s ufficient  information  on the chang e that the Change 
+Coordinator  can complete  the new chan ge form.  This person is notified  wheth er the chang e was 
+approved  and is kept  up to date  on the status of the RFC throughout  the chang e proc ess. The Change  
+Initiator  assists  the Change Manager and CAB in determining  the RFC priority  and,  at the conc lusion  of 
+the change , participat es in the post-implement ation review. 
+ 
+c. Change Coordinator : The Chang e Manage r assign s (with  the CAB’s  approval)  an individual  to be the 
+Chang e Coordinator  for a change.  Chang e Coordinat ors will be assigne d to each IS busines s unit.  The 
+Change  Coordinator  is responsible  for plannin g and coordinat ing all phases of the chang e from  
+initiation  through  acce ptance and document ation.  The Chang e Coordinat or will document  all relevant  
+infor mation in ServiceNow . 
+ 
+The Chang e Coordinat or will routi nely provide project  status feedback  to the Chang e Manage r and 
+identify  any problems  as they  arise . The Chang e Coordinator  presents all formal  updat es and prop osals 
+to the CAB  after  the CAB  appr oves the RFC for passage through  the variou s chang e implementati on, 
+review and closure phases.  
+ 
+The Change Coordinat or must work  with  the Change Initiator  to ensure that the chan ge meet s the 
+Chang e Initiator’s  requirements  and that  it success fully corrects  any prob lems or provides  the correct 
+system enhan cement s intended  by the RFC. After  implement ing the change, the Change Coordinator  
+assists  the Chang e Manage r in evaluatin g the chang e process as it applies to the change . The Change  
+Coordinator  also coordinat es and presen ts the post -implement ation revie w analysis to the CAB. 
+ 
+d. Chang e Task Assignee  or Change  Impl ementer : Change  Task  Assignees  are respons ible for execut ing 
+individual  tasks within  a chang e and ensurin g they  are complet ed accordin g to the implement ation plan . 
+For example , the techn ician who  performs  the actua l upgrade  of the operat ing system would  complete  
+the tasks  associated  with  completing  the upgrade.  
+ 
+The Change  Coordinator  when  developing  the plann ing and implementation  tasks  will assig n the 
+appropriate  Change  Task Assignee  to perform  the tasks  required  to plan  and implement  the change.

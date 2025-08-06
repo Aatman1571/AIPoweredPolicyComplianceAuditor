@@ -1,0 +1,274 @@
+© 2024 BSI. All rights reserved.  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+Information  
+Security Policy  
+Document Owner:  Chief Information Security Officer  
+Document Version:  15.0  
+ 
+ 
+ 
+ 
+ 
+ 
+Information Security Policy  
+June 2024  
+ 
+ 
+ 
+© 2024 BSI. All rights reserved.  
+ 
+ 2 
+Table of Contents  
+ 
+1. Introduction  ................................ ................................ ................................ ................................ ..........  3 
+2. Purpose  ................................ ................................ ................................ ................................ .................  3 
+3. Scope  ................................ ................................ ................................ ................................ .....................  3 
+4. Roles and Responsibilities  ................................ ................................ ................................ ...................  3 
+5. Breach of this Policy  ................................ ................................ ................................ .............................  4 
+6. Definitions  ................................ ................................ ................................ ................................ .............  4 
+7. Information Security Objectives  ................................ ................................ ................................ .........  5 
+8. Intent of the ISMS  ................................ ................................ ................................ ................................  6 
+9. Exception Process  ................................ ................................ ................................ ................................  7 
+10. Contact Information  ................................ ................................ ................................ .............................  7  
+11. Review  ................................ ................................ ................................ ................................ ...................  7 
+12. Associated Documents  ................................ ................................ ................................ ........................  7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information Security Policy  
+June 2024  
+ 
+ 
+ 
+© 2024 BSI. All rights reserved.  
+ 
+ 3 
+1. Introduction  
+The British Standards Institution, together with its subsidiaries (“BSI”) has developed a Group 
+Compliance Framework consisting of policies, processes, and procedures supported by both 
+management and technical controls appropriate to the risk profile of the organisation.  The 
+confidentiality, integrity and availability of information are critical to the functioning and good 
+governance of BSI. Failure to adequately secure information increases the risk of financial and 
+reputational losses from which it may be difficult for BSI to recover.  
+ 
+ 
+2. Purpose  
+This Information Security Policy (“Policy”) shall be relied on to understand the information security 
+objectives of BSI for protecting our information assets. This is the primary policy under which all 
+other information security related polices reside. A minimum standard is achieve d by adhering to 
+this policy. BSI has established an Information Security Management System (ISMS) framework to 
+support this policy, in line with ISO 27001:2022. The framework consists of policies, process and 
+procedures supported by both management and te chnical controls appropriate to the risk profile of 
+BSI. 
+ 
+ 
+3. Scope  
+This policy applies to all personnel within BSI. Aspects of this policy may need to be adapted to cater 
+for those who are not employees. This policy applies both in the workplace and outside the 
+workplace where there is a connection with work, for example at a social event or any circumstance 
+where charitable donations are being considered on behalf of BSI.  
+This policy is not part of any contract of employment and does not create contractual rights or 
+obligations. It may be amended by BSI at any time.  
+ 
+ 
+4. Roles and Responsibilities  
+All personnel  are responsible  for compliance  with  this policy  and the ISMS  framework  that underpins  it. 
+Managers are responsible for ensuring that this policy is implemented effectively and ensuring  
+compliance  within  their  teams.  
+ 
+Roles  Responsibilities  
+Chief Information 
+Security Officer 
+(CISO)  Implementation  and deployment  of the ISMS  across  BSI and defining, 
+managing and ensuring compliance with the ISMS  
+ 
+ 
+ 
+ 
+Information Security Policy  
+June 2024  
+ 
+ 
+ 
+© 2024 BSI. All rights reserved.  
+ 
+ 4 
+5. Breach of this Policy  
+In alignment  with  our Code  of Business  Ethics,  breaches  of this policy  can result  in remedial,  corrective,  or 
+disciplinary  actions  up to and including  termination  of employment.  Actual  or suspected  incidents   of 
+misconduct should be reported to Group Compliance at compliance@bsigroup.com. BSI guarantees  non-
+retaliation and confidentiality, to the extent legally possible, for good -faith reports of such  breaches.  
+ 
+Activities related to the policy may be logged and audits of control effectiveness will be undertaken by  the 
+Information Security Assurance team, as part of the Information Security Management System  
+(ISMS), and by the Internal Audit team. External audits will be carried out as part of our ISO 27001  
+certification.  
+ 
+BSI has partnered with Safecall to provide an independent externally hosted reporting line “SpeakUp”  
+where you may raise your concerns relating to application or breaches of this policy anonymously. All  
+reports  are treated  with  the utmost  confidentiality  by independent  staff.  For further  information  on 
+raising  concerns  and access  to our Speak  Up reporting  line, please  visit the page  below:  
+https://www.safecall.co.uk/clients/bsi/   
+ 
+If personnel  are in any doubt  that an action  is not compliant  with  this policy,  or need  assistance  with  
+interpreting or applying this policy, they should seek advice from their line manager or from the  
+Information  Security  team:  infosec@bsigroup.com  
+ 
+ 
+6. Definitions  
+The terms and definitions used in this policy align to those provided in ISO/ IEC 27000:2020.  Information  
+Asset:  is a body  of information  held  by BSI that is sensitive,  confidential  or has value  to 
+BSI. It includes  third  party  information  (such  as client  or supplier  data)  and BSI’s  IT systems.  It is defined  and 
+managed as a single unit so it can be understood, shared, protected, and utilized efficiently.  
+Information  Assets  have  recognizable  and manageable  value,  risk, content,  and lifecycles.  
+Information, and related processes, systems, networks and people are all important assets in  
+achieving  the information  security  objectives.  
+BSI information  assets  may be grouped  into the following  categories:  
+Term  Definition  
+Applications  & 
+System  Software  Not only purchased  or developed  by BSI, but also freeware.  
+Hardware  Including,  but not limited  to laptops,  servers,  printers,  mobile  devices  and 
+removable  media.  
+Information  Such as data, personal data, documents, intellectual property, knowledge,  
+application  and system  software  documentation,  not only in electronic  
+media  (databases,  files  in PDF,  Word,  Excel,  and other  formats),  but also in 
+paper  and other  forms. ) 
+Information Security Policy  
+June 2024  
+ 
+ 
+ 
+© 2024 BSI. All rights reserved.  
+ 
+ 5 
+Infrastructure  Such as offices, electricity supply and air conditioning, because these assets 
+can cause lack of availability of information.  
+Outsourced Services  For example, legal services or cleaning services, and also online services, 
+such as email and file sharing services. Whilst these may not be considered 
+assets as per the definition, such services need to be similarly controlled.  
+ 
+ 
+7. Information Security Objectives  
+The following  objectives  apply  across  BSI: 
+1. Protect  the confidentiality,  integrity  and availability  of BSI’s,  client's  and partner's  information  
+assets.  
+2. Provide  information,  with  minimal  disruption  to personnel,  suppliers,  clients  and interested  
+parties,  within  the appropriate  compliance  and regulatory  frameworks  and policy  
+requirements.  
+3. Increase  clients’  and stakeholders’  confidence  in BSI’s  ability  to protect  the information  assets  
+entrusted  to it. 
+4. Protect  the reputation  of BSI and enhance  BSI brand  value.  
+5. Reduce the risk of information security and personal data breaches, incidents and loss of data  and 
+information  assets.  
+6. Comply with data protection laws on the protection of personal data, both as a data controller  and 
+as a data  processor  (see Privacy  Policy  for further  information).  
+7. To implement effective technical and organisational controls to reduce the likelihood and  
+impact  of a data  breach  or security  incident  (see Privacy Policy  for further information).  
+8. All personnel  and suppliers  are made  aware  of information  security,  privacy  and compliance  
+threats, risks & best practice, and that adequate training is provided to improve awareness and  
+vigilance  and to ensure  users  are competent  to carry  out their  role.  
+9. Recognise BSI expertise in applying management systems by gaining third party recognition of  
+the ISMS.  
+10. Provide a structured approach to securing information, led by senior management who are  
+committed  to continual  improvement  of the ISMS . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information Security Policy  
+June 2024  
+ 
+ 
+ 
+© 2024 BSI. All rights reserved.  
+ 
+ 6 
+8. Intent of the ISMS  
+The BSI Board and Group Executive support the information security objectives  and an Information  
+Security Steering Committee (“ISSC”), chaired by the Chief Information Security Officer (CISO), has been  
+established  to oversee  the achievement  of these  objectives.  
+BSI Leadership  is committed  to: 
+a) ensuring that the information security policy and the information security objectives are  
+compatible  with  the strategic  direction  of the organization;  
+b) ensuring  that the information  security  management  system  (ISMS)  requirements  are 
+integrated  into the organization’s  processes;  
+c) ensuring that the resources needed for the ISMS are available, by allocating resources,  
+responsibilities and authority which will be regularly reviewed by Executive Management to  
+ensure  the ongoing  protection  of BSI information  assets  including  client  data;  
+d) communicating  the importance  of effective  information  security  management  and of 
+conforming  to the ISMS  requirements;  
+e) ensuring that the ISMS achieves its intended outcomes by regularly assessing its effectiveness  
+against  the information  security  objectives;  
+f) directing and supporting persons to contribute to the effectiveness of the information security  
+management  system;  
+g) promoting continual improvement of the ISMS, based on the results of the internal ISMS audits  
+and the management review processes, which will identify corrective actions, as well as issues,  
+risks  and opportunities;  
+h) taking a risk -based approach to managing information assets in order to minimise the risk of  
+information  security  incidents  and data  breaches ; 
+i) taking into account all relevant legal and regulatory obligations, specifically when monitoring  and 
+reviewing  the effectiveness  of the ISMS ; 
+j) adopting business continuity management practices, to protect critical business processes  
+from  unplanned  disruptions;  
+k) fostering a culture where the reporting of any actual or suspected breach of information  
+security  is actively  encouraged  and ensuring  such  incidents  are recorded  and investigated  by 
+those  with  responsibility  for information  security  and data  protection;  and 
+l) ensuring  all personnel,  suppliers,  clients  and interested  parties  (including  visitors)  are made  
+aware  of their  information  security  obligations  through  communications,  contracts,  training  
+and policies.  
+ 
+ 
+ 
+ 
+Information Security Policy  
+June 2024  
+ 
+ 
+ 
+© 2024 BSI. All rights reserved.  
+ 
+ 7 
+9. Exception Process  
+Every effort must be made to comply with this policy and all associated policies, procedures 
+and standards. Where it is not possible to apply or enforce any part of a policy, for operational or 
+legitimate business reasons, a policy exemption request must be submitted in accordance 
+with the Policy Exemption  Request  Process  and approval  obtained  prior  to any deviation  from  
+policy.  
+ 
+ 
+10. Contact Information  
+Questions relating to the content of this policy should be addressed to the Information Security 
+Team. Personnel may also ask questions, raise concerns or report instances of potential non -
+compliance with this policy by contacting any of the following:  
+infosec@bsigroup.com  
+ 
+ 
+11. Review  
+This policy is reviewed at least annually or in the event of a significant change. Personnel will be 
+notified of any changes to the policy via BSI's intranet.  
+ 
+ 
+12. Associated Documents  
+Reference Number  Document Name  
+1 Code of Business Ethics  
+2 Privacy Policy

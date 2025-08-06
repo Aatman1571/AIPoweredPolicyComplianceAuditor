@@ -1,0 +1,134 @@
+{
+  "ISO::A.5.17": {
+    "text": "Authentication information. Establish and enforce password and authentication requirements. Users must keep passwords secure, avoid sharing accounts, and follow multi-factor authentication as defined in the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "ISO::A.5.18": {
+    "text": "Access rights. Access rights must be assigned based on roles and reviewed periodically. Unauthorized access or sharing of accounts is prohibited as stated in the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "ISO::A.5.10": {
+    "text": "Acceptable use of assets. Define acceptable use of IT assets, including restrictions on unauthorized software, internet misuse, personal email access, and prohibited activities. Monitoring of user activity is permitted as outlined in the Acceptable Use Policy.",
+    "domain": "asset_management"
+  },
+  "ISO::A.5.13": {
+    "text": "Labelling of information. Define and implement labelling requirements for information classification (Confidential, Internal, Public) as described in the Information Security Policy and Acceptable Use Policy.",
+    "domain": "data_protection"
+  },
+  "ISO::A.8.2.1": {
+    "text": "Classification of information. Classify information based on sensitivity (e.g., NCIC data) and enforce encryption and access controls in alignment with the Acceptable Use Policy.",
+    "domain": "data_protection"
+  },
+  "ISO::A.5.29": {
+    "text": "Information security during disruption. Define procedures to ensure information security is maintained during disruptions, including business continuity and disaster recovery measures outlined in the Information Security Policy.",
+    "domain": "incident_response"
+  },
+  "NIST::AC-2": {
+    "text": "Users must keep passwords secure and must not share accounts, and administrators must manage user accounts including creation, modification, and removal according to the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "NIST::AC-3": {
+    "text": "Access must be limited to only what is required for a user's job role and reviewed regularly in alignment with the Acceptable Use Policy.",
+    "domain": "security_governance"
+  },
+  "NIST::AC-17": {
+    "text": "Secure remote access must be configured using MFA and secure connections (e.g., VPN) in alignment with the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "NIST::IA-2": {
+    "text": "Multi-factor authentication must be required for user access, as stated in the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "NIST::IA-5": {
+    "text": "Passwords must meet complexity requirements and be kept confidential, with account sharing strictly prohibited, as outlined in the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "NIST::IR-4": {
+    "text": "Establish an Incident Response procedure for detecting, reporting, and responding to security incidents. Follow steps for containment, escalation, and forensic investigation as described in the Incident Response Policy.",
+    "domain": "incident_response"
+  },
+  "NIST::IR-6": {
+    "text": "Maintain incident tracking and documentation requirements to ensure lessons learned are captured and applied, per the Incident Response Policy.",
+    "domain": "security_governance"
+  },
+  "NIST::MP-4": {
+    "text": "Define and enforce procedures for secure media disposal and sanitization in accordance with the Information Security Policy.",
+    "domain": "data_protection"
+  },
+  "NIST::SC-12": {
+    "text": "Sensitive data such as NCIC information must be encrypted both in transit and at rest, in accordance with the Acceptable Use Policy.",
+    "domain": "data_protection"
+  },
+  "NIST::SC-28": {
+    "text": "Sensitive information including NCIC data must be protected through encryption and restricted access in compliance with the Acceptable Use Policy.",
+    "domain": "data_protection"
+  },
+  "NIST::PL-2": {
+    "text": "Security policies including acceptable use, access control, and encryption requirements must be documented and enforced as referenced in the Acceptable Use Policy.",
+    "domain": "security_governance"
+  },
+  "NIST::AT-2": {
+    "text": "Conduct regular security awareness training, including acceptable use, phishing prevention, and incident reporting, as outlined in the Information Security Policy.",
+    "domain": "security_governance"
+  },
+  "NIST::AU-6": {
+    "text": "Review and analyze audit logs for suspicious activity and security events, following the guidelines in the Information Security Policy.",
+    "domain": "incident_response"
+  },
+  "CIS::4.1": {
+    "text": "Require multi-factor authentication (MFA) for all administrative and privileged accounts in alignment with the Access Control Policy.",
+    "domain": "access_control"
+  },
+  "CIS::4.2": {
+    "text": "Users must keep passwords secure and must not share accounts as required in the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "CIS::4.3": {
+    "text": "Authentication mechanisms, including multi-factor authentication if applicable, must be followed according to the Acceptable Use Policy.",
+    "domain": "access_control"
+  },
+  "CIS::7.1": {
+    "text": "Perform regular vulnerability scans and remediate findings in accordance with the Information Security Policy.",
+    "domain": "incident_response"
+  },
+  "CIS::7.2": {
+    "text": "Ensure all security patches are applied within defined timelines per the Information Security Policy.",
+    "domain": "security_governance"
+  },
+  "CIS::16.1": {
+    "text": "Maintain an incident reporting process for all staff, aligned with the Incident Response Policy, including escalation procedures.",
+    "domain": "incident_response"
+  },
+  "CIS::16.2": {
+    "text": "Conduct regular incident response exercises to validate the effectiveness of the Incident Response Policy.",
+    "domain": "incident_response"
+  },
+  "CIS::17.1": {
+    "text": "Users must be informed of security requirements and responsibilities for handling information as outlined in the Acceptable Use Policy.",
+    "domain": "security_governance"
+  },
+  "CIS::17.2": {
+    "text": "Track and document employee participation in security training programs to ensure compliance with the Information Security Policy.",
+    "domain": "security_governance"
+  },
+  "CIS::13.4": {
+    "text": "Sensitive information such as NCIC data must be encrypted and protected from unauthorized access as stated in the Acceptable Use Policy.",
+    "domain": "data_protection"
+  },
+  "CIS::5.1": {
+    "text": "Limit administrative privileges to authorized personnel and review them regularly as defined in the Access Control Policy.",
+    "domain": "access_control"
+  },
+  "CIS::5.2": {
+    "text": "Ensure the use of separate accounts for administrative and non-administrative tasks as outlined in the Access Control Policy.",
+    "domain": "access_control"
+  },
+  "CIS::5.29": {
+    "text": "Information security must be maintained during network disruptions or security incidents, in alignment with the Acceptable Use Policy.",
+    "domain": "incident_response"
+  },
+  "CIS::8.2.1": {
+    "text": "Information must be labeled and classified (Confidential, Internal, Public) according to the organization's Information Classification Policy referenced in the Acceptable Use Policy.",
+    "domain": "security_governance"
+  }
+}

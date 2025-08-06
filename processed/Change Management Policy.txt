@@ -1,0 +1,617 @@
+DO IT WITH THY MIGHT  
+1a Marescaux Road  
+Kingston 5, Jamaica  
+themico.edu.jm/policies  
+CHANGE MANAGEMENT 
+POLICY  
+EFFECTIVE: SEPT. 2019  
+
+CHANGE MANAGEMENT POLICY   Page 1 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+The Mico University College  
+CHANGE MANAGEMENT POLICY  
+Office of Accountability:  Offices of the Vice Presidents  
+Office of Administrative Responsibility:  Universal  
+Document Number:  Mico.Adm.Po.19.000  
+Date Policy Created:  August 2019  
+Effective Date of Policy:  September 2019  
+Policy Prepared by:  Rohan Wright  
+Position of Policy Preparer:  Quality Assurance Research Assistant  
+Date of This Revision:   
+ Date Accepted by  
+Executive Management Committee   
+Authorized by:   
+President and Chairman of Executive 
+Management Committee  
+Date Approved by the Board of Directors:    
+Authorized by:   
+Pro-Chancellor and Chairman of the Board  
+ 
+Chairman of the Sub -Committee  
+Version:  02 
+Web Location of Document (Latest Version):  
+ 
+DRAFT  
+ 
+  
+CHANGE MANAGEMENT POLICY   Page 2 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+CHANGE HISTORY  
+Date of Change  Nature of Change  Reviewer(s)  
+Aug 2019  Original policy drafted.  R. Wright  
+Sept 2019  New policy template applied, minor text adjustments.  R. Wright  
+   
+   
+   
+For more information about policy development, consult the Policy Formulation and Management Policy 
+on The Mico website at themico.edu.jm/policies.  
+  
+CHANGE MANAGEMENT POLICY   Page 3 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+Table of Contents  
+ 
+1. Background  ................................ ................................ ................................ ..................  4 
+2. Purpose  ................................ ................................ ................................ ........................  4 
+3. Scope  ................................ ................................ ................................ ...........................  4 
+4. Definitions ................................ ................................ ................................ ....................  4 
+5. Guiding Principles  ................................ ................................ ................................ .........  5 
+6. Change Triggers  ................................ ................................ ................................ ............  5 
+6.1 User change requests  ................................ ................................ .................... 5 
+6.2 Vendor recommended/required changes  ................................ ..................... 6 
+6.3 Accident/Incident initiated changes  ................................ .............................. 6 
+6.4 Changes in response to crises and emergency events  ................................ ..6 
+6.5 National policy or regulatory changes  ................................ ........................... 6 
+7. Change Management Process  ................................ ................................ .......................  7 
+7.1 Change request/approval process  ................................ ................................ .7 
+7.2 Change management team ................................ ................................ ............ 8 
+7.3 Chan ge approval and execution  ................................ ................................ ....8 
+7.4 Adapting strategies  ................................ ................................ ........................ 9 
+7.5 Change monitoring and evaluation  ................................ ............................... 10 
+7.6 Change cancellation/abandonment  ................................ .............................. 10 
+7.7 Change freeze  ................................ ................................ ................................ 10 
+7.8 Change close and reporting  ................................ ................................ ........... 11 
+8. Change Types  ................................ ................................ ................................ ...............  12 
+8.1 Changes to the teaching and learning program  ................................ ............ 12 
+8.2 Changes to hardware, software and technical resources  ............................. 12 
+8.3 Changes to grounds, environment and physical infrastructure  .................... 13 
+8.4 Changes to policy, protocol or regulations  ................................ .................... 13 
+8.5 Human resources  ................................ ................................ ........................... 13 
+8.6 Change for new developments  ................................ ................................ ......13 
+9. Change Classifications  ................................ ................................ ................................ .. 13 
+10. Breach of Policy  ................................ ................................ ................................ ............  14 
+10.1  General Procedures  ................................ ................................ ....................... 14 
+10.2  Penalties  ................................ ................................ ................................ ......... 15 
+11. Responsibilities  ................................ ................................ ................................ ............  15 
+11.1  The Offices of the Vice Presidents  ................................ ................................ .15 
+11.2  The Registrar  ................................ ................................ ................................ ..15 
+11.3  The Human  Resources Director  ................................ ................................ .....15 
+11.4  All staff/students  ................................ ................................ ............................ 16 
+12. Supporting Documents  ................................ ................................ ................................ . 16 
+ 
+Appendix I – Change Request Form ................................ ................................ ......................  17  
+CHANGE MANAGEMENT POLICY   Page 4 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+1. BACKGROUND  
+The Mico University College operates within a dynamic context wherein a number of 
+stakeholders, systems and competing demands necessitate the introduction of new or modified 
+systems, resources or infrastructure. Change management is therefore a critical function of the 
+instit ution’s operation  whereby effective control mechanism s are used to manage all institutional 
+changes.  
+In a context where multiple organs operate simultaneously , the change management process 
+requires careful forethought, planning, monitoring and follow -up to ensure that changes are 
+smooth, efficient and achieve the desired outcome and are well -received by the affected 
+stakeholders . 
+Adherence to change management policies help to avoid confusion, chaos,  disorder, discomfort 
+and wastage. It helps to protect life, property and all tangible and intangibl e resources of the 
+institution.  
+2. PURPOSE  
+The purpose of this policy is to establish how change s to any aspect of the institution’s systems, 
+methods, processes or other resources, whether physical or otherwise will be managed . It will 
+define the specific strategies that must be followed to effect and control this change and how to 
+aid stakeholders in adapting to these transitions.  
+3. SCOPE  
+Given the varyin g nature of changes that occur within an educational context, this policy shall b e 
+applicable to all departments, with specific exclusions (where noted) for the Curriculum Unit, and 
+the Information Technology  and Human Resources department s. 
+4. DEFINITIONS  
+The Mico University College Change Management Policy  and the policy statements related herein 
+will hereafter be referred to as CMP . Furthermore, the following definitions shall be applied as it 
+relates specifically  to this policy.  
+i. Change : A modification made  to any aspect of the i nstitution’s systems, processes, 
+operations or physical resources.  
+ii. Change Management : The process of controlling modifications to any aspect of the 
+institution’s systems, processes or physical resources.  
+CHANGE MANAGEMENT POLICY   Page 5 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+iii. Staff:  Any individual employed by The Mico University College in a permanent, temporary 
+or contractual basis in any fulltime or part -time capacity.  
+iv. Stakeholders:  Any individual who interacts or wishes to interact with the institution. 
+When qualified as Other Sta keholders, the term refers to individuals who are neither 
+current staff nor student of the institution but are primarily external interests.  
+5. GUIDING PRINCIPLES  
+Change can create order , lead to smoother operations and bring satisfaction and enhanced 
+welfare  to the stakeholders of The Mico . Invariably  change can also cause chaos, inconvenience, 
+confusion and a host of other unnecessary situations that negatively affect the smooth 
+operations of the institution and the wellbeing of its stakeholders.  While change is inevitable and 
+a frequent necessity, it must be controlled in such a way that  all stakeholders benefit positively, 
+that all systems are enhanced and that structures operate smoothly . This policy is therefore 
+guided by the view  that:  
+i. Change  is inevitable but can be managed.  
+ii. Stakeholders must be aware of planned changes.  
+iii. All affected individuals must be trained or sensitized in response to planned changes.  
+iv. Change activities must be conducted in harmony with the other.  
+v. Changes must be designed  to improve satisfaction, comfort, efficiency and welfare.  
+vi. National and professional standards in various sectors must be considered for each 
+change.  
+6. CHANGE TRIGGERS  
+There are certain events that may necessitate a change, these ‘triggers’ and the requireme nts of 
+the change must be fully documented. All change requests shall be made to the relevant 
+department by submitting a Change Request Form . A non -exhaustive list of common change 
+triggers and their features are noted below, along with the specific requir ements and actions that 
+should be taken in response. A number  of other triggers are possible, however the change 
+management process and the general requirements noted within this policy must be followed to 
+the furthest extent possible.  
+6.1 User change requests  
+Where a staff, student or other stakeholder requests a change to some aspect of the institution’s 
+system or physical space, the appropriate documentation, which shall include the Change 
+Request Form should be forwarded the relevant department for action. User change requests 
+CHANGE MANAGEMENT POLICY   Page 6 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+may be based on some observable hazard, impending situation or any other need as identified 
+by a stakeholder . 
+6.2 Vendor recommended/required changes  
+Where a vendor or supplier has prescribed changes in regards to any of its products or the context 
+in which it is delivered, the office of contact shall initiate the change process through 
+communication  with any related department to include, where necessary the ICT Department, 
+Procurement Department, Estate Management or Maintenance Departm ent etc. Where 
+possible, the vendor shall execute the change using personnel and resources belonging to the 
+supplying entity itself.  
+In the event that the recommended/required change (s) cannot be reasonably executed by the 
+vendor, then the relevant instit utional positions on cost -sharing, asset management, 
+procurement procedures etc., shall be applied.  
+6.3 Accident/Incident initiated changes  
+A form for Accident/Incident Reporting shall be made available to all stakeholders through an 
+appropriate medium. This f orm shall be used to document and report on any event which has 
+proved injurious to life or property, thus requiring a change in any process, system and/or 
+physical infrastructure. The details surrounding the incident must be investigated by the relevant 
+personnel and the recommended changes vetted by the appropriate department.  All provisions 
+of the Occupational Safety and Health Manual shall be taken into consideration with regards to 
+any change or change request triggered by an accident or incident.  
+6.4 Chan ges in response to crises and emergency events  
+The institution may be required to implement a change in response to any actual or impending 
+emergency. Such situations may include, among others, natural disast ers or meteorological 
+phenomenon , health crises or other emergency  scenarios.   
+Due to the dynamic nature of such crisis/emergency scenarios, it shall be permissible to 
+implement emergency changes, with disregard for certain provision of this policy under the 
+condition that the scenario is demonstrably u rgent and the change being implemented does not 
+bring harm to life and property but seeks to protect same to the furthest extent possible.  Sections 
+of this policy that apply even in crisis/emergency cases include , inter alia, change monitoring, 
+evaluation and post -reporting.  
+6.5 National policy or regulatory changes  
+The institution may be subject to a number of legal, regulatory, policy or professional 
+prescriptions related to its operations. Recognizing that entire functions of the institution and 
+large popula tions are typically affected by these types of changes, the change management team 
+CHANGE MANAGEMENT POLICY   Page 7 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+responding to any new law or professional standard must ensure that any other change being 
+implemented or planned for implementation does not violate mandatory standards or is not 
+otherwise in disharmony with other planned changes on the campus or to any related process, 
+system, structure of stakeholder group.  
+7. CHANGE MANAGEMENT PROCESS  
+Transformations in any system, process or infrastructure will invariably impact stakeholders and 
+related aspects of the organization ’s operations . To this end, the institutional change 
+management process must consider all affected individuals and related systems and structures . 
+The process shall include the following activities and features , along with others which may 
+become  necessary from time -to-time : 
+7.1 Change request /approval process  
+Save for in emergency situations and any scenario  of a time -sensitive nature in which the safety 
+and security of life and property is at risk, all general institutional changes shall be initiated by 
+the appropriate paperwork, which shall include a Change Request Form  along with evidence 
+supporting the need for the change. All chang es shall be assigned a classification level based on 
+the complexity and urgency  of the activity  (see Error! Reference source not found. ). 
+i. A change request allows stakeholders to indicate the need for a change and one shall be 
+submitted even if a full description of the required change is not defined.  
+ii. In the case of significant changes, appropriate interdepartmental consultation or other 
+advice shall be sought by the receiving office to determine the merits of the request . 
+Routine/minor and other low -impact changes can be decided on by the relevant 
+depa rtment head.  
+7.1.1 Review/Approval Durations  
+The duration of each stage of the change request/approvals cycle shall conform as noted below:  
+i. The time between the receipt of a change request and review  of that request shall not 
+exceed : 
+ For Normal/routine and minor  changes - 2 working days  
+ For Significant and emergency changes - 1 calendar day  
+ii. The time between review  of a change request and an approval  decision shall be:  
+ For Normal/routine and minor changes - 3 working days  
+ For Significant and emergency changes - 1 calendar day  
+iii. Depending on the criticality of the circumstance, a n additional 5 working  days shall be 
+allowed for further research and investigation before a decision to approve any change is 
+CHANGE MANAGEMENT POLICY   Page 8 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+taken. If it is determined within this period that a change is warranted, a further 5 working 
+days shall be allowed for designing/refining the actual change response.  
+iv. The total time between the receipt of any change request and an approval decision shall 
+not exceed ten (10) working days.  
+v. Where a change type is gove rned by an existing policy, the timelines and activity durations 
+in that policy shall supersede those established herein.  
+7.2 Change management team  
+When a change request is received or a department has decided to embark on a change based 
+on some research or o bserved need for that change, an ad hoc  change management team shall 
+be constituted  by the responsible department . The team will be responsible for coordinating the 
+change process , which shall include a variety of activities, not limited to , reviewing the change 
+proposal and its implications, the change requirements (legal, regulatory, financial etc .), making 
+the necessary stakeholder and expert consultations  and conducting research , among others . 
+Change management teams  exist within the specific department s responsible for executing the 
+change , that is, they are not an 'institutional’  structure . Each team shall be established on a needs 
+basis and shall be constituted by personnel appropriately selected by the head of the executing 
+department. Multiple chang e management teams may exist simultaneously  within the 
+institution , each managing its own portfolio of change  activitie s. 
+Change management teams must necessarily notify relevant stakeholders of their activities to 
+avoid duplication of effort and to ensure that all change events are in harmony  with each other . 
+7.3 Change approval and execution  
+Proposed changes shall go through an approvals process, which shall involve the relevant 
+department and if necessary , a representation of the affected stakeholder  groups . Specific 
+approvals and requirements for each change shall be based on its classification level.  The 
+approvals process shall be managed by the change management team which shall be formed to 
+assess the proposed change, refine the requirements and m anage the implementation process.  
+Additionally:  
+i. Execution of the change shall follow internationally accepted project management 
+standards so that all constraints (e.g. time, cost, scope etc.) are factored into the design 
+of the activity.  
+ii. Expedited change approvals are permitted when there is demonstrable risk to any feature 
+of the institution. The change management team shall be guided by the institution’s 
+Enterprise Risk Management Policy ; Asset Management Procedures; Occupational Safety 
+& Health Manual and any other related policy document.  
+CHANGE MANAGEMENT POLICY   Page 9 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+7.4 Adapting strategies  
+In addition to the general change management procedures, a number of adaption strategies must 
+concurrently be implemented to ensure that stakeholders easily adapt to the change. These are 
+necessary  for avoiding chaos, discontent or opposition to the change and must include  the 
+following, where necessary : 
+7.4.1 Notifications and mounting of signage  
+i. With respect to electricity, plumbing, grounds and physical infrastructure (whether  fixed  
+indoors or outdoors ), appropriate caution and advisory signs  or notices shall be mounted 
+in a clearly visible area informing stakeholders  of the activity or changes.  
+ii. Where the change is not related to physical infrastructure, advisories  can be sent by other 
+means (not printe d) provided that all affected stakeholders are made aware and can 
+anticipate and plan for the impact.  
+iii. Where documents, brochures, the institution’s website or other sources refer to a 
+situation that existed before the change was implemented, these material  must be 
+retracted and discarded and any necessary corrections made. New publications must be 
+prepared with the updates and disseminated through the same channels and with at least 
+the same level of prominence with which the previous information sources ha d received.  
+iv. Where it is necessary to inform the public of a change (e.g. when a critical service is being 
+suspended  or when calls are being rerouted due to downed telephone lines ), notices with 
+specific instructions must necessarily appear in print and /or electronic media at least 72 
+hours before implementation of the change or within 48 hours after an emergency or 
+unplanned change.  
+v. The Communications Policy  shall guide the preparation of any change notification and 
+communication output, including the frequency with which the communication should 
+be repeated or rebroadcast.  
+vi. All communication related to the above  must appropriately include  the following : 
+a) The nature and expected outcome of the activity/change  
+b) The expected duration of the activity/change process  
+c) Any service , process, structure or activity that may be disrupted  
+d) Responsibilities, specific instructions and/or warnings to stakeholders  
+e) The responsible office for the activity /change  
+f) The date of posting  
+  
+CHANGE MANAGEMENT POLICY   Page 10 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+7.4.2 Testing , simulations and dry -runs  
+Where feasible, there shall be testing and dry -runs of all new systems, processes and changes  so 
+that a full execution of the change will lead to predictable outcomes to the furthest extent 
+possible.  
+7.4.3 Training and sensitizatio n 
+Some changes will result in a situation wherein stakeholders have to modify their behaviour and 
+practices . Where necessary , training exercises must be executed to equip stakeholders with the 
+relevant knowledge, skills and attitudes to effectively cope with the change. This may include 
+inter alia , workshops, sensitization campaigns , training and development programs or other 
+activities.   
+7.4.4 Outfitting, retrofitting and retooling  
+Where necessary, the institution must ensure that the requisite tools and resources are in place 
+for staff to effectively adapt the change. Changes shall not be implemented before the requisite 
+tools and resources to adapting to that change have been procured and installed. Examples of 
+such tools include  books, teaching aids, technology or other resources.   
+The change management team must ensure that the implications of the change are well 
+understood so th at any required outfitting, retrofitting, retooling or any new or replacement 
+installations can be performed prior to change implementation.  
+7.5 Change monitoring and evaluation  
+Both during and after implementation of any change activity, the relevant change m anagement 
+teams must monitor all direct and indirect results and feedback to verify  that the desired 
+outcome is being achieved . Intervention may be necessary to correct any deviation from the 
+desired /expected  outcome which must also be documented as part of the change reporting . 
+7.6 Change cancellation/ abandonment  
+Any decision to cancel/ abandon a change must be documented, with supporting evidence to justify the 
+need. The extent of change execution must be clearly  described in report, to understand any reversal 
+actions that may be needed and for full accountability of the resources expended on the change up to 
+that point. The appropriate change status must also be indicated. See Table 1 for status descriptions.  
+Where a stakeholder believes a change should be cancelled, he/she shall communicate this request to the 
+change management team using the most efficient means possible, depending on the nature of the 
+change  (for example, telephone or email communication may be necessary in emergency scenarios) . 
+7.7 Change freeze  
+At certain critical points during the year, it may be necessary for the institution to impose a fre eze 
+on all non -essential changes. All departments shall be prohibited from executing any change 
+CHANGE MANAGEMENT POLICY   Page 11 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+above the class of “significant”  when the change environment during the freeze will impact the 
+success of the change process, for example when the affected stak eholders, are not reasonably 
+expected to receive the necessary notifications/communications. Such periods may includ e 
+holidays ; or days of major institutional events or during external events that affect the institution 
+in a significant way  etc. 
+During change freeze periods, departments are only permitted to execute any of the following:  
+i. Changes deemed essential to resolving any issue  that could destr oy life or property . 
+ii. Changes that do not require stakeholder consultation or prior notification or  
+communication.  
+iii. Any c hange that was approv ed and communicated to all stakeholders prior to the freeze 
+date . 
+iv. Any other change that has low -risk and minimal impact to the institution and its 
+stakeholders.  
+The Office of the President may institute a change fr eeze at any time. Whether or not a change 
+freeze has been ordered however, all heads of departments and change management teams shall 
+carefully analyse the change environment before implementing a change.  
+7.8 Change close and reporting  
+Once a change has been closed, all details regarding the activit y must be properly documented 
+and communicated to the rele vant authorities . This necessitates a post -implementation meeting 
+or other activity whereby the change management team and the personnel involved in the 
+change implementation provide a report of their actions and experiences with regards to the 
+activity . All departments must keep a log of all changes (regardless of Change Status ) for further 
+reporting.  
+Change reporting is applicable even in unplanned changes (such as in crisis/emergency 
+situations ) where a change plan may not have been developed  prior to execution.  
+7.8.1 Change Status  
+Before, during and after implementation, change reports must include a change status. Appropriate 
+descriptors include, the following:  
+Status  Description  
+Uncompleted  The change was not executed to completion whether deliberately or not.  
+Successful  The change was successfully executed as planned.  
+Failed  The change was not successfully executed as planned.  
+Partial  The change was executed to some degree, but not entirely as planned.  
+Cancelled  The change was abandoned  after approval but prior to or durin g execution.  
+CHANGE MANAGEMENT POLICY   Page 12 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+Table 1 Showing change status titles and descriptions . 
+The appropriate change status must be applied at different  stages of the change  management 
+process and it must be also be stated in change reporting.  
+8. CHANGE TYPES  
+There are specific categories of changes which require the use of established principles  and 
+which, while affecting the wider institution or large stakeholder groups must be executed by a 
+specific department . Others categories of changes may be based on an  actual or impending need 
+wherein the specific details and requirements are determined on an ad hoc basis.  Routine 
+changes that affect specific departments are to be managed internally by the specific 
+department.  
+8.1 Changes to the teaching and learning progra m 
+As an educational institution, The Mico University College offers a range of education al programs 
+and services. Among these offerings are courses which may from time to time need to be 
+modified, suspended or discontinued. These changes to the teaching an d learning program at the 
+institution must be in accordance with the Framework for the Development and Review of 
+Academic Programmes  and the New Course Creation  and Existing Course Revision Policy & 
+Procedures  and any other applicable policy, protocol or regulation.  
+8.1.1 Curriculum, course or programme changes  
+The Universal Change Request Form shall not be applicable in the case of changes to any 
+curriculum, course or  programme; however all other aspects of the Change Management Policy 
+will apply.  
+i. Any changes to course content and/or the selection of courses on offer at the institution 
+must involve the Curriculum Unit. Proposed changes to the teaching and learning 
+prog ram must be documented and submitted through the Form for Proposing a Minor 
+Change to a Course ; the Form for Proposing the Development of a New Course ; and/ or 
+the Form for Proposing the Discontinuation/Suspension of an Existing Course .  
+ii. Changes to the institution’s online and distance education programme shall be guided by 
+the Online & Distance Education Policy , unl ess such changes fall within any of the other 
+change types indicated in the instant policy.  
+8.2 Changes to h ardware , software and technical resources  
+Changes of this nature may affect devices issued to or made available for use by staff or students 
+of the institution or those which are used by the relevant IT personnel to provide IT services to 
+CHANGE MANAGEMENT POLICY   Page 13 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+stakeholders of the institution. Changes to any hardware or software or other technical 
+component of any device must be managed by the information technology department.  
+8.3 Changes to grounds, environment and physical infrastructure  
+Infrastructural changes shall be coordinated by the Office of the Vice President – Administration  
+or a unit so designated for this purpose.  Physical infrastructure is expanded to include buildings; 
+electrical, plumbing and ventilation fixtures , certain tangible assets, grounds  and other.  The 
+relevant estate management procedures shall be  implemented . 
+8.4 Changes to policy, protocol o r regulations  
+Changes to policy, protocol or institutional regulations shall be guided by the Policy Formulation 
+and Management Policy . Changes to any  of the structures or processes established by these 
+documents must necessarily include consultation, research and investigation and any other 
+activity, not specifically mentioned in this policy which supports its effective implementation and 
+enforcement.  
+8.5 Human resources  
+Any change involving /affecting the institution’s human resources or human resource procedures 
+shall be managed by the Department of Human Resource and shall be conducted in accordance 
+with the relevant internal policies  and applicable local  laws.  
+8.6 Change for new developments  
+The deployment of any new technology, feature, function, product, service or activity etc., shall 
+be considered a change, whether this change affects staff, students, other stakeholder or a 
+combination thereof. Change s of this nature shall be managed by the respective department with 
+direct involvement of the relevant Office of the Vice President.  
+9. CHANGE CLASSIFICATIO NS 
+All changes being  considered shall be assigned one of the classification levels identified in the 
+table below.  This designation must be applied once the scope and requirements of the change 
+are determined. A proposed classification may be submitted by the individual requesting the 
+change but must be confirmed by the department responsible for its execution o r the designated 
+change management team.  
+Classification level s are attributed to each change so that the nature, complexity and impact of 
+the change can be easily stated  and understood by all stakeholders, particularly those responsible 
+for its coordinatio n. The classification level is also indicative of any notification and 
+communication requirements . Furthermore, changes may be temporary or permanent and this 
+temporal factor must also be communicated to the relevant stakeholders. The c hange 
+CHANGE MANAGEMENT POLICY   Page 14 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+classification  levels used by the institution, as well as the related approval and notification 
+requirements are indicated  below:  
+Classification  Description  Requirements  
+Routine /Normal  Relatively low -risk and noncomplex change 
+with an established process and predictable 
+outcomes having virtually no impact to 
+stakeholders  or other systems or structures.  Approval of initial request required however 
+subsequent changes of the same nature will not require 
+approval. Notice must be given to all affect ed 
+stakeholders if the change(s) are not obvious 
+transparent and/ or requires behaviour modification . 
+Minor  Low-risk and low -impact changes having a 
+minimal level of impact to stakeholders or 
+other systems or structures.  Changes to any internal mechanism that does not affect 
+external stakeholders  (or to a negligible extent).  
+Major /Significant  Generally high -risk, complex change with 
+unpredictable risks and having severe impact 
+for a large portion of  stakeholders.  Approvals are required for all major changes. This must 
+be well communicated in advance along with any 
+regular updates to stakeholders.  
+Emergency /Crisis  Generally unscheduled and required in the 
+event of situation s in which life and propert y is 
+threatened . Such situations typically involve 
+multiple concurrent changes.  Approvals are not required if an immediate change is 
+required in order to protect life and property.  
+Table 2 Showing change classification levels and related requirements . 
+10. BREACH OF POLICY  
+It is critical that all changes are conducted in accordance with this policy as lack of adherence 
+may results in a number of adverse situations. Examples of a policy breach ma y include, inter alia, 
+the implementation of any change that was not approved by the relevant department; failure to 
+notify or communicate to the relevant stakeholders; or misclassification of any change, whether 
+deliberate or not, resulting in  the poor execution of a change. All stakeholders who breach or 
+who are observed to have breached this policy may be complicit in disrupting the smooth 
+operations of the institution, producing chaos or otherwise costing the institution its resources.  
+The insti tution’s response to a breach of policy shall be commensurate to the nature, level and 
+extent of the breach and the disruption that it has created to the institution’s systems and 
+structures.  
+10.1 General Procedures  
+Where a breach is alleged, an ad hoc  committe e, comprising at minimum five representatives of 
+the affected departments , shall be established. This committee will review the details of the case 
+and determine the extent of damage that has been caused by breaching the terms of this policy . 
+CHANGE MANAGEMENT POLICY   Page 15 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+The findings of the committee shall be conveyed to the Human Resources Department, which 
+shall, in accordance with the relevant disciplinary procedures effect a penalty on the individual . 
+10.2 Penalties  
+Where a n offence has been reported , investigated and found to be a brea ch of policy , the 
+institution shall, in keeping with applicable policies and local laws, take appropriate remedial, 
+punitive or other correcti ve action to resolve the issue  and prevent future occurrence s. Breaches 
+shall be judged based on the extent of damage caused by non -compliance.  
+11. RESPONSIBILITIES  
+While all stakeholders have a responsibility to uphold the statements of this policy, certain offices 
+and personnel shall have special responsibilities regar ding institutional change management:  
+11.1 The Office s of the Vice President s 
+The Offices of the Vice Presidents shall have oversight responsibility for all changes executed 
+within their respective portfolios. Specifically, each office shall:  
+a) Request annual reports on all change  request received by all departments within its 
+domain  (whether these changes are .approved, declined or otherwise).  
+b) Veto any change approval decision by a department within its domain and/or impose 
+modifications to the change management plan.  
+c) Intervene in the case of change management failure or where adverse effects on the 
+institutions’ systems or structures occurs or is likely to occur.  
+11.2 The Registrar  
+The Registrar shall , with respect to changes primarily affecting stud ents : 
+a) Provide guidance and direction on any change falling within its scope.  
+b) Verify compliance with this policy when it impacts any aspect of the institution’s HR 
+function.  
+11.3 The Human Resources Director  
+The HR Director shall , with respect to changes affecti ng the institution’s human resource 
+function : 
+c) Provide guidance and direction on any change  falling within its scope.  
+d) Verify compliance with this policy when it impacts any aspect of the institution’s HR 
+function.  
+  
+CHANGE MANAGEMENT POLICY   Page 16 of 18 
+ 
+Mico. UNI.Po.Change -Mgmt -Pol.2019.v0 1  Effective Sept 2019  
+11.4 All staff /students  
+All members of staff shall support the change management process ; follow the instructions given 
+by the relevant change management team; submit change requests whenever the need arises or 
+is expected to arise.  
+12. SUPPORTING DOCUMENTS  
+This policy is supported by the following docum entation:  
+ Asset Management Procedures  
+ Communications Policy  
+ Framework for the Development and Review of Academic Programmes  
+ New Course Creation and Existing Course Revision Policy & Procedures  
+ Policy Formulatio n & Management Policy  
+ Enterprise Risk Management Policy  
+ Use of Facilities or Grounds Regulations  
+ Form for Accident/Incident Reporting  
+ Form for Proposing a Minor Change to a Course  
+ Form for Proposing the Development of a New Course  
+ Form for Proposing the Discontinuation/Suspension of an Existing Course  
+ 
+ 
+ Appendix  I – Change Request  Form  
+ 
+The Mico University College  
+Office s of the Vice Presidents  
+ 
+CHANGE REQUEST FORM  (CRF)  
+A changes is a modification or transformation to any aspect of the institution’s systems, processes, operations or 
+physical resources. Changes are inevitable and often necessary  to improve efficiency, respond to external events, or 
+to protect life and property. This form is to be used in accordance with The Mico University College Change 
+Manage ment Policy (2019) which establishes the rules and processes related to change management at The Mico . 
+ 
+CHANGE  TITLE : 
+Provide a descriptive title for the change (indicate if the proposed change is related to an on -going project ). 
+ 
+Change Category : 
+ Administration   Academic    Technical   Auxiliary  
+ 
+Change Trigger (s): 
+ Stakeholder demand/observation  
+ Vendor recommended  
+ Accident/incident response  
+ Emergency/crisis situation  
+ Other  (State ):  Change Classification:  
+ Normal/ Routine  
+ Minor/Low risk/impact  
+ Majo r/High risk/impact  
+ Emergency  
+ Other  (State ):  
+ 
+Change Description:  
+Provide a detailed description of the proposed change.  
+ 
+Change Justification:  
+Explain why this change is needed.  
+ 
+Affected Stakeholders:  
+List stakeholders and describe how each will be impacted by the  proposed change . 
+ 
+Expected Disruptions:  
+Detail any disruptions that will be expected from implementing the proposed change.  
+ 
+Desired Outcome : 
+Outline the specific outcome to be achieved by this change.  
+ Supporting Evidence  Attached : 
+Please list  below and attach to form . 
+* OFFICIAL USE ONLY *  
+Receiving Dept.:  _________________  
+Receiving Officer:  ________________  
+Date Received:  __________________  
+Reviewed By:   ____________________  
+ 
+Approval Status:  
+ Approved  
+ Conditionally Approved  
+ Hold for Future Action  
+ Declined  
+ 
+Notes:  
+ Request Submitted by:  
+________________________________  
+On (dd - mm - yyyy) 
+________________________________  
+Signed  
+________________________________

@@ -1,0 +1,1014 @@
+BUSINESS CONTINUITY 
+PLAN  
+Squamish-Lillooet Regional District  
+SLRD Emergency Management Program  
+info@slrd.bc.ca  
+Version: 1.0  
+Published: July, 2020  Abstract  
+This is the Business Continuity Plan (BCP) for the Squamish- Lillooet Regional District 
+(SLRD). It is an annex of  the SLRD All Hazards Plan  and provides  a framework for 
+continuity of local government  services  during emergencies that directly impact the 
+physical locations and staff of the SLRD .  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  1/25 
+ Executive Summary  
+The purpose of this Business Continuity Plan (BCP) is to enable  continuity of government  and organizational 
+continuity  during emergenc ies that directly impact the physical locations and staff of the SLRD. The BCP is 
+designed to be flexible, scalable, and all -hazards in nature.  
+Core SLRD local government functions  include : 
+• Governance.  Continuity of governance involves enabling elected officials to continue to perform their 
+mandated duties  and promote public trust through con tinuity of democratic processes . It includes the 
+provision of physical,  technical, procedural, or regulatory resources that may be required in the event that 
+the regular mechanisms for performing  governance  activities  are disrupted by a risk event.  
+ 
+• Public Participation . Continuity of public participation involves enabling  SLRD constituents  to have  the 
+ability to exercise their democratic rights  when regular avenues of par ticipation have been i mpeded by risk 
+events  that have disrupted physical public gathering or technological means of participation.  Public 
+participation  includes voting, submissions, correspondence, participation at scheduled public meetings  and 
+any other channels provided for in law and regulation.  
+ 
+• Corporate Functions . Continuity of corporate functions includes all policies, procedures and technology 
+required to en able the effective administration of local  government staff and property. It involves the 
+continued safe  provision of human resources services to SLRD staff, including provisions to enable 
+essential  recruiting, retention, vacation  scheduling,  payroll services, and the maintenance of required  
+occupational health and safety procedures.  SLRD corporate functions also include material and 
+technological resources that are available to staff  to carry out their job functions, including information 
+technology (IT) infrastructure, corporate vehicles, and physical workspace such as the Adminis trative 
+Office or alternative workspace arrangements.  
+ 
+• Departmental Functions.  Continuity of departmental functions includes all department -specific services 
+that staff  deliver under the mandate of the Local Government Act and other applicable legislation and 
+regulation. During a major emergency or disaster  these services may be amended  to safeguard  the health 
+and safety of staff or to meet the requirements of disaster response. SLRD departments, however, are 
+responsible for planning that minimizes such dis ruption and maximizes continuity of service, in particular 
+those directly relating to the continuity of life, health, public safety and basic societal functioning.  
+The all -hazards nature of this BCP supports continuity of  SLRD  local government services in  the event of various 
+potential natural and human -induced disasters. Recognizing that some hazards, such as pandemic, pose a unique set 
+of challenges to local government, this BCP includes supplementary considerations and guidelines for those specific 
+even ts where required.  
+This Plan is comprised of  the plan document, plus a number of appendices for operational use.  These templates, 
+sample policies, and guides provide a starting point and benchmark for developing event -specific business 
+continuity products  that may be required in an emergency.  
+  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  2/25 
+ Contents  
+Executive Summary  ....................................................................................................................................................... 1 
+1. Introduction  ........................................................................................................................................................... 5 
+2. Annual Review, Revisions and Distribution  .......................................................................................................... 5 
+2.1. Annual Review  ................................................................................................................................................. 5 
+2.1.1.  Minor Revisions  ........................................................................................................................................... 5 
+2.1.2.  Major Revisions  ........................................................................................................................................... 5 
+2.1.3.  Revis ion History  .......................................................................................................................................... 5 
+2.2. Record of Distribution  ...................................................................................................................................... 6 
+3. List of Common Terms  .......................................................................................................................................... 6 
+4. Scope and Objectives  ............................................................................................................................................. 7 
+4.1. Scope  ............................................................................................................................................................ 7 
+4.2. Objectives ..................................................................................................................................................... 7 
+5. Concept of Operations  ........................................................................................................................................... 8 
+5.1. Phase 1: Readiness and Preparedness  .......................................................................................................... 8 
+5.1.1.  Organization Readiness and Preparedness  ............................................................................................... 8 
+5.1.2.  Staff Readiness and Preparedness  ............................................................................................................ 9 
+5.2. Phase 2: Activation  ...................................................................................................................................... 9 
+5.2.1.  BCP Activation Decision Guidance ......................................................................................................... 9 
+5.2.2.  Alert and Notification Procedures  ......................................................................................................... 10 
+5.3. Phase 3: Continuity of Operations  ............................................................................................................. 10 
+5.4. Phase 4: Reconstitution Operations  ............................................................................................................ 10 
+6. Business Continuity Scenario 1: Loss of access to SLRD Administration Office –  1350 Aster Street, 
+Pemberton  .................................................................................................................................................................. 11 
+6.1. Assumptions  ............................................................................................................................................... 11 
+6.2. Business Impact Analysis  .......................................................................................................................... 11 
+6.3. Continuity of Governance -  Action Checklist  ........................................................................................ 11 
+6.3.1.  SLRD Board Meetings ........................................................................................................................... 11 
+6.3.2.  Public Messaging from Elected Officials  .............................................................................................. 12 
+6.3.3.  Keeping Elected Officials Informed  ...................................................................................................... 12 
+6.3.4.  Holding Elections or Assent Voting  ...................................................................................................... 12 
+6.4. Continuity of Public Participation -  Action Checklist  .......................................................................... 12 
+6.4.1.  Public notices and information sharing  .................................................................................................. 12 
+6.4.2.  Receiving and responding to public inquiries  ........................................................................................ 12 
+6.4.3.  Holding public meetings and town hall events  ...................................................................................... 12 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  3/25 
+ 6.5. Continuity of Corporate Functions –  Action Checklist  ........................................................................ 13 
+6.5.1.  Human Resources  .................................................................................................................................. 13 
+6.5.2.  Material Resources  ................................................................................................................................ 13 
+6.5.3.  IT Resources  .......................................................................................................................................... 13 
+6.6. Continuity of Departmental Functions –  Action Checklist  .................................................................. 13 
+6.6.1.  All Departments  ..................................................................................................................................... 13 
+6.6.2.  Administration  ....................................................................................................................................... 14 
+6.6.3.  Commu nications  .................................................................................................................................... 14 
+6.6.4.  Legislative Services  ............................................................................................................................... 14 
+6.6.5.  Protective Services  .................................................................................................................................  14 
+6.6.6.  Finance  ................................................................................................................................................... 14 
+6.6.7.  Planning Department  ............................................................................................................................. 14 
+6.6.8.  Building Department .............................................................................................................................. 14 
+6.6.9.  Environmental Services (Incl. Utilities)  .................................................................................................  15 
+7. Business Continuity Scenario 2: Loss of Information Technology Infrastructure  ...................................... 15 
+7.1. Assumptions  ............................................................................................................................................... 15 
+7.2. Business Im pact Analysis  .......................................................................................................................... 15 
+7.3. Continuity of Governance –  Action Checklist  ....................................................................................... 16 
+7.3.1.  Board Meetings  ...................................................................................................................................... 16 
+7.3.2.  Publi c Messaging from Elected Officials  .............................................................................................. 16 
+7.3.3.  Keeping Elected Officials Informed  ...................................................................................................... 16 
+7.3.4.  Holding Elections  .................................................................................................................................. 16 
+7.4. Continuity of Public Participation –  Action Checklist  .......................................................................... 16 
+7.4.1.  Public notices and information sharing  .................................................................................................. 16 
+7.4.2.  Receiving and responding to inquiries from the publ ic ......................................................................... 16 
+7.4.3.  Holding public meetings and town hall events  ...................................................................................... 17 
+7.5. Continuity of Corporate Functions –  Action Checklist  ........................................................................ 17 
+7.5.1.  Human Resources  .................................................................................................................................. 17 
+7.5.2.  Material Resources  ................................................................................................................................ 17 
+7.5.3.  IT Resources  .......................................................................................................................................... 17 
+7.6. Continuity of Departmental Functions – Action Checklist  ................................................................... 17 
+7.6.1.  All Departments  ..................................................................................................................................... 17 
+7.6.2.  Administration  ....................................................................................................................................... 18 
+7.6.3.  Communications  .................................................................................................................................... 18 
+7.6.4.  Legis lative Services  ............................................................................................................................... 18 
+7.6.5.  Protective Services  .................................................................................................................................  18 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  4/25 
+ 7.6.6.  Finance  ................................................................................................................................................... 18 
+7.6.7.  Planning Department  ............................................................................................................................. 18 
+7.6.8.  Building Department .............................................................................................................................. 18 
+7.6.9.  Environmental Services (Incl. Utilities)  .................................................................................................  18 
+8. Business Continuity Scenario 3: Public Health emergencies including pandemic and epidemic  ............... 18 
+8.1. Assumptions  ............................................................................................................................................... 19 
+8.2. Business Impact Analysis  .......................................................................................................................... 19 
+8.3. Continuity of Governance –  Action Checklist  ....................................................................................... 20 
+8.3.1.  Board Meetings  ...................................................................................................................................... 20 
+8.3.2.  Public Messaging from Elected Officials  .............................................................................................. 20 
+8.3.3.  Keeping Elected Officials Informed  ...................................................................................................... 20 
+8.3.4.  Holding Elections  .................................................................................................................................. 20 
+8.4. Continuity of Public Participation –  Action Checklist  .......................................................................... 20 
+8.4.1.  Public notices and information sharing  .................................................................................................. 20 
+8.4.2.  Receiving and responding to inquiries from the public  ......................................................................... 20 
+8.4.3.  Holding public meetings and town hall events  ...................................................................................... 21 
+8.5. Continuity of Corporate Functions –  Action Checklist  ........................................................................ 21 
+8.5.1.  Human Resources  .................................................................................................................................. 21 
+8.5.2.  Material Resources  ................................................................................................................................ 21 
+8.5.3.  IT Resources  .......................................................................................................................................... 21 
+8.6. Continuity of Departmental Functions in Pandemics and Epidemics –  Action Checklist  ................. 22 
+8.6.1.  All Departments  ..................................................................................................................................... 22 
+8.6.2.  Communications  .................................................................................................................................... 22 
+8.6.3.  Legislative Services  ............................................................................................................................... 22 
+8.6.4.  Protective Services  .................................................................................................................................  22 
+8.6.5.  Finance  ................................................................................................................................................... 23 
+8.6.6.  Planning Department  ............................................................................................................................. 23 
+8.6.7.  Building Department .............................................................................................................................. 24 
+8.6.8.  Environmental Services (Incl. Utilities)  .................................................................................................  24 
+9. Appendices  .......................................................................................................................................................... 25 
+ 
+  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  5/25 
+ 1. Introduction  
+The mission of the Squamish -Lillooet Regional District (SLRD) is to enhance the quality of life of constituents 
+through the facilitation of regional and community services for the b enefit of present  and future generations. 
+Human -induced  and natural hazard events may create a threat to the continuity of SLRD governance and operations. 
+Natural hazard  events include  flood, wildfire, or epidemic. Human -induced  events can be accidental or intentional, 
+and include events such as hazardous material spills or cyber -crime.  Hazard events can occur concurrently, creating 
+compounding effects on the organization, such as a flood impacting the administrative office and a cyber -attack  
+during this period affecting IT systems . Situations like these can stretch  SLRD response capacity, and business 
+continuity necessarily must recognize the possibility of such scenarios.  
+This Business Continuity Plan  (BCP) sets out measures to enable the continuity of SLRD Local Government 
+operations when such events occur . Business continuity and risk management come together in this plan with the 
+intention  to mitigate the effects that a disaster may have in the key areas of Governance, Public Participation, 
+Corporate and Departmental F unctions . The purpose of this plan is to provide a framewor k and tools  for 
+organizational continuity throughout a crisis,  to facilitate recovery  and promote resilience .                                 
+2. Annual Review, Revisions and Distribution 
+2.1. Annual Review 
+This plan is to be  reviewed annually by the senior  management team and is an evergreen document,  
+chang ing in step with organizational change and development. C hanges to the  Plan will be documented in 
+the Revision History.  
+2.1.1.  Minor Revisions  
+Revisions that are considered minor in n ature such as spelling, gramma r and  resource contact 
+information  will be made as required by the Emergency Management Technician . 
+2.1.2.  Major Revisions  
+Revisions that are considered major in nature such as re- organization of information within the 
+document, the addition of sections, the elim ination  or significant change  of content or changes in 
+terminology will be made in consultation with the s enior management  team  and presented to the 
+SLRD Board for final approval.   
+2.1.3.  Revision History  
+Table 1: Revisions to the Business Continuity Plan  
+Revision Number  Description of Change  Reviewed By  Revision Date  
+Initial version 1.0     
+ 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  6/25 
+ 2.2. Record of Distribution 
+The Director of Protective Services , or designate,  will distribu te this BCP as authorized by the Chief 
+Administrative Officer (CAO) . 
+An electronic copy of this  BCP  will be available  to the public  through the SLRD  website at 
+https://www.slrd.bc.ca/emergency -program  and all regional district employees through the SLRD  internal 
+server n etwork . For ease of navigation and to follow the structure of the plan, it is best viewed in digital 
+formats, such as Adobe.  
+As this BCP is revised over time, please r emove or delete previous version s and replace with the current 
+version.   
+ 
+Table 2: Business Continuity Plan Distribution List  
+Plan 
+Number  Copy Type (Paper / 
+Electronic)  Distributed To  Distribution Date  
+1 Electronic:  
+S:\EOC Active 
+Events \EOC Event 
+Master (Copy and 
+name [Event 
+Name_#Task]) \SLRD 
+Emergency 
+Plan\Main Plan     • CAO  
+• Dir. of Legislative & Corporate Services  
+• Communications & Engagement Mgr.  
+• Dir. of Finance  
+• Dir. of Environmental Services  
+• Dir. of Planning & Development 
+Services  
+• Dir. of Protective Services  
+• Fire Chief, Britannia Beach Volunteer 
+Fire Department  
+• Fire Chief, Garibaldi Volunteer Fire 
+Department  
+• Senior Regional Manager, SWE Region, 
+Emergency Management BC  August 14th, 2020  
+3. List of Common Terms  
+Table 3 : List of Common Terms  
+All-Hazards  The SLRD has adopted an all -hazards approach by recognizing and integrating common 
+emer gency management elements across all hazard types, and then supplementing these 
+common elements with hazard specific sub -components to fill gaps only as required. As 
+such, “All -Hazards” does not literally mean preparing to address any and all potential 
+hazards in existence but rather emphasizes the common aspects of all hazards.  
+Critical 
+Infrastructure  Processes, systems, facilities, technologies, networks, assets and services essential to the 
+health, safety, security or economic well -being of people and the effective functioning of 
+government. Disruptions of critical infrastructure could result in catastrophic loss of life, 
+adverse economic effects, and significant harm to public confidence.   
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  7/25 
+ Emergency 
+Operations 
+Centre (EOC)  A designated facility esta blished by a local government or private agency to coordinate the 
+overall jurisdictional response and support to an emergency response.  
+Hazard  A potentially damaging physical event, phenomenon or human activity that may cause the 
+loss of life or injury, property damage, social and economic disruption or environmental 
+degradation.  
+Mutual Aid 
+Agreement  A pre -arranged agreement developed between two or more entities to render assistance to the 
+parties of the agreement.  
+Resilience  The capacity of a system, community or society exposed to hazards to adapt to disturbances 
+resulting from hazards by persevering, recuperating or changing to reach and  maintain an 
+acceptable level of functioning. Resilient capacity is built through a process of empowering 
+citizens, responders, organizations, communities, governments, systems and society to share 
+the responsibility to keep hazards from becoming disasters .  
+Risk  The combination of the likelihood and the consequence of a specified hazard being realized; 
+refers to the vulnerability, proximity or exposure to hazards, which affects the likelihood of 
+adverse impact.  
+Risk 
+Management  The use of policies, practices and resources to analyze, assess and control risks to health, 
+safety, environment and the economy.  
+ 
+4. Scope and Objectives  
+4.1. Scope  
+The scope of this Plan  include s actions required to en able the continued functioning of local government 
+under adverse conditions  that affect the physical work environment, technological work environment, or 
+both. Such conditions may coincide with a natural disaster such as flood or fire requiring the activation of 
+the SLRD Emergency Operations Centr e (EOC), but may  also occur in ways that do not require the  
+activation of an EOC  such as any event that is isolated to the SLRD staff or offices rather than a wider 
+public safety threat . This BCP is designed to be flexible and scalable to ensure continuity  of government in 
+any of these circumstances . It does not include emergency response actions taken to  manage public safety 
+impacts: t he SLRD All -Hazards Plan (AHP) is the primary plan for coordinating emergency  response  
+during major emergencies and disaster affectin g the public.  This BCP facilitates that the availability of  
+local government human and material resources required  to execute the AHP , even when the emergency or 
+disaster has negatively impacted the SLRD  as an organization.  
+4.2. Objectives  
+Business continuity objectives focus on reducing negative impacts across five domains : People, 
+Environment, Assets, Reputation, and Liabilities  (P.E.A.R.L.) . 
+• People – The SLRD’s staff team is its most important resource. Business continuity planning and 
+response ai ms to protect staff from harm  and facilitate their ability to continue working wherever 
+possible . This could include measures designed to protect staff physical and mental health, but 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  8/25 
+ also their privacy, economic well -being, career progression, and their ability to care for their 
+families.  
+• Environment – Business continuity measures are to be conducted in a manner that aim s to 
+minimize negative environmental impact s. Environmentally sustainable business continuity will 
+seek to reduce waste and emissions  while ensuring service delivery for SLRD co mmunities . 
+• Assets – The SLRD is owns and maintains  a wide range of  assets and infrastructure for 
+community benefit.  These assets include equipment, vehicles, structures, and other material 
+resources for which the SLRD  is responsible.  Business continuity measures seek to protect SLRD 
+assets for continuity of services.  
+• Reputation  – Public  trust is an essential component of local government business continuity. 
+Transparent and ethical decision -making promotes public trust and facilitates support from its 
+stakeholders.  
+• Liabilities  – Capture and tracking of risks throughout the business continuity process enables 
+action s to meet immediate needs  while also being aware of, and planning for, longer term and 
+inter-connected effects in order to mitigate  risk.    
+Within this overarching framework of PEARL considerations , specific business continuity objectives have 
+been identified as follows:  
+• Continuity of Governance  
+• Continuity of Public Participation  
+• Continuity of Corporate Functions  
+• Continuity of Departmental Functions  
+For purposes of this BCP, t he continuity objectives identified above have been applied to three broad 
+business impact planning scenarios:   
+• Loss of a ccess to the SLRD Admin istration Office 
+• Loss of i nformation technology infrastructure /systems  
+• Business Continuity during p andemics and epi demics  
+5. Concept of Operations  
+5.1. Phase 1: Readiness and Preparedness  
+The SLRD  will participate in the full spectrum of readiness and preparedness  activities to en able personnel 
+to continue , wherever possible,  to maintain essential functions in an all -hazard s environment. The SLRD  
+readiness activities are divided into two key areas:  
+5.1.1.  Organization Readiness and Preparedness  
+The primary mechanism of SLRD organizational readiness is the application, regular review, and 
+maintenance of this BCP.  
+In addition, data from hazard  and event warning systems  assist in advance planning. These 
+include : 
+• Environment and Climate Change Canada Weather Alert System  
+• BC Ri ver Forecast Centre models  
+• BC Wildfire Service online Wildfire Dashboard  
+• DriveBC Traveler Information System  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  9/25 
+ • BC Hydro Outage Map  and hydro dam spill notifications  
+• Alerts from the Lillooet River Warning System  gauge 
+5.1.2.  Staff Readiness and Preparedness  
+Staff are expected to maintain a level of individual and family preparedness in accordance with 
+SLRD internal policy and the recommendations of Emergency Management BC  (EMBC). This 
+includes:  
+• Maintenance of personal records on the SLRD Alert emergency notif ication  system  
+• Knowing the hazards that may impact their households  
+• Creating  a household emergency plan  
+• Building a h ousehold emergency kit and g rab-and-go bag 
+More information on how to complete these personal prepa redness measures can be found in the 
+Emergency Program section of the SLRD website and the PreparedBC website:  
+https://www2.gov.bc.ca/gov/content/ safety/emergency- preparedness -response -
+recovery/preparedbc  
+5.2. Phase 2: Activation  
+This BCP, or components of this BCP, can be activated by the CAO (or designate) or , the Director of 
+Protective Services  (or designate ). Activation of this BCP is not predicated  on a State of Emergency, 
+whether that be local, provincial or federal, nor is a task number required from EMBC. It should be noted 
+that even with the provision of an EMBC task number, incremental costs associated with BCP activation 
+may not be eligible fo r reimbursement under provincial guidelines. With that said, components of this BCP 
+may be applicable across a wide range of emergency and non -emergency events. Activating this BCP , or 
+components of this BCP , may occur  whenever the tools presented here are required , with any associated 
+expenditure  requiring the authorization of the SLRD Board and the CAO as applicable . Further, it should 
+be noted that the business impact planning scenarios identified in this document may occur concurrently, 
+and the challeng es presented by each have the potential to compound on each other. As such, a scalable 
+activation of BCP components is essential for a resilient response to emergencies.  
+5.2.1.  BCP Activation Decision Guidance  
+The decision whether or not to activate this BCP is h ighly contextual. The following table 
+provides guiding questions that can help determine what components, if any, should be activated 
+in any given situation.  
+Table 4 : BCP Activation Decision Guidance  
+ Work Hours  Non-Work Hours  
+Event with Warning  • Does the risk event impact  staff 
+work space or surrounding 
+area?  
+• Does the risk event impact  staff 
+physically ? 
+• Is staff safety impacted if they 
+continue in their work space 
+and/or surrounding area?  • Does the risk event impact staff 
+work space or surrounding 
+area?  
+• Does the risk event impact  staff 
+physically?  
+• Who should be notified of the 
+risk event?  
+• Is it safe for staff to report  to 
+their work place  the next day?  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  10/25 
+ • Will essential services be 
+impacted?  
+• Will essential services be 
+impacted?  
+ 
+Event without Warning  • Are staff work spaces  
+impacted ? 
+• Have staff been  physically 
+impacted ? Have they safely 
+evacuated or are they 
+sheltering -in-place?  
+• What are the instructions from 
+first responders?  
+• Have essential services been 
+impacted?  
+ • Are staff work spaces 
+impacted ? 
+• What a re instructions from first 
+responders?  
+• Have essential services been 
+impacted  
+ 
+5.2.2.  Alert and Notification Procedures  
+A primary tool for informing SLRD staff of organizational emergency impacts and BCP activation 
+is the SLRD Alert emergency n otification system  provided through the EPACT software 
+application. A  staff user group established in  SLRD Alert  provides a means to send notifications 
+to staff by way of email, text messages, and voice messages via phone . 
+In the event of local IT infrastructure failure, SLRD Alert Messages can be sent from any web 
+browser or IP connection by a staff member with an EPACT  username, password, and the 
+appropriate permissions.  
+In the event of a widespread IT infrastructure failu re, the senior m anagement team will be required 
+to contact their staff by whatever  means  possible  to inform them of the emergency event and BCP 
+measures being implemented, as necessary.   
+Communication  to staff , after confirming their safety and wellbeing,  should include any specific 
+actions required of them to support initial activation of the BCP.  
+5.3. Phase 3: Continuity of Operations  
+Continuity of Operations involves the response measures identified in the three planning scenarios outlined  
+in this BCP , plus  any other business continuity strategies that may be developed during an emergency to 
+meet the specific  needs of the situation.   
+5.4. Phase 4: Reconstitution Operations  
+Reconstitution involves both the recovery of pre -emergency governance, public participatio n, corporate and 
+departmental capacities, as well as the adaptation measures required to mitigate the threat of similar 
+emergencies in the future. This includes debriefs with staff and the development of After Action Reports, 
+capturing and implement ing lessons learned .  
+Reconstitution planning and activities  may begin as soon as the BCP has been activated and be conducted 
+in parallel with business continuity measures. Timely and comprehensive reconstitution planning alleviates 
+pressure on business continuit y resources, and provides the path to return to full organizational functioning.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  11/25 
+ 6. Business Continuity Scenario  1: Loss of a ccess to SLRD 
+Administration Office  – 1350 Ast er Street, Pemberton  
+Loss of a ccess to the SLRD Administration O ffice (“Office”) could be caused by a number of reasons, including 
+pandemic or epidemic, a flood or fire that cuts off road access to the structure, or physical damage to the building 
+caused by any number of potential accidents or hazards.  
+If the O ffice becomes inaccessibl e, a plan for alternate working arrangements for staff is needed in order to facilitate 
+continuity of service . Depending on the impacts, there may be short, medium and long -term arrangements required.  
+This could involve some or all staff working from home,  and/or moving to an alternate physical office location until 
+access to the O ffice has been restored.  
+The emergency  conditions that led to  loss of access to the O ffice may also be affecting SLRD Electoral Area C 
+communities, Lil’wat Nation,  and the Villag e of Pemberton, requiring a coordinated EOC response in addition to 
+business continuity measures.  
+6.1. Assumptions  
+• Loss of access may or may not be due to an event causing damage or destruction to the 
+Office . 
+• If loss of access is caused by a  public health emer gency such as pandemic , a small number of 
+staff may still be able to safely work at the Office with appropriate risk mitigation measures in 
+place.  
+• An alternate office space with IT connectivity may be available within an accessible distance 
+where staff can  be temporarily work and be physically co -located . 
+• Staff working remotely (i.e. from home ) may be the most practical off -site working 
+arrangement  for most employees . 
+6.2. Business Impact Analysis  
+Loss of access to the O ffice may have the following impacts to local government operations:  
+• Lack of office resources and team presence in remote work arrangements has the potential to 
+negatively impact staff communication, engagement and productivity.  
+• The importance of IT i nfrastructure will significantly increase as staff work remotely . This 
+creates additional load  and dependency on IT systems , with the potential for consequential 
+business continuity risk of system  breakdown and service interruption. There may also be an 
+increased risk of cyber -attack during this time .  
+6.3. Continuity of Governance - Action Checklist  
+6.3.1.  SLRD Board Meetings  
+□ Review Policy No. 19-2020, which was developed regarding electronic Board 
+meetings/use of the Zoom platform. In 2020, Ministerial Order M083 enabled fully 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  12/25 
+ electronic Board meetings to occur  while a state of emergency was is effect during 
+the COVID -19 pandemic.  
+ 
+6.3.2.  Public Messaging from Elected Officials  
+□ Enable elected officials  to have the ability to communicate with their constituents in 
+a reliable, accessible and regulatory compliant manner.  
+ 
+6.3.3.  Keeping Elected Officials Informed  
+□ Provide Elected Officials with regular updates of the overall situation, impacts to 
+SLRD administration , stakeholders and communities using the P.E.A.R.L 
+framework:  
+o People  
+o Environment  
+o Assets  
+o Reputation  
+o Liability  
+6.3.4.  Holding  Elections  or Assent Voting  
+□ Consider alternative sites for holding elections , assent voting, mail-in balloting  and 
+any other means that may become possible through Ministerial Orders amending or 
+supplementing permitted processes for voting.  
+ 
+6.4. Continuity of Public Participation -  Action Checklist  
+6.4.1.  Public notices and information sharing  
+□ Prioritize  IT resources for communications staff to enable the use the various online 
+communications channels (e.g., EPact, SLRD website, social media, etc.).  
+6.4.2.  Receiving and responding to  public  inquiries  
+□ Communications staff to develop key public messages in coordination with the 
+management team . 
+6.4.3.  Holding public meetings and town hall events  
+□ Identify  alternate sites to hold public meetings and town hall events , and associated 
+costs and logistics . 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  13/25 
+ 6.5. Continuity of Corporate Functions  – Action Checklist  
+6.5.1.  Human Resources  
+□ Hold regular all staff and departmental check -in meetings. Formalize activities such 
+as virtual flagpole meetings by putting them  in as a regular calendar  item. 
+□ Revie w and update as necessary, Policy No. 17-2020 - Working from Home Policy 
+Due to COVID -19 Pandemi c, which was  developed to outline protocols and 
+procedures with respect to staff working from home.  
+□ Advance Planning item: Consider cross -training staff between departments  to add 
+organizational resilience.  
+6.5.2.  Material Resources  
+□ Advance Planning item: Develop a robust system for document control  to mitigate 
+the risk of losing documents  moving between locations.  
+□ Staff may be authorized to store SLRD vehicles at personal residencies. Confirm 
+with insurance provider.  
+6.5.3.  IT Resources  
+□ Advance Planning item: Develop the intranet on an expedited basis  to assist with 
+document sharing and staff engagement.  
+□ Consider that SLRD office phones can be utilized  by SLRD staff via t heir computers 
+while working from home. Review  Policy No. 18- 2020 - Use of Smartvoice 
+Technology , which was developed with respect to the use of the SLRD's phone 
+system and related protocols while working from home . 
+□ Determine security risks and mitigation strategies for any new software platforms 
+that are to be implemented to support staff workflow . 
+□ With cyber -attacks  on organizations becoming more common,  and the potential for 
+increased risk with remote  work arrangements , robust security protocols and IT 
+systems management are critical.  
+□ Advance Planning item s: Develop an IT policy that would cover security onsite and 
+offsite, and protocols thereto . Ensure some redundancy for the water / wastewater 
+systems in the case of IT failure or cyber -attack . 
+□ Advance Planning item: While the demands on the server should be the same 
+whether people work in the office or remotely, ensure adequate available server 
+space. Confirm sufficient server space, and increase if necessary.  
+6.6. Continuity of Departmental Functions –  Action Checklist  
+6.6.1.  All Departments  
+□ Management team to identify the top three (or more) risks to each department.  
+□ Management team to conduct a project hazard assessment for each department to 
+identify which projects may be undertaken now, deferred until later , abandoned, etc.  
+□ Provide input  on the department functions and the overall organization regarding 
+improvements, risk mitigation, processes, etc. as it relates to event impacts.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  14/25 
+ □ Document the s teps that the SLRD takes to mitigate and manage risks and maint ain 
+safety throughout the event . 
+□ Consider and document ways to hold virtual meetings and any booking processes 
+that may be involved.  
+6.6.2.  Administration  
+□ Consider the appointment of additional Commissioners for Taking Affidavits .   
+6.6.3.  Communications  
+□ Inform the public that the Office is closed , and any known timelines for reopening or 
+other developments concerning service delivery . 
+6.6.4.  Legislative Services  
+□ Advance Planning item: Consider how the SLRD  might  remotely  notarize 
+documents .  Review Response to the COVID -19 Pandemic Omnibus Policy  No. 21-
+2020.  
+□ Advance Planning item: Consider  drafting an omnibus policy  to account for 
+changing service levels.  
+□ Advance Planning item: Consider  and document  how the SLRD would meet 
+FOIPPA  requirements  during remote working conditions.  
+□ Advance Planning item: Consider implications for records management to ensure 
+filing protocol is maintained . 
+□ Consider organizational impacts relating to this event, mitigation actions taken, 
+resolved and outstanding issue s.  
+ 
+6.6.5.  Protective Services  
+□ Maintain  the BCP  in conjunction with the management team . 
+□ Maintain  the All Hazards Plan.  
+6.6.6.  Finance  
+□ Ensure that staff who are directed to work from home are enabled with the IT 
+resources required to do so.  
+6.6.7.  Planning Department  
+□ Consider  how to hold meetings with external parties . 
+□ Advance Planning Item: Consider and document how hearings and other mandated 
+public participation processes may occur.  Review Policy No. 23 -2020 - Electronic 
+Public Hearings.  
+6.6.8.  Building Department  
+□ Advance Plannin g Item: Consider developing an Inspections and B uilding P ermit 
+policy  to account for changing service levels.  Review Building Permit Applications 
+and Inspections during the COVID Pandemic Policy No. 23- 2020.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  15/25 
+ 6.6.9.  Environmental Services  (Incl. Utilities)  
+□ Advance Planning Item: Consider developing an omnibus policy to account for 
+changing service levels.  
+ 
+7. Business Continuity Scenario  2: Loss of Information 
+Technology  Infrastructure  
+Information Technology (IT) has made local governments more efficient, tran sparent and accessible to the public . 
+Over time, the benefits and increased capacities provided by IT infrastructure have morphed into dependencies on IT 
+infrastructure . Failure of IT systems could be caused by a number of natural hazards, human -induced accidents or 
+cyber -crime. The effects could be far reaching, not just within the SLRD, but potentially across the province, the 
+country, or even the globe.  
+Other hazard event impacts may increase reliance on IT infrastructure. For example, the loss of access  to the Office 
+due to pandemic, flood or wildfire would increase the importance of IT systems to SLRD service delivery , whether 
+most staff are working from home or an alternate temporary site. These compounding risks present a considerable 
+challenge to bus iness continuity . 
+7.1. Assumptions  
+• Loss of IT Infrastructure may include:  
+o Loss of network access  
+o Cyber -attack  
+o Loss of physical IT equipment and infrastructure  
+o Loss of information stored on SLRD servers  
+ 
+• Loss of IT Infrastructure may occur during conditions of l oss of a ccess to the Office as well as 
+pandemics or e pidemics  
+ 
+• An IT Disaster Recovery Plan ( in development ) 
+7.2. Business Impact Analysis  
+Loss o f Information Technology Infrastructure  may have the following impacts to local 
+government operations:  
+• Depending on  the scope of the outage, SLRD staff may lose control of or access to:  
+o Email  
+o Telephones  
+o Software required for service delivery  
+o Data assets, including records and other digital documentation  
+o Internet connectivity  
+o HR information  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  16/25 
+ 7.3. Continuity of Governance –  Action Checklist  
+7.3.1.  Board Meetings  
+□ Board meetings may be required to occur in person , electronically, or be deferred.  
+□ There may be safety risks to in -person meetings (disease transmission if there is a 
+concurrent public health emergency, travel risks if there  has been a natural disaster 
+such as flooding concurrent with the IT outage ). Risks may be able to be mitigated 
+such that meetings can occur with at least a minimum number to make quorum.  
+7.3.2.  Public Messaging from Elected Officials  
+□ Enable elected officials  to have the ability to communicate with their constituents in 
+a reliable, accessible and regulatory compliant manner.  
+7.3.3.  Keeping Elected Officials Informed  
+□ Provide Elected Officials with regular updates of the overall situation, impacts to 
+SLRD administration, stakeholders and communities using the P.E.A.R.L 
+framework:  
+o People  
+o Environment  
+o Assets  
+o Reputation  
+o Liability  
+7.3.4.  Holding Elections  
+□ Additional time may be required to notify the electorate of an upcoming election s 
+and details of how and where to vote if IT commun ication systems are down. 
+Newspaper advertising or a mailout with voting papers for a postal vote system may 
+be alternatives.  
+7.4. Continuity of Public Participation – Action Checklist  
+7.4.1.  Public notices and information sharing  
+□ Consider the use of signage, pamphlets and flyers to deliver messages to SLRD 
+constituents.  
+□ Identify any other  communications channels not affected by the IT system failure 
+that may be used . 
+7.4.2.  Receiving and responding to inquiries from the public  
+□ Communications staff to develop key public messages in coordination with the 
+senior management team and the IT Specialist.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  17/25 
+ 7.4.3.  Holding public meetings and town hall events  
+□ Consider  and document  the logistics of advertising and hosting such events without 
+IT Infrastructure , or with the loss of so me systems, such as WIFI or network access . 
+7.5. Continuity of Corporate Functions  – Action Checklist  
+7.5.1.  Human Resources  
+□ Advance Planning Item: Consider human resources impacts if IT failure occurs 
+during remote working conditions.  
+□ Have regular check -ins and “Flag pole Meetings” with staff.  
+□ Advance Planning Item: Consider cross -training staff between departments to add 
+organizational resilience.  
+7.5.2.  Material Resources  
+□ Consider  and document  material resources that may be impacted by IT system 
+failure , such as ordering of  goods and services, operation of critical infrastructure 
+systems, access to project management records such as work in progress schedules 
+and budgets for built infrastructure projects.  
+7.5.3.  IT Resources  
+□ Advance Planning Item: Develop a regular maintenance sche dule for the SLRD’s 
+x10 EOC Ergotron laptops:  
+o MS updates installed successfully,  
+o Sophos endpoint and VPN installed , and  
+o Essential staff VPN logins  added . 
+7.6. Continuity of Departmental Functions–  Action Checklist  
+7.6.1.  All Departments  
+□ Senior m anagement team to identify the top three (or more) risks to each department.  
+□ Senior m anagement team to conduct a project hazard assessment for each department 
+to identify which projects may be undertaken now, deferred until later, abandoned, 
+etc. 
+□ Provide suggestions/thought s on the department and the overall organization 
+regarding improvements, risk mitigation, processes, etc. as it relates to event 
+impacts.  
+□ Document the s teps that the SLRD takes to mitigate and manage risks and maintain 
+safety throughout the event.  
+□ Conside r and document  ways to hold virtual meetings and any booking processes 
+that may be involved.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  18/25 
+ 7.6.2.  Administration  
+□ Consider and document loss of IT impacts to managerial work, special project work 
+and overall SLRD administration.  
+7.6.3.  Communications  
+□ Consider and docum ent loss of IT impacts to internal and external communications.  
+□ Consider and document loss of IT impacts to SLRD social media presence.  
+□ Advance Planning Item: Develop alternative forms of delivery for Public Notices.  
+7.6.4.  Legislative Services  
+□ Advance Planning I tem: develop risk mitigation  strategies  for records management 
+issues that may be associated with lost data assets.  
+□ Advance Planning Item: develop risk mitigation strategies for issues that may arise 
+as the result of a cyber -attack, including information t heft and ransom attacks.  
+□ Consider  organizational impacts relating to this event, mitigation actions taken, 
+resolved and outstanding issues.  
+7.6.5.  Protective Services  
+□ Maintain  the Business Continuity Plan.  
+□ Maintain  the All Hazards Plan.  
+7.6.6.  Finance  
+□ Payroll is a software  based task .  If there is a disruption of IT services, a manual 
+method  would be required to undertake payroll calculations  (e.g., ensure that up -to-
+date source deduction tables are printed out and available, etc.) . 
+□ Consider options for c heque proc essing .  
+ 
+7.6.7.  Planning Department  
+□ Consider and document service delivery impacts due to Loss of IT Infrastructure.  
+7.6.8.  Building Department  
+□ Consider and document service delivery impacts due to Loss of IT Infrastructure.  
+7.6.9.  Environmental Services  (Incl. Utilities)  
+□ Consider and document service delivery impacts due to Loss of IT Infrastructure.  
+8. Business Continuity Scenario  3: Public Health emergencies 
+including pandemic and epidemic  
+An epidemic is the rapid spread of an infectious disease to a large number of people in a given population within a 
+short period of time. A pandemic is an epidemic that has spread across a very large region such as multiple 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  19/25 
+ continents or worldwide. Pandemics and epidemics differ from other natural hazards in that they do not directly 
+cause da mage to material things such as critical infrastructure, buildings, or private property. They can, however, 
+pose a life safety threat to people and impact all aspects of daily life including transportation, workplaces, social 
+activity and the economy.  
+Some  of these business continuity considerations  can be applied where no  formal designation  of pandemic or  
+epidemic  has been declared  by local health authorities , but a situation exists where advance planning is prudent as a 
+precautionary measure.  
+Pandemic and  epidemic business continuity measures will generally involve an increased reliance on IT 
+infrastructure in order to enable physical distancing precautions to  reduce the risk of  transmission of the infectious 
+disease. This does not increase the vulnerabili ty of IT systems, but it does increase the consequences of IT system 
+failure. Criminal enterprise may seek to exploit reliance on IT systems for financial gain and to the detriment of 
+public and private sector organizations. Robust and resilient IT infrastructure is critical to ensuring continuity of 
+SLRD service delivery  under these conditions.  
+Pandemics and epidemics may occur at any time of year, including seasons that see increased risk of wildfire, flood, 
+severe weather, or other natural or human -induced hazards. As such, pandemic and epidemic business continuity 
+measures require  the capacity to enable the emergency response measures and inter -agency coordination needed to 
+effectively manage these risk events  concurrently.  
+8.1. Assumptions  
+• Physical distanci ng among SLRD constituents,  staff, and elected officials will be required  in order to 
+reduce the risk of disease transmission.  
+• There will likely be a maintained or increased demand on SLRD -provided services  such as water, 
+wastewater and solid waste managem ent systems due to people being largely home -based during 
+periods when there is a higher risk of transmission and recommended or ordered by health authorities . 
+• Other  risk events  may occur and require emergency response during pandemic conditions . 
+• Regional travel may be restricted in order to reduce the risk of disease transmission.  
+8.2. Business Impact Analysis  
+Health emergencies  may have the following impacts to local government operations:  
+• Transmittable disease can have wide -ranging public health impacts that are likely to impact  
+staff in some form or another:   
+ 
+o The physical distancing and personal protective equipment  that may be required to 
+reduce the infection rate can  impact workflow processes, staff team cohesion and 
+service delivery.  
+ 
+o Physical distancing can lead to social isolation , mental health and wellbeing impacts.  
+ 
+o The disease itself could affect staff, with illness of staff or family members resulting 
+in their  being unavailable to work.  
+ 
+• The SLRD Board of Directors may require special arrangements to carry out their governance 
+function.  
+ 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  20/25 
+ • Public health cris es also have economic impacts. High unemployment and recession can make 
+it difficult to recover quickly from pandemics and epidemics, and compound the stress of 
+other hazards like flood and wildfire that may occur concurrently . 
+8.3. Continuity of Governance –  Action Checklist  
+8.3.1.  Board Meetings  
+□ Public health measures may render it impractical  or unsafe to meet mandator y 
+inspection and maintenance timelines for SLRD operated infrastructure, pursuant to 
+various bylaws and policies. Consider creation of an Omnibus Bill to provide the 
+CAO discretion to make adjustments to service levels while public health measures 
+are in effect.  
+8.3.2.  Public Messaging from Elected Officials  
+□ Enable elected officials  to have the ability to communicate with their constituents in 
+a reliable, accessible and regulatory compliant manner.  
+8.3.3.  Keeping Elected Officials Informed  
+□ Provide Elected Officials with regular updates of the overall situation, impacts to 
+SLRD administration, stakeholders and communities using the P.E.A.R.L 
+framework:  
+o People  
+o Environment  
+o Assets  
+o Reputation  
+o Liability  
+8.3.4.  Holding Elections  
+□ Consult with the Ministry of Municipal Affairs and Housin g on meeting legislative 
+requirements.  
+□ Consider accessibility issues for vulnerable people if physical space is to be used for 
+casting ballots.  
+8.4. Continuity of Public Participation – Action Checklist  
+8.4.1.  Public notices and information sharing  
+□ Ensure that IT resources are available for communications staff to use the various 
+online communications channels (e.g., SLRD Alert , SLRD website, social media, 
+etc.).  
+8.4.2.  Receiving and responding to inquiries from the public  
+□ Communications staff to develop key public messages in coordination with the 
+management team and IT Specialist.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  21/25 
+ 8.4.3.  Holding public meetings and town hall events  
+□ Consider webinars or other video conferencing platforms as a means of public 
+participation  to the extent possible . 
+8.5. Continuity of Corporate Functions  – Action Checklist  
+8.5.1.  Human Resources  
+□ Consider which staff are best suited  to remain working at the Office and move the 
+majority of staff to remote working environments  as a strategy to reduce the risk of 
+transmission of the virus by reducing the  number of staff working in the Office . 
+□ Develop a system  of authorizing access  to the Office. Review Policy No. 21- 2020 - 
+Working at the SLRD Administration Office during the COVID -19 Pandemic.  
+□ Develop systems to enhance physical distancing and non -transmission of virus for 
+staff authorized to be in the O ffice, which may include  setting up staff  work stations  
+in dispersed locations  within the building.  
+□ Consider the resources that will be required  to support staff wellbeing , which may be  
+impacted by anxiety related to the public health emergency , as well as  the potential 
+increased workloads from managing day -to-day operations  with altered workflow 
+processes  and potentially also participating in the  EOC.  Have regular check -ins with 
+staff and host virtual flagpole meetings  in addition to circulating and encouraging the 
+use of employer provided wellness and mental health supports through third party 
+providers.  
+□ Consider cross -training staff between de partments to add organizational resilience  to 
+the extent possible . 
+8.5.2.  Material Resources  
+□ Advance Planning Item: R eview all assets for risk due to the pandemic . Create an 
+SLRD Asset Register  for risk tracking . 
+□ Develop a process for decontaminating SLRD vehicles after use.  
+□ Consider how to manage outgoing mail, incoming mail, and virtual approval 
+processes. A records management meeting may be helpful. Mail to go to on -site 
+staff. Need staff roster, new daily checklist, checklist process for staff opening mail 
+(e.g., with gloves). A safe delivery process for couriers may be helped with signage 
+in the front foyer with sanitizer.  
+8.5.3.  IT Resources  
+□ Increased cyber risk and cyber scamming related to the situations created by the 
+pandemic.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  22/25 
+ 8.6. Continuity of Departmental Functions  in Pandemics and 
+Epidemics – Action Checklist  
+8.6.1.  All Departments  
+□ Review contracts for potential risk(s) of non -performance/inability to achieve, and 
+any potential mitigation strategies thereto . Need to ensure that both the contractor 
+and the SLRD can fulfill the terms of contracts due to the pandemic . 
+□ Ministerial Orders may be issued as a result of the public health emergency and 
+actions will be required to comply with these. For example, during the COVID -19 
+pandemic, Ministerial Order MO84  required local authorities to  use their best efforts 
+to enter into mutual aid agreements with neighboring jurisdictions to ensure that first 
+responder, waste water, solid waste, and drinking water services were  maintained .  
+□ Some  of the SLRD's operations require cri tical inputs to function (e.g ., water 
+chlorination supplies  for treatment ; water/sewer contractors, etc.) . Develop backup 
+plans with trigger points  if there is the potential for failure in these critical inputs 
+(e.g. have another supplier available if the e xisting one is unable to provide their 
+product ).  
+□ In the development of RFPs and contracts, consider the impacts of the pandemic and 
+whether any terms of these documents require changes as a result thereof . Ensure 
+that both the contractor and the SLRD can  fulfill the terms of a contract during the 
+pandemic . 
+□ Consider that it typically takes more management and communications effort to 
+make remote working efficient and effective, and plan for increased interaction 
+between the senior management team and their departments to ensure they are 
+coping, have the resources they need to work and have clear, agreed short term work 
+plans.  
+□ Consider pandemic / epidemic impacts to managerial work, special project work and 
+overall SLRD administration.  
+8.6.2.  Communications  
+□ Consider and plan for resourcing the increased demand on c ommunications staff 
+throughout the public health emergency . Note that emergency communications 
+requirements to amplify Provincial Health Officer messaging and deliver statements 
+from Elected Officia ls will likely be necessary in addition to regular messages the 
+SLRD would deliver under non -emergency conditions.  
+8.6.3.  Legislative Services  
+□ Consider risk mitigation measures relating to the SLRD’s increased dependence on 
+IT Infrastructure during times of incre ased physical distancing , and the 
+vulnerabilities that may be present as they pertain to records management and cyber -
+crime.  
+□ Consider  risks, mitigation actions taken, items resolved and issues outstanding.  
+ 
+8.6.4.  Protective Services  
+□ Maintain the  Business Continuity Plan . 
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  23/25 
+ □ Maintain the  All Hazards Plan . 
+□ Maintain the  Pandemic Plan.  
+ 
+8.6.5.  Finance  
+□ If the SLRD is required to close facilities, notify MIABC and confer with them about 
+insurance considerations.  
+□ Various negative financial impacts could arise due to the pandemic and various 
+orders and recommendations of the BC Provincial Health Officer . Review po tential 
+impacts to  the SLRD (e.g., loss of tax revenue and fees, increased costs, etc.) as a 
+result of the pandemic . 
+□ Review all grants for risk due to the pandemic  and co nsider the creation of an SLRD 
+Grant Register for risk tracking.  
+□ If the  Office is closed  to the public due to the pandemic, the SLRD will be unable to 
+accept cash and currently there is not the ab ility to accept credit cards.  Payment 
+through the mail may result in late payments. Water user fee payments are already 
+set up online . Consider a system to pay for building permit and other planning fees 
+online . Consider s etting up a credit card payment system so can accept credit card  
+information over the phone . 
+□ Implement transmission risk reduction  measures to enable the signing of cheques and 
+accessing the O ffice to do so, noting the requirement to pay the SLRD's suppliers  in 
+a timely manner . Review the use of email bank transfers and the scanning of 
+deposits . 
+□ Advance Planning Item: Consider the risks, benefits and controls required in 
+develop ing a cheque signing protocol with bank that only requires one  signature for 
+amounts under  a specified amount . 
+□ Implement transmission risk red uction measures for the  process of signing expense 
+forms .  
+8.6.6.  Planning Department  
+□ As much as possible, continue to process and manage  land use applications  as per 
+service delivered prior to the pandemic. Attempt to maintain pre -pandemic timelines 
+for processi ng, capturing exceptions as required in the development of any new 
+Building Inspections policies and omnibus b ills.   
+□ Document any new procedures  that may be required for service delivery  into policies 
+or protocols , as necessary . 
+□ The Bylaw Enforcement O fficer  may be required  to provide assistance in the 
+enforcement of public health orders , requiring new policy and procedures, including 
+safety plans.  
+□ Public  hearings are required  for certain zoning amendments , however this may be 
+difficult to undertake in accordance with prescribed  physical distancing 
+requirements.  During the COVID -19 pandemic, a ministerial order, MO139 allow ed 
+for electronic participation . However,  the SLRD must consider equitable access for 
+the public to participate verbally and in writing in the context of these electronic 
+platforms, and develop policy and procedure to enable this, as required.  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  24/25 
+ 8.6.7.  Building Department  
+□ Consider new protocols that may be required due to the pandemic (e.g., the 
+acceptance of building permit applications or en hanced safety protocols  to conduct  
+inspections ). Review Policy 22 -2020, which  has been developed to address these 
+requirements  and has been posted on the SLRD website.  
+□ Ensure B uilding Department  staff clearly document the regulatory model that is in 
+place,  as well as the version # of Policy 22 -2020 (or other relevant policies, as they 
+will likely be amended over time ) each time staff  take action on a file . When a 
+developer or member of the public  contacts  the Building Department, they should be 
+advised of t he relevant policies that are in place .  Email responses to requests should 
+make explicit reference to applicable policies, stating for example: “Please refer to 
+Policy 22 -2020 - Building Permit Applications and Inspections during the COVID -
+19 Pandemic Loc ated on the SLRD’s website regarding building permit applications 
+and ins pections ”.    
+□ Periodically review applicable policies for amendments that may be required to meet 
+the needs of an evolving pandemic situation.  
+□ Work w ith the Finance  Department  to deve lop a system of  online payments for 
+permit fee s, if possible.  
+□ Consider the use of online video conferencing and screen sharing or other means to 
+enable Building Department staff to safely work on plans together.  
+8.6.8.  Environmental Services  (Incl. Utilities)  
+□ Advance Planning Item: D evelop a  series of actions th at might need to be taken if 
+public health measures become more restrictive in order to ensure continued service 
+delivery (e.g. if cash can no longer be  accepted at transfer stations or  landfill, 
+develop  alternate payment methods) . 
+□ Develop  a back -up plan to manage  the solid was te that is shipped  outside of 
+Canada/BC  in the event that  the U.S./Canada border closes to this transfer . 
+□ Develop a strategy to deal with illegal dumping, with any adjustments that may be 
+required during the pandemic.  
+□ Develo p a plan with regard to the opening and closing of parks and trails . Review 
+any guidance provided by BC Parks guidance and coordinate with  member 
+municipalities  to promote  a consistent regional approach to park a nd trail closures  or 
+restrictions  within SLRD geographic boundaries . 
+□ Ensure that maintenance contractors for critical infrastructure services  have Business 
+Continuity Plans  to mitigate any downstream impacts  their service disruptions have 
+to the SLRD . 
+□ Cons ider potential impacts to contractors  managing the transfer station and water 
+services in Bralorne, Gold Bridge  and Devine.  
+  
+   Business Continuity Plan  
+SLRD Emergency Management Program  
+Version 1.0 July, 2020  25/25 
+ 9. Appendi ces 
+A. IT Disaster Recovery Plan (in development)  
+B. Office Safety Plan  
+C. SLRD Policy No. 1 7-2020 AP –  Working from Home Policy Due  to COVID -19 Pandemic  
+D. SLRD Policy No. 19- 2020 AP – Working at the SLRD Administration Office during the COVID -19 
+Pandemic 
+E. SLRD Policy No. 22- 2020 AP –  Building Permit Applications and Inspections During COVID -19 
+Pandemic 
+F. SLRD Policy No. 23- 2020 BP – Policy  regarding Public Hearings during the COVID -19 Pandemic)  
+G. SLRD Policy No. 24- 2020 Policy to Approve the Squamish- Lillooet Regional District COVID -19 
+Reopening Plan  
+H. Squamish -Lillooet Regional District Response to the COVID -19 Pandemic Omnibus  Bylaw No. 1674-
+2020 
+I. Risk Management Action Checklist  
+J. Risk Register TemplateProject Hazard Assessment Template  
+K. Master Equipment Tracking Sheet Template  
+L. HR Schedule Template  
+M. Business Impact Analysis Template  
+N. Business Continuity Issue Tracking Template

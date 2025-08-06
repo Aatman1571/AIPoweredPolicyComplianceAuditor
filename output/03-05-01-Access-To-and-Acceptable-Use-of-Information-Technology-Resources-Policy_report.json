@@ -1,0 +1,2669 @@
+{
+  "policy": "03-05-01-Access-To-and-Acceptable-Use-of-Information-Technology-Resources-Policy.pdf",
+  "summary": {
+    "score": 0.0,
+    "total": 200,
+    "percentage": 0.0,
+    "grade": "F"
+  },
+  "mappings": [
+    {
+      "id": "4.3.c",
+      "source": "ISO",
+      "text": "Determining the scope of the information security management system, part c): The organization shall determine the boundaries and applicability of the information system management system to establish its scope. When determining this scope, the organization shall consider: interfaces and dependencies between activities performed by the organization, and those that are performed by other organizations. The scope shall be available as documented information.",
+      "sentences": [
+        "The Director of Information Technology shall design ate security administrators for each corporate \nsystem."
+      ],
+      "scores": [
+        0.603
+      ]
+    },
+    {
+      "id": "4.4",
+      "source": "ISO",
+      "text": "Information security management system: The organization shall establish, implement, maintain, and continually improve an information security management system, including the processes needed and thier interactions, in accordance with the requirements of this International Standard.",
+      "sentences": [
+        "The Director of Information Technology shall design ate security administrators for each corporate \nsystem."
+      ],
+      "scores": [
+        0.604
+      ]
+    },
+    {
+      "id": "5.2.e",
+      "source": "ISO",
+      "text": "Policy, part e): The information security policy shall: be available as documented information.",
+      "sentences": [
+        "The accompanying \u201cGuidelines for \nAcceptable Use of IT Resources\u201d (the Guidelines) re inforce and expand on the information \nprovided in the policy.",
+        "Policy Number: 03-05-01 Effective Date: June 9, 201 0  \nPolicy Title: Access To and Acceptable Use of \nInformation Technology Resources Last Review Date:        5 of 10 \n \nConfidential Information \nEmployees are advised that the privacy of informati on sent electronically that is sensitive or \nconfidential in nature, such as personal informatio n about individuals; employee performance or \nother human resource issues; information regarding issues to be discussed in camera, cannot be \nguaranteed."
+      ],
+      "scores": [
+        0.638,
+        0.619
+      ]
+    },
+    {
+      "id": "5.2.f",
+      "source": "ISO",
+      "text": "Policy, part f): The information security policy shall: be communicated within the organization.",
+      "sentences": [
+        "Policy Number: 03-05-01 Effective Date: June 9, 201 0  \nPolicy Title: Access To and Acceptable Use of \nInformation Technology Resources Last Review Date:        5 of 10 \n \nConfidential Information \nEmployees are advised that the privacy of informati on sent electronically that is sensitive or \nconfidential in nature, such as personal informatio n about individuals; employee performance or \nother human resource issues; information regarding issues to be discussed in camera, cannot be \nguaranteed."
+      ],
+      "scores": [
+        0.601
+      ]
+    },
+    {
+      "id": "5.2.g",
+      "source": "ISO",
+      "text": "Policy, part g): The information security policy shall: be available to interested parties, as appropriate.",
+      "sentences": [
+        "The accompanying \u201cGuidelines for \nAcceptable Use of IT Resources\u201d (the Guidelines) re inforce and expand on the information \nprovided in the policy.",
+        "Policy Number: 03-05-01 Effective Date: June 9, 201 0  \nPolicy Title: Access To and Acceptable Use of \nInformation Technology Resources Last Review Date:        5 of 10 \n \nConfidential Information \nEmployees are advised that the privacy of informati on sent electronically that is sensitive or \nconfidential in nature, such as personal informatio n about individuals; employee performance or \nother human resource issues; information regarding issues to be discussed in camera, cannot be \nguaranteed."
+      ],
+      "scores": [
+        0.618,
+        0.604
+      ]
+    },
+    {
+      "id": "5.3.a",
+      "source": "ISO",
+      "text": "Organizatonal roles, responsibilities, and authorities, part a): Top management shall ensure that the responsibilities and authorities for roles relevant to information security are assigned and communicated. Top management shall assign the responsibility and authority for: ensuring that the information security management system conforms to the requirements of this document. Note: Top management can also assign responsibilities and authorities for reporting performance of the information security management system within the organization.",
+      "sentences": [
+        "The Director of Information Technology shall design ate security administrators for each corporate \nsystem."
+      ],
+      "scores": [
+        0.602
+      ]
+    },
+    {
+      "id": "7.3.c",
+      "source": "ISO",
+      "text": "Awareness, part c): Persons doing work under the organization\u2019s control shall be aware of: the implications of not conforming with the information security management system requirements.",
+      "sentences": [
+        "The Director of Information Technology shall design ate security administrators for each corporate \nsystem."
+      ],
+      "scores": [
+        0.62
+      ]
+    },
+    {
+      "id": "A.5.2",
+      "source": "ISO",
+      "text": "Information security roles and responsibilities: Information security roles and responsibilities shall be defined and allocated according to the organization needs.",
+      "sentences": [
+        "The Director of Information Technology shall design ate security administrators for each corporate \nsystem."
+      ],
+      "scores": [
+        0.65
+      ]
+    },
+    {
+      "id": "A.5.3",
+      "source": "ISO",
+      "text": "Segregation of duties: Conflicting duties and conflicting areas of responsibility shall be segregated.",
+      "sentences": [
+        "Segregation of Duties \nThere must be a segregation of duties between indiv iduals responsible for configuring the system \nparameters and those who are responsible for the ro utine administering of the internet monitoring \nsoftware."
+      ],
+      "scores": [
+        0.651
+      ]
+    },
+    {
+      "id": "A.5.4",
+      "source": "ISO",
+      "text": "Management responsibilities: Management shall require all personnel to apply information security in accordance with the established information security policy, topic-specific policies and procedures of the organization.",
+      "sentences": [
+        "The Director of Information Technology shall design ate security administrators for each corporate \nsystem."
+      ],
+      "scores": [
+        0.615
+      ]
+    },
+    {
+      "id": "A.5.36",
+      "source": "ISO",
+      "text": "Compliance with policies, rules and standards for information security: Compliance with the organization\u2019s information security policy, topic-specific policies, rules and standards shall be regularly reviewed.",
+      "sentences": [
+        "Policy Number: 03-05-01 Effective Date: June 9, 201 0  \nPolicy Title: Access To and Acceptable Use of \nInformation Technology Resources Last Review Date:        4 of 10 \n \nGuidelines for Acceptable Use of It Resources \nThe City\u2019s \u201cGuidelines for Acceptable Use of IT Res ources\u201d, available through departmental IT \nManagers and on the City\u2019s Intranet, and provides a ssistance to IT Users in understanding their \nrespective responsibilities and the City\u2019s standard s and expectations.",
+        "The accompanying \u201cGuidelines for \nAcceptable Use of IT Resources\u201d (the Guidelines) re inforce and expand on the information \nprovided in the policy."
+      ],
+      "scores": [
+        0.639,
+        0.619
+      ]
+    },
+    {
+      "id": "A.8.1",
+      "source": "ISO",
+      "text": "User end point devices: Information stored on, processed by or accessible via user end point devices shall be protected.",
+      "sentences": [
+        "IT Users are responsible for the security of mobile  equipment assigned to them."
+      ],
+      "scores": [
+        0.604
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "control_id": "4.3.c",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "4.4",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "5.2.e",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "5.2.f",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "5.2.g",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "5.3.a",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "7.3.c",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "A.5.2",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "A.5.3",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "A.5.4",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "A.5.36",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "A.8.1",
+      "source": "ISO",
+      "coverage": "unknown",
+      "justification": "404 models/gemini-2.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "control_id": "4.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "4.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "4.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "4.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "4.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "4.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.1.h",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "5.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.1.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.1.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.1.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.3.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.3.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.3.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.1.3.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.h",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.i",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.j",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.k",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "6.2.l",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.4.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.4.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.4.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.4.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.3.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.3.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.3.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "7.5.3.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "8.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "8.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "8.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.1.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.1.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.1.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.1.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.2.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.2.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.2.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.2.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.2.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.2.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.2.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "9.3.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.2.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "10.2.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.9",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.11",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.12",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.14",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.15",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.16",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.17",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.18",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.19",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.20",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.21",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.22",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.23",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.24",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.25",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.26",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.27",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.28",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.29",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.30",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.31",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.32",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.33",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.34",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.35",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.5.37",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.4",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.6.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.4",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.9",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.11",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.12",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.7.14",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.4",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.9",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.11",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.12",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.14",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.15",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.16",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.17",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.18",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.19",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.20",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.21",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.22",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.23",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.24",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.25",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.26",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.27",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.28",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.29",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.30",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.31",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.32",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.33",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    },
+    {
+      "control_id": "A.8.34",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found."
+    }
+  ],
+  "remediations": [
+    {
+      "control_id": "4.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "4.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "4.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "4.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "4.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "4.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.1.h",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "5.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.1.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.1.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.1.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.3.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.3.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.3.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.1.3.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.h",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.i",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.j",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.k",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "6.2.l",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.4.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.4.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.4.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.4.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.3.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.3.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.3.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.3.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.3.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "7.5.3.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "8.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "8.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "8.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.1.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.1.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.1.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.1.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.2.1.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.2.1.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.2.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.2.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.2.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.2.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.2.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "9.3.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.2.a",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.2.b",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.2.c",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.2.d",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.2.e",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.2.f",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "10.2.g",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.9",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.11",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.12",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.14",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.15",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.16",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.17",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.18",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.19",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.20",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.21",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.22",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.23",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.24",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.25",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.26",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.27",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.28",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.29",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.30",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.31",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.32",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.33",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.34",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.35",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.5.37",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.4",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.6.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.1",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.4",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.9",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.11",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.12",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.7.14",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.2",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.3",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.4",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.5",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.6",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.7",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.8",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.9",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.10",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.11",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.12",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.13",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.14",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.15",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.16",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.17",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.18",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.19",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.20",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.21",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.22",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.23",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.24",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.25",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.26",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.27",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.28",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.29",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.30",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.31",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.32",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.33",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    },
+    {
+      "control_id": "A.8.34",
+      "source": "ISO",
+      "coverage": "none",
+      "justification": "No relevant content found.",
+      "remediation": "No suggestion available."
+    }
+  ]
+}

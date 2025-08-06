@@ -1,0 +1,238 @@
+1 
+Version 1.0                                                                                                                                                         2019  
+                                                                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Continuity Policy 
+2019/20  
+ 
+ 
+Not Protectively Marked  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+Version 1.0                                                                                                                                                         2019  
+                                                                                                             
+ 
+Contents  
+Policy Statement ................................ ................................ ................................ ................................ ... 3 
+Procedure  ................................ ................................ ................................ ................................ ..............  3 
+Introduction  ................................ ................................ ................................ ................................ ............  3 
+Aim  ................................ ................................ ................................ ................................ ..........................  3 
+Objectives  ................................ ................................ ................................ ................................ ..............  3 
+Corporate Priorities and Core Business Activities  ................................ ................................ ..........  4 
+Responsibilities  ................................ ................................ ................................ ................................ ..... 5 
+Business Continuity Pl anning Process  ................................ ................................ .............................  5 
+Completed Business Continuity Plans  ................................ ................................ ..............................  5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Version 1.0                                                                                                                                                         2019  
+                                                                                                             
+Introduction  
+This policy promotes the development and maintenance of Business Continuity (BC) plans 
+that ensure, as far as is reasonably practicable, Mid Sussex District Council (MSDC) can 
+continue to carry out its civil protection functions and maintain critical servi ces in the event of 
+an emergency or disruption in compliance with the Civil Contingencies Act (CCA) 2004.  
+Policy Statement  
+Mid Sussex District Council (MSDC) will implement this policy across all areas of the 
+organisation to ensure the provision of its sta tutory duties and critical services during times 
+of disruption. In developing this policy, MSDC has followed the guidance contained within 
+Chapter 6 of the Emergency Preparedness Manual (Cabinet Office, 2012) and the 
+International Organisation for Standard isation (ISO) 22301.  
+ 
+In order to remain effective, this policy should be reviewed every two years, following 
+significant organisational changes or a disruptive incident.  
+ 
+MSDC Risk Management  
+The Business Continuity Management (BCM) and strategic risk management arrangements 
+for MSDC are overseen by the Council’s Corporate Safety and Risk Management Group, 
+and Emergency Planning Manager. However, all MSDC members and staff are committed to 
+the Council’s B CM p rogramme  and promoting organisational resilience .  
+Procedure  
+Introduction   
+Business continuity can be defined as  “The capability of an organisation to continue the 
+delivery of products or services at acceptable levels following a disruptive incident.”  
+(BCI GPG, 2018).    
+ 
+Under the Civil Contingencies Act 2004, Local Authorities, as Category 1 responders, have a 
+statutory duty to maintain BC plans and promote BCM. Therefore, this policy has been 
+devised to promote the development and maintenance of BCM within MSDC. A lexicon of 
+BC terms can be found in Appendix A.  
+Aim 
+The aim of this policy is to support MSDC to , as far as is  reasonably  practicable, continue to 
+deliver  its statutory duties during times of disruption in accordance with the Civil 
+Contingencies Act (CCA) 2004.  
+Objectives  
+ 
+ Identify activities and processes that are essential to delivering  MSDC’s  critical 
+services  
+ Understand the impact of their disruption or loss.  
+ Anticipate risks to their delivery, with the purpose of mitig ating them  
+ Create and maintain adaptable and tested plans that restore activities to pre -
+determined levels  during and following times of disruption . Scope  
+ 
+BC Plans will define the scope of the incidents that they are intended to address. These 
+types of incidents will generally fall into two categories:  
+4 
+Version 1.0                                                                                                                                                         2019  
+                                                                                                             
+ 
+ Localised event – something that impacts the district , which may be resolved by the 
+activation of a single plan or part of a plan, without the need to activate a county wide 
+response.  
+ County -wide event – something that affects the wider area, for example major power  
+outage or a complete IT infrastructure failure.  
+ Minor - interruption affecting small number of services for a short period of time – e.g. 
+a one day strike, single office failure, short -term power cut or weather event. These 
+may stretch resources beyond a normal operational response and require tactical co -
+ordination.  
+ Major - interruption affecting the whole organisation and possibly the wider area for 
+a longer period of time – loss of Oakland’s office facilities, prolonged strike action, 
+flu pandemic or a raising of the national threat level. Such incidents woul d require 
+strategic oversight from senior management and other emergency plans may also 
+be invoked.  
+ 
+It is impractical to generate plans  for every possible scenario; therefore, plans should pertain 
+to the most common areas affected by disruption. These  are: 
+ 
+ Loss of access to a main building (e.g. fire, flood, extreme weather)  
+ Substantial reduction in staff (e.g. industrial action, pandemic  flu, Noro virus)  
+ Loss of IT systems.  
+ Loss of data,  vital or sensitive  records.  
+ Loss of utilities.  
+ Loss of specialist e quipment / specialist staff.  
+Corporate Priorities and Core Business Activities  
+The Corporate Priorities are:  
+ 
+ Corporate Priorities – (Better Lives, Better Environment, Better Services)  
+ Customer Service Standards  
+ Statutory Duties  (i.e. Waste Collection, Re venues and Benefits)  
+ Financial Performance  
+ 
+The Core Business Activities are:  
+ 
+1. Preservation of life and the protection of vulnerable people  
+2. Respond to major incidents and emergencies  
+3. Provide statutory council services  
+4. Warning and informing the public  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Version 1.0                                                                                                                                                         2019  
+                                                                                                             
+Benefits  
+Effective BCM will enable MSDC to:  
+ 
+ Identify, mitigate and manage risks to its operations  
+ Improve its capability to deal with disruptions  
+ Continue to provide critical services  to the public during a disruption  
+ Effectively utilise available personnel, facilities and resources  
+ Efficiently support the return to a state of normality after a period of disruption  
+ Protect the reputation of the Council  
+ Protection of residents during an incident  
+Responsibilities  
+The roles and responsibilities concerning the Council’s Business Continuity Policy are 
+contained in Appendix B . 
+Business Continuity Planning Process  
+The initial steps of developing an effective BCM programme consist of conducting a 
+Business Impact Analysis (BI A) and Risk Assessment. Refer to Appendix C for details of the 
+planning process, and Appendix D for the BC plan template  
+ 
+The Council will ensure that key staff (BULs) are suitably trained in BCM and have 
+participated in an internal and service specific ex ercises.  
+Completed Business Continuity Plans  
+Once completed and validated by an exercise, which should take place at least once a year  
+or following a live activation, all BC plans will be made accessible to MSDC staff via The 
+Wire (Policies and Procedures ) and the Council’s shared M -Drive  
+ 
+Contact  
+For more information on MSDC’s BC policy or BCM programme, please contact the 
+Emergency Planning Manager: emergencies@midsussex.gov.uk  
+ 
+ 
+ 
+Signed CEO  
+ 
+…………………………………………  
+ 
+Date: 09 /04/2019

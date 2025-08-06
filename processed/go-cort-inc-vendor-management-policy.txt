@@ -1,0 +1,204 @@
+Go-Cort, Inc. Vendor Management Policy
+ 
+Last Update Status: Updated January 2021
+ 
+ 
+ 
+1.
+Overview
+ 
+The Go-Cort, Inc. (DBA Apptoto) Vendor Management Team is tasked with employing the right
+ 
+vendors and contractors, in line with the organization’s financial, corporate, and security focused
+ 
+objectives. The team shall establish a coordinated plan and program for information technology
+ 
+(IT) implemented and maintained through established Go-Cort, Inc. policies, standards and
+ 
+procedures. All interactions with vendors should include a clear paper, digital, and audit trail.
+ 
+ 
+2.
+Purpose
+ 
+The purpose of this program is to smoothly manage the vendor relationship and ensure the
+ 
+partnership is productive, meets security requirements, and contributes to the financial goals of
+ 
+the business. The team is responsible for overseeing seven pillars of Vendor Management:
+ 
+2.1.
+Vendor Selection. It’s essential to have a strong process for selecting new vendors as
+ 
+needed. This may entail requesting and reviewing fundamental business documents like
+ 
+OFAC checks and secretary of state checks.
+ 
+ 
+2.2.
+Risk Assessment. Determine the risk and potential business impact of a vendor, product
+ 
+or service. Any regulatory risk is essential to evaluating the overall risk a vendor poses to
+ 
+the organization.
+ 
+ 
+2.3.
+Due Diligence. Request essential due diligence documents, like a SOC report, financials,
+ 
+business continuity and disaster recovery documentation.
+ 
+ 
+2.4.
+Contractual Standards. Develop thorough standard contract terms and conditions before
+ 
+entering contract negotiations. Keep it fair and reasonable for both parties.
+ 
+ 
+2.5.
+Reporting. Standard reporting should be developed for all lines of the business and
+ 
+management team.
+ 
+ 
+2.6.
+Ongoing Monitoring. This is a valuable best practice and a regulatory expectation.
+ 
+Analyze vendors according to an annual calendar, not just during vendor vetting, to help
+ 
+eliminate concerns.
+ 
+ 
+2.7.
+Exit Strategy. A predetermined course of action for terminating a vendor relationship is in
+ 
+place prior to contracting.
+ 
+ 
+3.
+Scope
+ 
+This policy applies to all contracts with third-party providers that:
+ 
+●
+have a critical impact on the success of strategic projects and services
+ 
+●
+have an expected duration of six or more months
+ 
+●
+carry significant risk to the Go-Cort, Inc. business or its customers
+ 
+●
+play a vital role in operations
+ 
+●
+may be difficult to change in the short term
+ 
+1
+ 
+●
+require continuous monitoring
+ 
+●
+have complex dispute and problem-solving mechanisms
+ 
+●
+access or manage substantial critical or sensitive data
+ 
+ 
+4.
+Roles and Responsibilities
+ 
+4.1.
+The Apptoto Vendor Management Team shall be ultimately responsible for the correct
+ 
+and thorough completion of IT policies, standards, and procedures.
+ 
+ 
+4.2.
+Appointed members of the Team shall:
+ 
+●
+be responsible for the development of requirements
+ 
+●
+support vendor selection and contract negotiation
+ 
+●
+ensure that the vendor agreement is conducted per the contract
+ 
+●
+communicate the status of the contract to stakeholders in a timely manner
+ 
+●
+establish service level agreement standards and monitor performance against
+ 
+these
+ 
+●
+ensure that key risks are identified and monitored
+ 
+●
+ensure that problems, issues, disputes and other matters are resolved timely
+ 
+●
+ensure that the contract termination and transition is performed effectively and
+ 
+efficiently
+ 
+ 
+ 
+5.
+Policy Compliance
+ 
+5.1.
+Compliance Measurement
+ 
+Go-Cort, Inc. will verify compliance to this policy through various methods, including but
+ 
+not limited to, business tool reports, internal and external audits, and feedback from
+ 
+employees.
+ 
+ 
+ 
+5.2.
+Exceptions
+ 
+Any exception to the policy must be approved by Go-Cort, Inc. in advance.
+ 
+ 
+ 
+5.3.
+Non-Compliance
+ 
+Failure to comply with this policy may result in disciplinary action, up to and including
+ 
+termination.
+ 
+ 
+6.
+Revision History
+ 
+ 
+ 
+2
+ 
+Date of Change
+ 
+Responsible
+ 
+Summary of Change
+ 
+November 2020
+ 
+Frank Cort
+ 
+Adopted and customized to apptoto.com
+ 
+January 2021
+ 
+Frank Cort
+ 
+Customized to Go-Cort, Inc. (DBA Apptoto)

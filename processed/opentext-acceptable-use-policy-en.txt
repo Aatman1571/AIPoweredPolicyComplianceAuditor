@@ -1,0 +1,140 @@
+OT Cloud  Services  Acceptable  Use Policy   Page  1 of 3   
+ 
+Acceptable Use Policy  
+1. INTRODUCTION  
+The purpose of this Acceptable Use Policy  (“AUP ”) is to describe the acceptable conduct in using OpenText cloud s ervices 
+(“Services”), as well as such conduct that is unacceptable and not permitted. If you have any questions regarding this AUP, 
+please contact us at https://www.opentext.com/contact .   
+Each Customers is responsible for its violations  of this AUP and violations  by its Authorized Users. In the interest  of maintaining  
+a high quality service for Customers and the general public. OpenText asks everyone subject to this AUP to report any 
+suspected violation of this AUP to OpenText  at https://www.opentext.com/contact . 
+Subject to applicable  laws and  the respective Cloud  Services Agreement,  OpenText:  
+• will, in its discretion, enforce compliance with  this AUP  through monitoring the use of  the Services and may take any 
+of the actions described in Section 5 below, including suspending or terminating an individual user account or the full Services;  
+• may cooperate with legal  authorities  and/or third parties  in the investigation of  any suspected or alleged crime or civil 
+wrongdoing;  
+• may remove any Material where OpenText determines it  to be  necessary to comply with the law or  which may subject 
+OpenText to liability or which may violate this AUP.  
+OpenText  does  not exercise editorial  control  over any Customer  Material  processed, created  or accessible using the 
+Services. Customer is solely  responsible for losses which result  from Customer Material or violation of this  AUP. 
+OpenText’s failure to enforce this AUP, for whatever reason, shall not be construed as a waiver of its right to do so at any time.  
+2. GENERAL  USE,  SECURITY,  AND BACK UP 
+Effective prevention of harm to users of  the Services or to the Service itself requires the participation of every individual user:  
+2.1 Password. Your password provides access to your account. You are responsible for keeping your password secure, 
+and you may not share your password and account access , including account name(s), passwords, personal 
+identification  numbers  (“PIN”), security tokens  or similar  information or  devices  used for  identification  and 
+authorization purposes , with unauthorized users.  You must immediately  notify  OpenText  in the event  you become  
+aware of, or suspect,  any unauthorized use of a user account  or account  password issued to you or any other breach 
+of security. You must adopt adequate security measures to prevent or minimize unauthorized use of your account, 
+including choosing a password that is not easy to guess  and changing it regularly .  
+2.2 User Authentication. You may  not attempt to circumvent user authentication or security of any  host, network  or 
+account. This includes, but is not limited to, accessing data not  intended for you, logging into or making use of a 
+server, account , software  or service you are not expressly authorized to access, or probing the security of other 
+servers, accounts, software, services or networks. Use or distribution of tools  designed for or which have the 
+functionality of compromising security is prohibited.  Examples  of these tools  include,  but are not limit ed to, password  
+guessing  tools , cracking tools  or network  probing tools.  You may not attempt  to interfere with service to any user, host  
+or network. This includes, but is not limited to, “flooding” of networks, deliberate attempts  to overload  a service,  denial  
+of service attacks  and attempts  to “crash” a host.  Users who violate service, systems or network security may incur 
+criminal or  civil liability.  OpenText  will cooperate with investigations of violations  of other services, systems or network 
+security, including cooperating with law enforcement authorities in the investigation of suspected criminal violations.  
+2.3 Backup. In addition to the backup efforts utilized by OpenText , as may be further detailed in the Cloud Services 
+Agreement, OpenText  recommends  you perform  regular  backups  of your data and regularly  perform  a data “dump”  
+(archive) of all your files stored in the Services. Any sensitive  or important files should be backed up on your local 
+computer system or storage facilities/services prior to uploading them to the Services.  
+3. UNA CCEPTABLE CONDUCT  
+If your use of the Services causes harm to the Services or causes harm to others or if you encourage, facilitate , or assist any 
+third party, or if you do any of the following, you will be in violation of this  AUP: 
+3.1 engage in activity  that harms  or disrupts  the operation or performance of the Services;  
+3.2 misrepresent your identity, impersonate any person or attempt to gain access to or illegally track any account, user, 
+data, device,  service, system, or network related to the Services;  
+3.3 use or manipulate the Services in any manner  not expressly permitted by OpenText ; 
+3.4 use the Services in a manner that results in excessive bandwidth usage, as determined by OpenText (see also 
+Section 4 below);  
+
+OT Cloud  Services  Acceptable  Use Policy   Page  2 of 3  3.5 use the Services and/or upload or download any Material to or from the Services for  any illegal purpose,  or to publish,  post,  
+share,  copy,  store,  backup or distribute any illegal  files or data, including infringing, obscene, threatening, libelous, or 
+otherwise unlawful or tortious Material, including Material that is harmful to children or that violates  privacy rights;  
+3.6 use the Services to publish,  post,  share,  copy,  store,  backup or distribute Material  protected by intellectual  property 
+rights of a third party unless you own or have necessary rights to such Material;  
+3.7 use the Services to publish, post, share, create, copy, store, backup or distribute Material that contains viruses, 
+worms, time  bombs,  Trojan horses  and other  harmful  or malicious  code,  files, scripts,  agents  or any other  similar  
+software that may damage the operation of the Services or another person’s device, service  or property;  
+3.8 use or upload any Material, including but not limited to, code that as a condition for use may require disclosure or 
+mandatory licensing of proprietary or other code (including source code) ; any Material  used or uploaded by Customer 
+in connection with the  access and use of the Services must : (i) comply with OpenText  and other applicable license  
+and service terms;  and (ii) not  disrupt or cause harm to any of OpenText’s  or any third party’s systems or 
+environment s.  
+3.9 engage in online activities  that would permit or encourage other  parties  to cause damage to the Services;  
+3.10  except as expressly permitted under applicable law, directly or indirectly reverse engineer, decompile, disassemble, 
+modify, reproduce or create derivative works of the Services;  
+3.11  alter or modify  or bypass  any disabling mechanism,  which  may be included in Services,  including  tampering with the 
+security of the Services or tampering  with other customer accounts of OpenText;  
+3.12  assign,  sublicense,  rent, timeshare,  loan,  lease or otherwise transfer  the Services;  
+3.13  remove or alter any proprietary notices ( e.g., copyright, trademark notices, legends, etc.) from the Services or copy 
+any ideas, features, functions, or graphics of the Services;  
+3.14  build or assist  someone else to build a competitive  solution using similar  ideas,  features,  functions,  or graphics  of the  
+Service,  or allow  any person or entity  that offers  or provides  services that are competitive to or with OpenText’s 
+products and/or services to use or access the Services, or encourage any other Customer to use a service that 
+competes with the Services;  
+3.15  use the Services to send unsolicited  advertising and/or  promotional  materials,  including,  without  limitation,  ‘spam’ or 
+bulk e-mail, including without limitation any use of the Services in violation of the Telephone Consumer Protection  
+Act, the Junk  Fax Prevention  Act, or the CAN-SPAM Act, as well as the laws and regulations  implementing the 
+“Privacy and Electronic  Communications”  directive issued by  the European Union (2002/58/EC)  and any replacement 
+legislation;  
+3.16  attempt  to probe,  scan  or test the vulnerability  of the Services or to breach  the security or authentication measures 
+without proper authorization;  
+3.17  use the Services or upload any Material to the Services in furtherance of or in connection with any activity  that violates  
+applicable  local, state or national laws  and regulations , including, but, not limited to : (i) export  and import control laws 
+of Canada, the United States, the European Union, or other countries ; (ii) export restrictions administered by the 
+U.S. Department of Commerce Bureau of Industry and Security; (iii) economic and trade sanctions imposed by the 
+U.S. Department of Treasury Office of Foreign Asset Control ; (iv) laws relating to data privacy, international 
+communications and the transmission of data; or  
+3.18  use any artificial intelligence (AI) system provided with the Services to:  (i) generate content that may harm or promote 
+the harm of individuals or a group, such as: facilitating methods of harassment or bullying to intimidate, abuse, or 
+insult others; or generating content that may have unfair or adverse impacts on people, part icularly impacts related 
+to sensitive or protected characteristics; (ii) make automated decisions in domains that affect material or individual rights or well -being ( e.g., finance, l egal, employment, healthcare, housing, insurance, and social welfare) ; (iii) mislead 
+others into thinking that generative AI content was created by a human. Unacceptable risk us age (as defined in the 
+EU AI Act or per industry standards) is prohibited.  
+4. NETWORK PERFORMANCE  
+The Services, and accounts provided thereon, operate on shared network resources. Excessive use or abuse of these shared 
+network  resources by  one user may have a negative  impact on  all other  users.  You are prohibited from misusing network 
+resources in a manner that impairs network performance.  
+5. CONSEQUENCES  OF VIOLATIONS  OF THIS  AUP 
+OpenText  may take action in response to complaints,  including but not limited  to any one or more  of the following:  
+5.1 written  or verbal  warnings;  
+5.2 suspend certain  access privileges;  
+5.3 suspend your user account  or the Services;  
+5.4 terminate your user account  or a respective  Cloud Services  Agreement;  
+5.5 bill you for any administrative costs and/or  reactivation  charges;  
+OT Cloud  Services  Acceptable  Use Policy   247-000013-001  5.6 bring legal  action to enjoin or prohibit further  violations  and/or  to collect  damages,  if any, caused by violations  of this 
+AUP; or 
+5.7 take any action  as directed  by a governmental  agency,  court, regulator or law enforcement  agency  having jurisdiction.  
+6.GENERAL  TERMS
+6.1 THE TERMS OF YOUR USE OF THE SERVICES, AND CERTAIN  LIMITATIONS  OF LIABILITY, EXCLUSION OF
+WARRANTIES, AND INDEMNIFICATION ARE DETAILED IN THE CLOUD SERVICES AGREEMENT BETWEEN 
+OPENTEXT AND YOU OR YOUR COMPANY. IN THE CASE OF ANY CONFLICT BETWEEN THIS AUP AND  THE 
+CLOUD SERVICES AGREEMENT, THE TERMS OF THE  CLOUD SERVICES AGREEMENT SHALL CONTROL.  
+6.2 You acknowledge that you have read this AUP and understand it and agree to be bound by all its terms and 
+conditions. If  any provision of this AUP is held by a court of competent jurisdiction to be contrary to law, the provision 
+shall be modified by the court and interpreted so as best to accomplish the objectives of the original provision to the 
+fullest extent permitted by law, and the remaining provisions of the AUP shall remain in effect . The parties  intend that 
+the provisions  of this AUP be enforced to the fullest extent permitted by applicable law. Accordingly, the parties agree 
+that if any provisions are deemed not enforceable, they shall be deemed modified to the extent necessary to make 
+them enforceable and in such manner as  comes  closest  to the intentions  of the parties  to this AUP  as is possible.  
+This AUP will inure to the benefit of and be binding upon the parties, their permitted successors and assigns.  
+7.INTERPRETATION
+In this AUP, unless  the context  requires  otherwise, capitalized terms set out herein have the following meanings.
+7.1 “Authorized  User ” means  any employee or contractor  of Customer  or other  individual  or entity  who is authorized by 
+Customer to access and use the Services or who use the Services under Customer’s account.  
+7.2 “Cloud Services Agreement ” means any subscription services agreement between Customer and OpenText 
+regarding the provision of Services by OpenText.  
+7.3 “Customer ”, “you”, and “ your ” means the Customer authorized under a Cloud Services Agreement to access and 
+use the Services and includes the Customer’s Authorized Users.  
+7.4 “Material ” means all forms of communication, data, code or content , including, but not limited to,  documents, 
+graphics , images, , software, software code or executable programs, Customer -created code or content, audio  or 
+video recordings, and anything  Customer  or its users creates, uploads, store s, sends, receive s, or shares through  
+the Services. Customer is responsible for complying with all terms of use for any Material  when using the Services.  
+7.5 “OpenText ” means OpenText Corporation and/or any subsidiary or affiliate of Open Text Corporation. 
+OPENTEXT MAY  REVISE THIS  POLICY  AT ANY TIME,  INCLUDING  BY POSTING A NEW  VERSION AT THIS  
+WEBSITE ww w.opentext.com/agreements . 
+Revision:  July 1 , 2024
