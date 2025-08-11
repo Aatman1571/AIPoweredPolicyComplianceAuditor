@@ -70,7 +70,7 @@ GEMINI_API_KEY=your_gemini_key
 
 ### 4️⃣ Launch Dashboard
 ```bash
-streamlit -m run scripts/dashboard.py
+streamlit run scripts/dashboard.py
 ```
 
 ---
@@ -78,27 +78,26 @@ streamlit -m run scripts/dashboard.py
 ## 📊 Example Output
 
 ### **Upload and Audit Execution**
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5ac2fcc2-6304-43ab-b5ed-2b3a3a5dd2c6" />
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/3ba582fc-21b2-46e2-859b-5dae92699587" />
 
 ### **Compliance Overview**
-<img width="975" height="440" alt="image" src="https://github.com/user-attachments/assets/f15c9170-6226-46d5-af7e-0df305af9643" />
-
-### **Remediation Suggestions**
-<img width="975" height="442" alt="image" src="https://github.com/user-attachments/assets/2a8709e5-2be4-4497-8367-c432a0d53728" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/e87d1d85-64fd-4461-9741-e3d1a4cc3d2d" />
 
 ### **Matched Controls**
-<img width="975" height="439" alt="image" src="https://github.com/user-attachments/assets/5ecf3d1c-14fe-48e2-aa83-c6092211f087" />
-<img width="867" height="487" alt="image" src="https://github.com/user-attachments/assets/ae0b29c5-dac6-4133-b343-f1a2f26f7869" />
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/26409b64-8586-450c-87c2-c26687c26a8c" />
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/a53acfbd-c2d0-4a00-b7a3-d7fd0a367e5a" />
+
+### **Remediation Suggestions**
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/43d50da8-ba71-4bdf-b25a-4d96b661cd1f" />
 
 ### **Gap Analysis**
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c9198835-1490-4ba0-b8e7-bf7283e15563" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/95cdd95b-6ff1-4158-ab8a-7df81d613589" />
 
 ### **Compliance Score**
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/f44f05b3-64bc-4ee2-afee-97b1b225d74e" />
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/2789c70e-d8b9-4232-94a6-739e929606a2" />
 
 ### **PDF Audit Report**
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/779ba169-eeb5-44c6-8bd9-fd290ce03658" />
-
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/b354baff-450e-4e7e-8328-9f5974024bd5" />
 
 ---
 
