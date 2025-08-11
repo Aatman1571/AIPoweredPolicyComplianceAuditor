@@ -77,38 +77,26 @@ streamlit -m run scripts/dashboard.py
 
 ## 📊 Example Output
 
+### **Upload and Audit Execution**
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5ac2fcc2-6304-43ab-b5ed-2b3a3a5dd2c6" />
+
 ### **Compliance Overview**
-![Compliance Overview]
 <img width="975" height="440" alt="image" src="https://github.com/user-attachments/assets/f15c9170-6226-46d5-af7e-0df305af9643" />
 
 ### **Remediation Suggestions**
-![Remediation Suggestions]
 <img width="975" height="442" alt="image" src="https://github.com/user-attachments/assets/2a8709e5-2be4-4497-8367-c432a0d53728" />
 
-
-### **Upload and Audit Execution**
-![Policy Upload]
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5ac2fcc2-6304-43ab-b5ed-2b3a3a5dd2c6" />
-
-
 ### **Matched Controls**
-![Matched Controls]
 <img width="975" height="439" alt="image" src="https://github.com/user-attachments/assets/5ecf3d1c-14fe-48e2-aa83-c6092211f087" />
 <img width="867" height="487" alt="image" src="https://github.com/user-attachments/assets/ae0b29c5-dac6-4133-b343-f1a2f26f7869" />
 
-
 ### **Gap Analysis**
-![Gap Analysis]
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c9198835-1490-4ba0-b8e7-bf7283e15563" />
 
-
 ### **Compliance Score**
-![Compliance Score]
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/f44f05b3-64bc-4ee2-afee-97b1b225d74e" />
 
-
 ### **PDF Audit Report**
-![Audit Report PDF]
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/779ba169-eeb5-44c6-8bd9-fd290ce03658" />
 
 
